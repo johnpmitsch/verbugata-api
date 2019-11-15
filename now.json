@@ -3,17 +3,7 @@
   "builds": [{ "src": "server.js", "use": "@now/node-server" }],
   "routes": [
     {
-      "src": "/",
-      "dest": "/server.js",
-      "methods": ["GET"]
-    },
-    {
-      "src": "/verbs",
-      "dest": "/server.js",
-      "methods": ["GET"]
-    },
-    {
-      "src": "/conjugations",
+      "src": "/(.*)",
       "dest": "/server.js",
       "methods": ["GET"]
     }
