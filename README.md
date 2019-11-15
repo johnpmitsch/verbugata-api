@@ -1,8 +1,16 @@
 # Verbugata API
 
-Backend API server for www.verbugata.com
+Backend API server for www.verbugata.com at api.verbugata.com
 
-## Usage
+## Routes
+
+```
+/verbs
+/conjugations
+```
+see [json-server](https://github.com/typicode/json-server) for more syntax and url parameters
+
+## How it works
 
 The verb list in the `verb-info/pt_1000verbs.csv` file is parsed using `verb-info/parse_and_upload`. See the comments in that file for more on how that script works. The verb list is turned into a JSON file `db.json` and that file is used as an API using the `json-server` package.
 
