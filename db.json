@@ -8507,7 +8507,7 @@
         "eu": "fiquei",
         "tu": "ficaste",
         "ele/ela": "ficou",
-        "nós": "ficámos / ficamos",
+        "nós": "ficamos",
         "vós": "ficastes",
         "eles/elas": "ficaram"
       },
@@ -8705,7 +8705,7 @@
         "eu": "passei",
         "tu": "passaste",
         "ele/ela": "passou",
-        "nós": "passámos / passamos",
+        "nós": "passamos",
         "vós": "passastes",
         "eles/elas": "passaram"
       },
@@ -8804,7 +8804,7 @@
         "eu": "cheguei",
         "tu": "chegaste",
         "ele/ela": "chegou",
-        "nós": "chegámos / chegamos",
+        "nós": "chegamos",
         "vós": "chegastes",
         "eles/elas": "chegaram"
       },
@@ -8903,7 +8903,7 @@
         "eu": "falei",
         "tu": "falaste",
         "ele/ela": "falou",
-        "nós": "falámos / falamos",
+        "nós": "falamos",
         "vós": "falastes",
         "eles/elas": "falaram"
       },
@@ -9002,7 +9002,7 @@
         "eu": "deixei",
         "tu": "deixaste",
         "ele/ela": "deixou",
-        "nós": "deixámos / deixamos",
+        "nós": "deixamos",
         "vós": "deixastes",
         "eles/elas": "deixaram"
       },
@@ -9101,7 +9101,7 @@
         "eu": "encontrei",
         "tu": "encontraste",
         "ele/ela": "encontrou",
-        "nós": "encontrámos / encontramos",
+        "nós": "encontramos",
         "vós": "encontrastes",
         "eles/elas": "encontraram"
       },
@@ -9200,7 +9200,7 @@
         "eu": "levei",
         "tu": "levaste",
         "ele/ela": "levou",
-        "nós": "levámos / levamos",
+        "nós": "levamos",
         "vós": "levastes",
         "eles/elas": "levaram"
       },
@@ -9299,7 +9299,7 @@
         "eu": "comecei",
         "tu": "começaste",
         "ele/ela": "começou",
-        "nós": "começámos / começamos",
+        "nós": "começamos",
         "vós": "começastes",
         "eles/elas": "começaram"
       },
@@ -9497,7 +9497,7 @@
         "eu": "pensei",
         "tu": "pensaste",
         "ele/ela": "pensou",
-        "nós": "pensámos / pensamos",
+        "nós": "pensamos",
         "vós": "pensastes",
         "eles/elas": "pensaram"
       },
@@ -9695,7 +9695,7 @@
         "eu": "apresentei",
         "tu": "apresentaste",
         "ele/ela": "apresentou",
-        "nós": "apresentámos / apresentamos",
+        "nós": "apresentamos",
         "vós": "apresentastes",
         "eles/elas": "apresentaram"
       },
@@ -9794,7 +9794,7 @@
         "eu": "olhei",
         "tu": "olhaste",
         "ele/ela": "olhou",
-        "nós": "olhámos / olhamos",
+        "nós": "olhamos",
         "vós": "olhastes",
         "eles/elas": "olharam"
       },
@@ -9893,7 +9893,7 @@
         "eu": "tornei",
         "tu": "tornaste",
         "ele/ela": "tornou",
-        "nós": "tornámos / tornamos",
+        "nós": "tornamos",
         "vós": "tornastes",
         "eles/elas": "tornaram"
       },
@@ -9992,7 +9992,7 @@
         "eu": "voltei",
         "tu": "voltaste",
         "ele/ela": "voltou",
-        "nós": "voltámos / voltamos",
+        "nós": "voltamos",
         "vós": "voltastes",
         "eles/elas": "voltaram"
       },
@@ -10091,7 +10091,7 @@
         "eu": "achei",
         "tu": "achaste",
         "ele/ela": "achou",
-        "nós": "achámos / achamos",
+        "nós": "achamos",
         "vós": "achastes",
         "eles/elas": "acharam"
       },
@@ -10289,7 +10289,7 @@
         "eu": "entrei",
         "tu": "entraste",
         "ele/ela": "entrou",
-        "nós": "entrámos / entramos",
+        "nós": "entramos",
         "vós": "entrastes",
         "eles/elas": "entraram"
       },
@@ -10388,7 +10388,7 @@
         "eu": "chamei",
         "tu": "chamaste",
         "ele/ela": "chamou",
-        "nós": "chamámos / chamamos",
+        "nós": "chamamos",
         "vós": "chamastes",
         "eles/elas": "chamaram"
       },
@@ -10487,7 +10487,7 @@
         "eu": "considerei",
         "tu": "consideraste",
         "ele/ela": "considerou",
-        "nós": "considerámos / consideramos",
+        "nós": "consideramos",
         "vós": "considerastes",
         "eles/elas": "consideraram"
       },
@@ -10586,7 +10586,7 @@
         "eu": "continuei",
         "tu": "continuaste",
         "ele/ela": "continuou",
-        "nós": "continuámos / continuamos",
+        "nós": "continuamos",
         "vós": "continuastes",
         "eles/elas": "continuaram"
       },
@@ -10784,7 +10784,7 @@
         "eu": "tomei",
         "tu": "tomaste",
         "ele/ela": "tomou",
-        "nós": "tomámos / tomamos",
+        "nós": "tomamos",
         "vós": "tomastes",
         "eles/elas": "tomaram"
       },
@@ -10883,7 +10883,7 @@
         "eu": "acabei",
         "tu": "acabaste",
         "ele/ela": "acabou",
-        "nós": "acabámos / acabamos",
+        "nós": "acabamos",
         "vós": "acabastes",
         "eles/elas": "acabaram"
       },
@@ -11081,7 +11081,7 @@
         "eu": "adorei",
         "tu": "adoraste",
         "ele/ela": "adorou",
-        "nós": "adorámos / adoramos",
+        "nós": "adoramos",
         "vós": "adorastes",
         "eles/elas": "adoraram"
       },
@@ -11180,7 +11180,7 @@
         "eu": "ajudei",
         "tu": "ajudaste",
         "ele/ela": "ajudou",
-        "nós": "ajudámos / ajudamos",
+        "nós": "ajudamos",
         "vós": "ajudastes",
         "eles/elas": "ajudaram"
       },
@@ -11576,7 +11576,7 @@
         "eu": "comprei",
         "tu": "compraste",
         "ele/ela": "comprou",
-        "nós": "comprámos / compramos",
+        "nós": "compramos",
         "vós": "comprastes",
         "eles/elas": "compraram"
       },
@@ -11675,7 +11675,7 @@
         "eu": "custei",
         "tu": "custaste",
         "ele/ela": "custou",
-        "nós": "custámos / custamos",
+        "nós": "custamos",
         "vós": "custastes",
         "eles/elas": "custaram"
       },
@@ -11774,7 +11774,7 @@
         "eu": "dancei",
         "tu": "dançaste",
         "ele/ela": "dançou",
-        "nós": "dançámos / dançamos",
+        "nós": "dançamos",
         "vós": "dançastes",
         "eles/elas": "dançaram"
       },
@@ -11972,7 +11972,7 @@
         "eu": "experimentei",
         "tu": "experimentaste",
         "ele/ela": "experimentou",
-        "nós": "experimentámos / experimentamos",
+        "nós": "experimentamos",
         "vós": "experimentastes",
         "eles/elas": "experimentaram"
       },
@@ -12071,7 +12071,7 @@
         "eu": "funcionei",
         "tu": "funcionaste",
         "ele/ela": "funcionou",
-        "nós": "funcionámos / funcionamos",
+        "nós": "funcionamos",
         "vós": "funcionastes",
         "eles/elas": "funcionaram"
       },
@@ -12170,7 +12170,7 @@
         "eu": "liguei",
         "tu": "ligaste",
         "ele/ela": "ligou",
-        "nós": "ligámos / ligamos",
+        "nós": "ligamos",
         "vós": "ligastes",
         "eles/elas": "ligaram"
       },
@@ -12269,7 +12269,7 @@
         "eu": "morei",
         "tu": "moraste",
         "ele/ela": "morou",
-        "nós": "morámos / moramos",
+        "nós": "moramos",
         "vós": "morastes",
         "eles/elas": "moraram"
       },
@@ -12368,7 +12368,7 @@
         "eu": "peguei",
         "tu": "pegaste",
         "ele/ela": "pegou",
-        "nós": "pegámos / pegamos",
+        "nós": "pegamos",
         "vós": "pegastes",
         "eles/elas": "pegaram"
       },
@@ -12665,7 +12665,7 @@
         "eu": "viajei",
         "tu": "viajaste",
         "ele/ela": "viajou",
-        "nós": "viajámos / viajamos",
+        "nós": "viajamos",
         "vós": "viajastes",
         "eles/elas": "viajaram"
       },
@@ -12764,7 +12764,7 @@
         "eu": "andei",
         "tu": "andaste",
         "ele/ela": "andou",
-        "nós": "andámos / andamos",
+        "nós": "andamos",
         "vós": "andastes",
         "eles/elas": "andaram"
       },
@@ -12863,7 +12863,7 @@
         "eu": "trabalhei",
         "tu": "trabalhaste",
         "ele/ela": "trabalhou",
-        "nós": "trabalhámos / trabalhamos",
+        "nós": "trabalhamos",
         "vós": "trabalhastes",
         "eles/elas": "trabalharam"
       },
@@ -12962,7 +12962,7 @@
         "eu": "nadei",
         "tu": "nadaste",
         "ele/ela": "nadou",
-        "nós": "nadámos / nadamos",
+        "nós": "nadamos",
         "vós": "nadastes",
         "eles/elas": "nadaram"
       },
@@ -13061,7 +13061,7 @@
         "eu": "criei",
         "tu": "criaste",
         "ele/ela": "criou",
-        "nós": "criámos / criamos",
+        "nós": "criamos",
         "vós": "criastes",
         "eles/elas": "criaram"
       },
@@ -13259,7 +13259,7 @@
         "eu": "contei",
         "tu": "contaste",
         "ele/ela": "contou",
-        "nós": "contámos / contamos",
+        "nós": "contamos",
         "vós": "contastes",
         "eles/elas": "contaram"
       },
@@ -13457,7 +13457,7 @@
         "eu": "afirmei",
         "tu": "afirmaste",
         "ele/ela": "afirmou",
-        "nós": "afirmámos / afirmamos",
+        "nós": "afirmamos",
         "vós": "afirmastes",
         "eles/elas": "afirmaram"
       },
@@ -13556,7 +13556,7 @@
         "eu": "tratei",
         "tu": "trataste",
         "ele/ela": "tratou",
-        "nós": "tratámos / tratamos",
+        "nós": "tratamos",
         "vós": "tratastes",
         "eles/elas": "trataram"
       },
@@ -13655,7 +13655,7 @@
         "eu": "esperei",
         "tu": "esperaste",
         "ele/ela": "esperou",
-        "nós": "esperámos / esperamos",
+        "nós": "esperamos",
         "vós": "esperastes",
         "eles/elas": "esperaram"
       },
@@ -13754,7 +13754,7 @@
         "eu": "gostei",
         "tu": "gostaste",
         "ele/ela": "gostou",
-        "nós": "gostámos / gostamos",
+        "nós": "gostamos",
         "vós": "gostastes",
         "eles/elas": "gostaram"
       },
@@ -13853,7 +13853,7 @@
         "eu": "usei",
         "tu": "usaste",
         "ele/ela": "usou",
-        "nós": "usámos / usamos",
+        "nós": "usamos",
         "vós": "usastes",
         "eles/elas": "usaram"
       },
@@ -13952,7 +13952,7 @@
         "eu": "realizei",
         "tu": "realizaste",
         "ele/ela": "realizou",
-        "nós": "realizámos / realizamos",
+        "nós": "realizamos",
         "vós": "realizastes",
         "eles/elas": "realizaram"
       },
@@ -14447,7 +14447,7 @@
         "eu": "mostrei",
         "tu": "mostraste",
         "ele/ela": "mostrou",
-        "nós": "mostrámos / mostramos",
+        "nós": "mostramos",
         "vós": "mostrastes",
         "eles/elas": "mostraram"
       },
@@ -14546,7 +14546,7 @@
         "eu": "lembrei",
         "tu": "lembraste",
         "ele/ela": "lembrou",
-        "nós": "lembrámos / lembramos",
+        "nós": "lembramos",
         "vós": "lembrastes",
         "eles/elas": "lembraram"
       },
@@ -14744,7 +14744,7 @@
         "eu": "procurei",
         "tu": "procuraste",
         "ele/ela": "procurou",
-        "nós": "procurámos / procuramos",
+        "nós": "procuramos",
         "vós": "procurastes",
         "eles/elas": "procuraram"
       },
@@ -14942,7 +14942,7 @@
         "eu": "tentei",
         "tu": "tentaste",
         "ele/ela": "tentou",
-        "nós": "tentámos / tentamos",
+        "nós": "tentamos",
         "vós": "tentastes",
         "eles/elas": "tentaram"
       },
@@ -15041,7 +15041,7 @@
         "eu": "formei",
         "tu": "formaste",
         "ele/ela": "formou",
-        "nós": "formámos / formamos",
+        "nós": "formamos",
         "vós": "formastes",
         "eles/elas": "formaram"
       },
@@ -15437,7 +15437,7 @@
         "eu": "ganhei",
         "tu": "ganhaste",
         "ele/ela": "ganhou",
-        "nós": "ganhámos / ganhamos",
+        "nós": "ganhamos",
         "vós": "ganhastes",
         "eles/elas": "ganharam"
       },
@@ -15734,7 +15734,7 @@
         "eu": "paguei",
         "tu": "pagaste",
         "ele/ela": "pagou",
-        "nós": "pagámos / pagamos",
+        "nós": "pagamos",
         "vós": "pagastes",
         "eles/elas": "pagaram"
       },
@@ -15833,7 +15833,7 @@
         "eu": "representei",
         "tu": "representaste",
         "ele/ela": "representou",
-        "nós": "representámos / representamos",
+        "nós": "representamos",
         "vós": "representastes",
         "eles/elas": "representaram"
       },
@@ -16130,7 +16130,7 @@
         "eu": "precisei",
         "tu": "precisaste",
         "ele/ela": "precisou",
-        "nós": "precisámos / precisamos",
+        "nós": "precisamos",
         "vós": "precisastes",
         "eles/elas": "precisaram"
       },
@@ -16229,7 +16229,7 @@
         "eu": "perguntei",
         "tu": "perguntaste",
         "ele/ela": "perguntou",
-        "nós": "perguntámos / perguntamos",
+        "nós": "perguntamos",
         "vós": "perguntastes",
         "eles/elas": "perguntaram"
       },
@@ -16427,7 +16427,7 @@
         "eu": "coloquei",
         "tu": "colocaste",
         "ele/ela": "colocou",
-        "nós": "colocámos / colocamos",
+        "nós": "colocamos",
         "vós": "colocastes",
         "eles/elas": "colocaram"
       },
@@ -16724,7 +16724,7 @@
         "eu": "tirei",
         "tu": "tiraste",
         "ele/ela": "tirou",
-        "nós": "tirámos / tiramos",
+        "nós": "tiramos",
         "vós": "tirastes",
         "eles/elas": "tiraram"
       },
@@ -17120,7 +17120,7 @@
         "eu": "expliquei",
         "tu": "explicaste",
         "ele/ela": "explicou",
-        "nós": "explicámos / explicamos",
+        "nós": "explicamos",
         "vós": "explicastes",
         "eles/elas": "explicaram"
       },
@@ -17318,7 +17318,7 @@
         "eu": "acreditei",
         "tu": "acreditaste",
         "ele/ela": "acreditou",
-        "nós": "acreditámos / acreditamos",
+        "nós": "acreditamos",
         "vós": "acreditastes",
         "eles/elas": "acreditaram"
       },
@@ -17417,7 +17417,7 @@
         "eu": "levantei",
         "tu": "levantaste",
         "ele/ela": "levantou",
-        "nós": "levantámos / levantamos",
+        "nós": "levantamos",
         "vós": "levantastes",
         "eles/elas": "levantaram"
       },
@@ -17516,7 +17516,7 @@
         "eu": "mandei",
         "tu": "mandaste",
         "ele/ela": "mandou",
-        "nós": "mandámos / mandamos",
+        "nós": "mandamos",
         "vós": "mandastes",
         "eles/elas": "mandaram"
       },
@@ -17615,7 +17615,7 @@
         "eu": "estudei",
         "tu": "estudaste",
         "ele/ela": "estudou",
-        "nós": "estudámos / estudamos",
+        "nós": "estudamos",
         "vós": "estudastes",
         "eles/elas": "estudaram"
       },
@@ -17912,7 +17912,7 @@
         "eu": "parei",
         "tu": "paraste",
         "ele/ela": "parou",
-        "nós": "parámos / paramos",
+        "nós": "paramos",
         "vós": "parastes",
         "eles/elas": "pararam"
       },
@@ -18308,7 +18308,7 @@
         "eu": "fechei",
         "tu": "fechaste",
         "ele/ela": "fechou",
-        "nós": "fechámos / fechamos",
+        "nós": "fechamos",
         "vós": "fechastes",
         "eles/elas": "fecharam"
       },
@@ -18407,7 +18407,7 @@
         "eu": "aumentei",
         "tu": "aumentaste",
         "ele/ela": "aumentou",
-        "nós": "aumentámos / aumentamos",
+        "nós": "aumentamos",
         "vós": "aumentastes",
         "eles/elas": "aumentaram"
       },
@@ -18506,7 +18506,7 @@
         "eu": "acompanhei",
         "tu": "acompanhaste",
         "ele/ela": "acompanhou",
-        "nós": "acompanhámos / acompanhamos",
+        "nós": "acompanhamos",
         "vós": "acompanhastes",
         "eles/elas": "acompanharam"
       },
@@ -18704,7 +18704,7 @@
         "eu": "lancei",
         "tu": "lançaste",
         "ele/ela": "lançou",
-        "nós": "lançámos / lançamos",
+        "nós": "lançamos",
         "vós": "lançastes",
         "eles/elas": "lançaram"
       },
@@ -18803,7 +18803,7 @@
         "eu": "mudei",
         "tu": "mudaste",
         "ele/ela": "mudou",
-        "nós": "mudámos / mudamos",
+        "nós": "mudamos",
         "vós": "mudastes",
         "eles/elas": "mudaram"
       },
@@ -19001,7 +19001,7 @@
         "eu": "participei",
         "tu": "participaste",
         "ele/ela": "participou",
-        "nós": "participámos / participamos",
+        "nós": "participamos",
         "vós": "participastes",
         "eles/elas": "participaram"
       },
@@ -19100,7 +19100,7 @@
         "eu": "utilizei",
         "tu": "utilizaste",
         "ele/ela": "utilizou",
-        "nós": "utilizámos / utilizamos",
+        "nós": "utilizamos",
         "vós": "utilizastes",
         "eles/elas": "utilizaram"
       },
@@ -19199,7 +19199,7 @@
         "eu": "provoquei",
         "tu": "provocaste",
         "ele/ela": "provocou",
-        "nós": "provocámos / provocamos",
+        "nós": "provocamos",
         "vós": "provocastes",
         "eles/elas": "provocaram"
       },
@@ -19595,7 +19595,7 @@
         "eu": "iniciei",
         "tu": "iniciaste",
         "ele/ela": "iniciou",
-        "nós": "iniciámos / iniciamos",
+        "nós": "iniciamos",
         "vós": "iniciastes",
         "eles/elas": "iniciaram"
       },
@@ -19892,7 +19892,7 @@
         "eu": "observei",
         "tu": "observaste",
         "ele/ela": "observou",
-        "nós": "observámos / observamos",
+        "nós": "observamos",
         "vós": "observastes",
         "eles/elas": "observaram"
       },
@@ -19991,7 +19991,7 @@
         "eu": "aceitei",
         "tu": "aceitaste",
         "ele/ela": "aceitou",
-        "nós": "aceitámos / aceitamos",
+        "nós": "aceitamos",
         "vós": "aceitastes",
         "eles/elas": "aceitaram"
       },
@@ -20090,7 +20090,7 @@
         "eu": "resultei",
         "tu": "resultaste",
         "ele/ela": "resultou",
-        "nós": "resultámos / resultamos",
+        "nós": "resultamos",
         "vós": "resultastes",
         "eles/elas": "resultaram"
       },
@@ -20288,7 +20288,7 @@
         "eu": "sentei",
         "tu": "sentaste",
         "ele/ela": "sentou",
-        "nós": "sentámos / sentamos",
+        "nós": "sentamos",
         "vós": "sentastes",
         "eles/elas": "sentaram"
       },
@@ -20387,7 +20387,7 @@
         "eu": "marquei",
         "tu": "marcaste",
         "ele/ela": "marcou",
-        "nós": "marcámos / marcamos",
+        "nós": "marcamos",
         "vós": "marcastes",
         "eles/elas": "marcaram"
       },
@@ -20684,7 +20684,7 @@
         "eu": "publiquei",
         "tu": "publicaste",
         "ele/ela": "publicou",
-        "nós": "publicámos / publicamos",
+        "nós": "publicamos",
         "vós": "publicastes",
         "eles/elas": "publicaram"
       },
@@ -20882,7 +20882,7 @@
         "eu": "revelei",
         "tu": "revelaste",
         "ele/ela": "revelou",
-        "nós": "revelámos / revelamos",
+        "nós": "revelamos",
         "vós": "revelastes",
         "eles/elas": "revelaram"
       },
@@ -21080,7 +21080,7 @@
         "eu": "ocupei",
         "tu": "ocupaste",
         "ele/ela": "ocupou",
-        "nós": "ocupámos / ocupamos",
+        "nós": "ocupamos",
         "vós": "ocupastes",
         "eles/elas": "ocuparam"
       },
@@ -21476,7 +21476,7 @@
         "eu": "toquei",
         "tu": "tocaste",
         "ele/ela": "tocou",
-        "nós": "tocámos / tocamos",
+        "nós": "tocamos",
         "vós": "tocastes",
         "eles/elas": "tocaram"
       },
@@ -21674,7 +21674,7 @@
         "eu": "matei",
         "tu": "mataste",
         "ele/ela": "matou",
-        "nós": "matámos / matamos",
+        "nós": "matamos",
         "vós": "matastes",
         "eles/elas": "mataram"
       },
@@ -21872,7 +21872,7 @@
         "eu": "indiquei",
         "tu": "indicaste",
         "ele/ela": "indicou",
-        "nós": "indicámos / indicamos",
+        "nós": "indicamos",
         "vós": "indicastes",
         "eles/elas": "indicaram"
       },
@@ -22070,7 +22070,7 @@
         "eu": "terminei",
         "tu": "terminaste",
         "ele/ela": "terminou",
-        "nós": "terminámos / terminamos",
+        "nós": "terminamos",
         "vós": "terminastes",
         "eles/elas": "terminaram"
       },
@@ -22169,7 +22169,7 @@
         "eu": "joguei",
         "tu": "jogaste",
         "ele/ela": "jogou",
-        "nós": "jogámos / jogamos",
+        "nós": "jogamos",
         "vós": "jogastes",
         "eles/elas": "jogaram"
       },
@@ -22664,7 +22664,7 @@
         "eu": "destaquei",
         "tu": "destacaste",
         "ele/ela": "destacou",
-        "nós": "destacámos / destacamos",
+        "nós": "destacamos",
         "vós": "destacastes",
         "eles/elas": "destacaram"
       },
@@ -22961,7 +22961,7 @@
         "eu": "causei",
         "tu": "causaste",
         "ele/ela": "causou",
-        "nós": "causámos / causamos",
+        "nós": "causamos",
         "vós": "causastes",
         "eles/elas": "causaram"
       },
@@ -23060,7 +23060,7 @@
         "eu": "evitei",
         "tu": "evitaste",
         "ele/ela": "evitou",
-        "nós": "evitámos / evitamos",
+        "nós": "evitamos",
         "vós": "evitastes",
         "eles/elas": "evitaram"
       },
@@ -23159,7 +23159,7 @@
         "eu": "determinei",
         "tu": "determinaste",
         "ele/ela": "determinou",
-        "nós": "determinámos / determinamos",
+        "nós": "determinamos",
         "vós": "determinastes",
         "eles/elas": "determinaram"
       },
@@ -23258,7 +23258,7 @@
         "eu": "anunciei",
         "tu": "anunciaste",
         "ele/ela": "anunciou",
-        "nós": "anunciámos / anunciamos",
+        "nós": "anunciamos",
         "vós": "anunciastes",
         "eles/elas": "anunciaram"
       },
@@ -23456,7 +23456,7 @@
         "eu": "transformei",
         "tu": "transformaste",
         "ele/ela": "transformou",
-        "nós": "transformámos / transformamos",
+        "nós": "transformamos",
         "vós": "transformastes",
         "eles/elas": "transformaram"
       },
@@ -23654,7 +23654,7 @@
         "eu": "faltei",
         "tu": "faltaste",
         "ele/ela": "faltou",
-        "nós": "faltámos / faltamos",
+        "nós": "faltamos",
         "vós": "faltastes",
         "eles/elas": "faltaram"
       },
@@ -23753,7 +23753,7 @@
         "eu": "entreguei",
         "tu": "entregaste",
         "ele/ela": "entregou",
-        "nós": "entregámos / entregamos",
+        "nós": "entregamos",
         "vós": "entregastes",
         "eles/elas": "entregaram"
       },
@@ -23852,7 +23852,7 @@
         "eu": "casei",
         "tu": "casaste",
         "ele/ela": "casou",
-        "nós": "casámos / casamos",
+        "nós": "casamos",
         "vós": "casastes",
         "eles/elas": "casaram"
       },
@@ -24050,7 +24050,7 @@
         "eu": "julguei",
         "tu": "julgaste",
         "ele/ela": "julgou",
-        "nós": "julgámos / julgamos",
+        "nós": "julgamos",
         "vós": "julgastes",
         "eles/elas": "julgaram"
       },
@@ -24248,7 +24248,7 @@
         "eu": "apontei",
         "tu": "apontaste",
         "ele/ela": "apontou",
-        "nós": "apontámos / apontamos",
+        "nós": "apontamos",
         "vós": "apontastes",
         "eles/elas": "apontaram"
       },
@@ -24347,7 +24347,7 @@
         "eu": "virei",
         "tu": "viraste",
         "ele/ela": "virou",
-        "nós": "virámos / viramos",
+        "nós": "viramos",
         "vós": "virastes",
         "eles/elas": "viraram"
       },
@@ -24545,7 +24545,7 @@
         "eu": "signifiquei",
         "tu": "significaste",
         "ele/ela": "significou",
-        "nós": "significámos / significamos",
+        "nós": "significamos",
         "vós": "significastes",
         "eles/elas": "significaram"
       },
@@ -24842,7 +24842,7 @@
         "eu": "abandonei",
         "tu": "abandonaste",
         "ele/ela": "abandonou",
-        "nós": "abandonámos / abandonamos",
+        "nós": "abandonamos",
         "vós": "abandonastes",
         "eles/elas": "abandonaram"
       },
@@ -24941,7 +24941,7 @@
         "eu": "obriguei",
         "tu": "obrigaste",
         "ele/ela": "obrigou",
-        "nós": "obrigámos / obrigamos",
+        "nós": "obrigamos",
         "vós": "obrigastes",
         "eles/elas": "obrigaram"
       },
@@ -25040,7 +25040,7 @@
         "eu": "preparei",
         "tu": "preparaste",
         "ele/ela": "preparou",
-        "nós": "preparámos / preparamos",
+        "nós": "preparamos",
         "vós": "preparastes",
         "eles/elas": "prepararam"
       },
@@ -25139,7 +25139,7 @@
         "eu": "apliquei",
         "tu": "aplicaste",
         "ele/ela": "aplicou",
-        "nós": "aplicámos / aplicamos",
+        "nós": "aplicamos",
         "vós": "aplicastes",
         "eles/elas": "aplicaram"
       },
@@ -25436,7 +25436,7 @@
         "eu": "retirei",
         "tu": "retiraste",
         "ele/ela": "retirou",
-        "nós": "retirámos / retiramos",
+        "nós": "retiramos",
         "vós": "retirastes",
         "eles/elas": "retiraram"
       },
@@ -25634,7 +25634,7 @@
         "eu": "verifiquei",
         "tu": "verificaste",
         "ele/ela": "verificou",
-        "nós": "verificámos / verificamos",
+        "nós": "verificamos",
         "vós": "verificastes",
         "eles/elas": "verificaram"
       },
@@ -25832,7 +25832,7 @@
         "eu": "acrescentei",
         "tu": "acrescentaste",
         "ele/ela": "acrescentou",
-        "nós": "acrescentámos / acrescentamos",
+        "nós": "acrescentamos",
         "vós": "acrescentastes",
         "eles/elas": "acrescentaram"
       },
@@ -25931,7 +25931,7 @@
         "eu": "desejei",
         "tu": "desejaste",
         "ele/ela": "desejou",
-        "nós": "desejámos / desejamos",
+        "nós": "desejamos",
         "vós": "desejastes",
         "eles/elas": "desejaram"
       },
@@ -26129,7 +26129,7 @@
         "eu": "busquei",
         "tu": "buscaste",
         "ele/ela": "buscou",
-        "nós": "buscámos / buscamos",
+        "nós": "buscamos",
         "vós": "buscastes",
         "eles/elas": "buscaram"
       },
@@ -26327,7 +26327,7 @@
         "eu": "aproximei",
         "tu": "aproximaste",
         "ele/ela": "aproximou",
-        "nós": "aproximámos / aproximamos",
+        "nós": "aproximamos",
         "vós": "aproximastes",
         "eles/elas": "aproximaram"
       },
@@ -26525,7 +26525,7 @@
         "eu": "imaginei",
         "tu": "imaginaste",
         "ele/ela": "imaginou",
-        "nós": "imaginámos / imaginamos",
+        "nós": "imaginamos",
         "vós": "imaginastes",
         "eles/elas": "imaginaram"
       },
@@ -26723,7 +26723,7 @@
         "eu": "apoiei",
         "tu": "apoiaste",
         "ele/ela": "apoiou",
-        "nós": "apoiámos / apoiamos",
+        "nós": "apoiamos",
         "vós": "apoiastes",
         "eles/elas": "apoiaram"
       },
@@ -26822,7 +26822,7 @@
         "eu": "gerei",
         "tu": "geraste",
         "ele/ela": "gerou",
-        "nós": "gerámos / geramos",
+        "nós": "geramos",
         "vós": "gerastes",
         "eles/elas": "geraram"
       },
@@ -26921,7 +26921,7 @@
         "eu": "cantei",
         "tu": "cantaste",
         "ele/ela": "cantou",
-        "nós": "cantámos / cantamos",
+        "nós": "cantamos",
         "vós": "cantastes",
         "eles/elas": "cantaram"
       },
@@ -27020,7 +27020,7 @@
         "eu": "afastei",
         "tu": "afastaste",
         "ele/ela": "afastou",
-        "nós": "afastámos / afastamos",
+        "nós": "afastamos",
         "vós": "afastastes",
         "eles/elas": "afastaram"
       },
@@ -27218,7 +27218,7 @@
         "eu": "fixei",
         "tu": "fixaste",
         "ele/ela": "fixou",
-        "nós": "fixámos / fixamos",
+        "nós": "fixamos",
         "vós": "fixastes",
         "eles/elas": "fixaram"
       },
@@ -27416,7 +27416,7 @@
         "eu": "chorei",
         "tu": "choraste",
         "ele/ela": "chorou",
-        "nós": "chorámos / choramos",
+        "nós": "choramos",
         "vós": "chorastes",
         "eles/elas": "choraram"
       },
@@ -27713,7 +27713,7 @@
         "eu": "aproveitei",
         "tu": "aproveitaste",
         "ele/ela": "aproveitou",
-        "nós": "aproveitámos / aproveitamos",
+        "nós": "aproveitamos",
         "vós": "aproveitastes",
         "eles/elas": "aproveitaram"
       },
@@ -27812,7 +27812,7 @@
         "eu": "gritei",
         "tu": "gritaste",
         "ele/ela": "gritou",
-        "nós": "gritámos / gritamos",
+        "nós": "gritamos",
         "vós": "gritastes",
         "eles/elas": "gritaram"
       },
@@ -28010,7 +28010,7 @@
         "eu": "integrei",
         "tu": "integraste",
         "ele/ela": "integrou",
-        "nós": "integrámos / integramos",
+        "nós": "integramos",
         "vós": "integrastes",
         "eles/elas": "integraram"
       },
@@ -28109,7 +28109,7 @@
         "eu": "atravessei",
         "tu": "atravessaste",
         "ele/ela": "atravessou",
-        "nós": "atravessámos / atravessamos",
+        "nós": "atravessamos",
         "vós": "atravessastes",
         "eles/elas": "atravessaram"
       },
@@ -28208,7 +28208,7 @@
         "eu": "alcancei",
         "tu": "alcançaste",
         "ele/ela": "alcançou",
-        "nós": "alcançámos / alcançamos",
+        "nós": "alcançamos",
         "vós": "alcançastes",
         "eles/elas": "alcançaram"
       },
@@ -28406,7 +28406,7 @@
         "eu": "informei",
         "tu": "informaste",
         "ele/ela": "informou",
-        "nós": "informámos / informamos",
+        "nós": "informamos",
         "vós": "informastes",
         "eles/elas": "informaram"
       },
@@ -28604,7 +28604,7 @@
         "eu": "deitei",
         "tu": "deitaste",
         "ele/ela": "deitou",
-        "nós": "deitámos / deitamos",
+        "nós": "deitamos",
         "vós": "deitastes",
         "eles/elas": "deitaram"
       },
@@ -28703,7 +28703,7 @@
         "eu": "cortei",
         "tu": "cortaste",
         "ele/ela": "cortou",
-        "nós": "cortámos / cortamos",
+        "nós": "cortamos",
         "vós": "cortastes",
         "eles/elas": "cortaram"
       },
@@ -28802,7 +28802,7 @@
         "eu": "enviei",
         "tu": "enviaste",
         "ele/ela": "enviou",
-        "nós": "enviámos / enviamos",
+        "nós": "enviamos",
         "vós": "enviastes",
         "eles/elas": "enviaram"
       },
@@ -28901,7 +28901,7 @@
         "eu": "acusei",
         "tu": "acusaste",
         "ele/ela": "acusou",
-        "nós": "acusámos / acusamos",
+        "nós": "acusamos",
         "vós": "acusastes",
         "eles/elas": "acusaram"
       },
@@ -29198,7 +29198,7 @@
         "eu": "avancei",
         "tu": "avançaste",
         "ele/ela": "avançou",
-        "nós": "avançámos / avançamos",
+        "nós": "avançamos",
         "vós": "avançastes",
         "eles/elas": "avançaram"
       },
@@ -29297,7 +29297,7 @@
         "eu": "amei",
         "tu": "amaste",
         "ele/ela": "amou",
-        "nós": "amámos / amamos",
+        "nós": "amamos",
         "vós": "amastes",
         "eles/elas": "amaram"
       },
@@ -29396,7 +29396,7 @@
         "eu": "interessei",
         "tu": "interessaste",
         "ele/ela": "interessou",
-        "nós": "interessámos / interessamos",
+        "nós": "interessamos",
         "vós": "interessastes",
         "eles/elas": "interessaram"
       },
@@ -29594,7 +29594,7 @@
         "eu": "dediquei",
         "tu": "dedicaste",
         "ele/ela": "dedicou",
-        "nós": "dedicámos / dedicamos",
+        "nós": "dedicamos",
         "vós": "dedicastes",
         "eles/elas": "dedicaram"
       },
@@ -30386,7 +30386,7 @@
         "eu": "analisei",
         "tu": "analisaste",
         "ele/ela": "analisou",
-        "nós": "analisámos / analisamos",
+        "nós": "analisamos",
         "vós": "analisastes",
         "eles/elas": "analisaram"
       },
@@ -30485,7 +30485,7 @@
         "eu": "confirmei",
         "tu": "confirmaste",
         "ele/ela": "confirmou",
-        "nós": "confirmámos / confirmamos",
+        "nós": "confirmamos",
         "vós": "confirmastes",
         "eles/elas": "confirmaram"
       },
@@ -30584,7 +30584,7 @@
         "eu": "completei",
         "tu": "completaste",
         "ele/ela": "completou",
-        "nós": "completámos / completamos",
+        "nós": "completamos",
         "vós": "completastes",
         "eles/elas": "completaram"
       },
@@ -30683,7 +30683,7 @@
         "eu": "regressei",
         "tu": "regressaste",
         "ele/ela": "regressou",
-        "nós": "regressámos / regressamos",
+        "nós": "regressamos",
         "vós": "regressastes",
         "eles/elas": "regressaram"
       },
@@ -30782,7 +30782,7 @@
         "eu": "bastei",
         "tu": "bastaste",
         "ele/ela": "bastou",
-        "nós": "bastámos / bastamos",
+        "nós": "bastamos",
         "vós": "bastastes",
         "eles/elas": "bastaram"
       },
@@ -31079,7 +31079,7 @@
         "eu": "baixei",
         "tu": "baixaste",
         "ele/ela": "baixou",
-        "nós": "baixámos / baixamos",
+        "nós": "baixamos",
         "vós": "baixastes",
         "eles/elas": "baixaram"
       },
@@ -31178,7 +31178,7 @@
         "eu": "conversei",
         "tu": "conversaste",
         "ele/ela": "conversou",
-        "nós": "conversámos / conversamos",
+        "nós": "conversamos",
         "vós": "conversastes",
         "eles/elas": "conversaram"
       },
@@ -31277,7 +31277,7 @@
         "eu": "demonstrei",
         "tu": "demonstraste",
         "ele/ela": "demonstrou",
-        "nós": "demonstrámos / demonstramos",
+        "nós": "demonstramos",
         "vós": "demonstrastes",
         "eles/elas": "demonstraram"
       },
@@ -31574,7 +31574,7 @@
         "eu": "importei",
         "tu": "importaste",
         "ele/ela": "importou",
-        "nós": "importámos / importamos",
+        "nós": "importamos",
         "vós": "importastes",
         "eles/elas": "importaram"
       },
@@ -31673,7 +31673,7 @@
         "eu": "identifiquei",
         "tu": "identificaste",
         "ele/ela": "identificou",
-        "nós": "identificámos / identificamos",
+        "nós": "identificamos",
         "vós": "identificastes",
         "eles/elas": "identificaram"
       },
@@ -31772,7 +31772,7 @@
         "eu": "jantei",
         "tu": "jantaste",
         "ele/ela": "jantou",
-        "nós": "jantámos / jantamos",
+        "nós": "jantamos",
         "vós": "jantastes",
         "eles/elas": "jantaram"
       },
@@ -31871,7 +31871,7 @@
         "eu": "pesei",
         "tu": "pesaste",
         "ele/ela": "pesou",
-        "nós": "pesámos / pesamos",
+        "nós": "pesamos",
         "vós": "pesastes",
         "eles/elas": "pesaram"
       },
@@ -31970,7 +31970,7 @@
         "eu": "prestei",
         "tu": "prestaste",
         "ele/ela": "prestou",
-        "nós": "prestámos / prestamos",
+        "nós": "prestamos",
         "vós": "prestastes",
         "eles/elas": "prestaram"
       },
@@ -32069,7 +32069,7 @@
         "eu": "apanhei",
         "tu": "apanhaste",
         "ele/ela": "apanhou",
-        "nós": "apanhámos / apanhamos",
+        "nós": "apanhamos",
         "vós": "apanhastes",
         "eles/elas": "apanharam"
       },
@@ -32168,7 +32168,7 @@
         "eu": "atirei",
         "tu": "atiraste",
         "ele/ela": "atirou",
-        "nós": "atirámos / atiramos",
+        "nós": "atiramos",
         "vós": "atirastes",
         "eles/elas": "atiraram"
       },
@@ -32267,7 +32267,7 @@
         "eu": "caracterizei",
         "tu": "caracterizaste",
         "ele/ela": "caracterizou",
-        "nós": "caracterizámos / caracterizamos",
+        "nós": "caracterizamos",
         "vós": "caracterizastes",
         "eles/elas": "caracterizaram"
       },
@@ -32366,7 +32366,7 @@
         "eu": "enfrentei",
         "tu": "enfrentaste",
         "ele/ela": "enfrentou",
-        "nós": "enfrentámos / enfrentamos",
+        "nós": "enfrentamos",
         "vós": "enfrentastes",
         "eles/elas": "enfrentaram"
       },
@@ -32465,7 +32465,7 @@
         "eu": "declarei",
         "tu": "declaraste",
         "ele/ela": "declarou",
-        "nós": "declarámos / declaramos",
+        "nós": "declaramos",
         "vós": "declarastes",
         "eles/elas": "declararam"
       },
@@ -32564,7 +32564,7 @@
         "eu": "notei",
         "tu": "notaste",
         "ele/ela": "notou",
-        "nós": "notámos / notamos",
+        "nós": "notamos",
         "vós": "notastes",
         "eles/elas": "notaram"
       },
@@ -32663,7 +32663,7 @@
         "eu": "citei",
         "tu": "citaste",
         "ele/ela": "citou",
-        "nós": "citámos / citamos",
+        "nós": "citamos",
         "vós": "citastes",
         "eles/elas": "citaram"
       },
@@ -32762,7 +32762,7 @@
         "eu": "alimentei",
         "tu": "alimentaste",
         "ele/ela": "alimentou",
-        "nós": "alimentámos / alimentamos",
+        "nós": "alimentamos",
         "vós": "alimentastes",
         "eles/elas": "alimentaram"
       },
@@ -32960,7 +32960,7 @@
         "eu": "guardei",
         "tu": "guardaste",
         "ele/ela": "guardou",
-        "nós": "guardámos / guardamos",
+        "nós": "guardamos",
         "vós": "guardastes",
         "eles/elas": "guardaram"
       },
@@ -33059,7 +33059,7 @@
         "eu": "conquistei",
         "tu": "conquistaste",
         "ele/ela": "conquistou",
-        "nós": "conquistámos / conquistamos",
+        "nós": "conquistamos",
         "vós": "conquistastes",
         "eles/elas": "conquistaram"
       },
@@ -33257,7 +33257,7 @@
         "eu": "designei",
         "tu": "designaste",
         "ele/ela": "designou",
-        "nós": "designámos / designamos",
+        "nós": "designamos",
         "vós": "designastes",
         "eles/elas": "designaram"
       },
@@ -33356,7 +33356,7 @@
         "eu": "juntei",
         "tu": "juntaste",
         "ele/ela": "juntou",
-        "nós": "juntámos / juntamos",
+        "nós": "juntamos",
         "vós": "juntastes",
         "eles/elas": "juntaram"
       },
@@ -33554,7 +33554,7 @@
         "eu": "variei",
         "tu": "variaste",
         "ele/ela": "variou",
-        "nós": "variámos / variamos",
+        "nós": "variamos",
         "vós": "variastes",
         "eles/elas": "variaram"
       },
@@ -33752,7 +33752,7 @@
         "eu": "salvei",
         "tu": "salvaste",
         "ele/ela": "salvou",
-        "nós": "salvámos / salvamos",
+        "nós": "salvamos",
         "vós": "salvastes",
         "eles/elas": "salvaram"
       },
@@ -33851,7 +33851,7 @@
         "eu": "adotei",
         "tu": "adotaste",
         "ele/ela": "adotou",
-        "nós": "adotámos / adotamos",
+        "nós": "adotamos",
         "vós": "adotastes",
         "eles/elas": "adotaram"
       },
@@ -33950,7 +33950,7 @@
         "eu": "controlei",
         "tu": "controlaste",
         "ele/ela": "controlou",
-        "nós": "controlámos / controlamos",
+        "nós": "controlamos",
         "vós": "controlastes",
         "eles/elas": "controlaram"
       },
@@ -34049,7 +34049,7 @@
         "eu": "atuei",
         "tu": "atuaste",
         "ele/ela": "atuou",
-        "nós": "atuámos / atuamos",
+        "nós": "atuamos",
         "vós": "atuastes",
         "eles/elas": "atuaram"
       },
@@ -34346,7 +34346,7 @@
         "eu": "cuidei",
         "tu": "cuidaste",
         "ele/ela": "cuidou",
-        "nós": "cuidámos / cuidamos",
+        "nós": "cuidamos",
         "vós": "cuidastes",
         "eles/elas": "cuidaram"
       },
@@ -34445,7 +34445,7 @@
         "eu": "durei",
         "tu": "duraste",
         "ele/ela": "durou",
-        "nós": "durámos / duramos",
+        "nós": "duramos",
         "vós": "durastes",
         "eles/elas": "duraram"
       },
@@ -34544,7 +34544,7 @@
         "eu": "dominei",
         "tu": "dominaste",
         "ele/ela": "dominou",
-        "nós": "dominámos / dominamos",
+        "nós": "dominamos",
         "vós": "dominastes",
         "eles/elas": "dominaram"
       },
@@ -34643,7 +34643,7 @@
         "eu": "adiantei",
         "tu": "adiantaste",
         "ele/ela": "adiantou",
-        "nós": "adiantámos / adiantamos",
+        "nós": "adiantamos",
         "vós": "adiantastes",
         "eles/elas": "adiantaram"
       },
@@ -34742,7 +34742,7 @@
         "eu": "recordei",
         "tu": "recordaste",
         "ele/ela": "recordou",
-        "nós": "recordámos / recordamos",
+        "nós": "recordamos",
         "vós": "recordastes",
         "eles/elas": "recordaram"
       },
@@ -34841,7 +34841,7 @@
         "eu": "visitei",
         "tu": "visitaste",
         "ele/ela": "visitou",
-        "nós": "visitámos / visitamos",
+        "nós": "visitamos",
         "vós": "visitastes",
         "eles/elas": "visitaram"
       },
@@ -34940,7 +34940,7 @@
         "eu": "calei",
         "tu": "calaste",
         "ele/ela": "calou",
-        "nós": "calámos / calamos",
+        "nós": "calamos",
         "vós": "calastes",
         "eles/elas": "calaram"
       },
@@ -35039,7 +35039,7 @@
         "eu": "comentei",
         "tu": "comentaste",
         "ele/ela": "comentou",
-        "nós": "comentámos / comentamos",
+        "nós": "comentamos",
         "vós": "comentastes",
         "eles/elas": "comentaram"
       },
@@ -35138,7 +35138,7 @@
         "eu": "melhorei",
         "tu": "melhoraste",
         "ele/ela": "melhorou",
-        "nós": "melhorámos / melhoramos",
+        "nós": "melhoramos",
         "vós": "melhorastes",
         "eles/elas": "melhoraram"
       },
@@ -35237,7 +35237,7 @@
         "eu": "fundei",
         "tu": "fundaste",
         "ele/ela": "fundou",
-        "nós": "fundámos / fundamos",
+        "nós": "fundamos",
         "vós": "fundastes",
         "eles/elas": "fundaram"
       },
@@ -35336,7 +35336,7 @@
         "eu": "convidei",
         "tu": "convidaste",
         "ele/ela": "convidou",
-        "nós": "convidámos / convidamos",
+        "nós": "convidamos",
         "vós": "convidastes",
         "eles/elas": "convidaram"
       },
@@ -35534,7 +35534,7 @@
         "eu": "acordei",
         "tu": "acordaste",
         "ele/ela": "acordou",
-        "nós": "acordámos / acordamos",
+        "nós": "acordamos",
         "vós": "acordastes",
         "eles/elas": "acordaram"
       },
@@ -35633,7 +35633,7 @@
         "eu": "puxei",
         "tu": "puxaste",
         "ele/ela": "puxou",
-        "nós": "puxámos / puxamos",
+        "nós": "puxamos",
         "vós": "puxastes",
         "eles/elas": "puxaram"
       },
@@ -35732,7 +35732,7 @@
         "eu": "instalei",
         "tu": "instalaste",
         "ele/ela": "instalou",
-        "nós": "instalámos / instalamos",
+        "nós": "instalamos",
         "vós": "instalastes",
         "eles/elas": "instalaram"
       },
@@ -35831,7 +35831,7 @@
         "eu": "limitei",
         "tu": "limitaste",
         "ele/ela": "limitou",
-        "nós": "limitámos / limitamos",
+        "nós": "limitamos",
         "vós": "limitastes",
         "eles/elas": "limitaram"
       },
@@ -36128,7 +36128,7 @@
         "eu": "assegurei",
         "tu": "asseguraste",
         "ele/ela": "assegurou",
-        "nós": "assegurámos / asseguramos",
+        "nós": "asseguramos",
         "vós": "assegurastes",
         "eles/elas": "asseguraram"
       },
@@ -36326,7 +36326,7 @@
         "eu": "caminhei",
         "tu": "caminhaste",
         "ele/ela": "caminhou",
-        "nós": "caminhámos / caminhamos",
+        "nós": "caminhamos",
         "vós": "caminhastes",
         "eles/elas": "caminharam"
       },
@@ -36623,7 +36623,7 @@
         "eu": "separei",
         "tu": "separaste",
         "ele/ela": "separou",
-        "nós": "separámos / separamos",
+        "nós": "separamos",
         "vós": "separastes",
         "eles/elas": "separaram"
       },
@@ -36722,7 +36722,7 @@
         "eu": "votei",
         "tu": "votaste",
         "ele/ela": "votou",
-        "nós": "votámos / votamos",
+        "nós": "votamos",
         "vós": "votastes",
         "eles/elas": "votaram"
       },
@@ -36920,7 +36920,7 @@
         "eu": "neguei",
         "tu": "negaste",
         "ele/ela": "negou",
-        "nós": "negámos / negamos",
+        "nós": "negamos",
         "vós": "negastes",
         "eles/elas": "negaram"
       },
@@ -37019,7 +37019,7 @@
         "eu": "avaliei",
         "tu": "avaliaste",
         "ele/ela": "avaliou",
-        "nós": "avaliámos / avaliamos",
+        "nós": "avaliamos",
         "vós": "avaliastes",
         "eles/elas": "avaliaram"
       },
@@ -37118,7 +37118,7 @@
         "eu": "recusei",
         "tu": "recusaste",
         "ele/ela": "recusou",
-        "nós": "recusámos / recusamos",
+        "nós": "recusamos",
         "vós": "recusastes",
         "eles/elas": "recusaram"
       },
@@ -37316,7 +37316,7 @@
         "eu": "costumei",
         "tu": "costumaste",
         "ele/ela": "costumou",
-        "nós": "costumámos / costumamos",
+        "nós": "costumamos",
         "vós": "costumastes",
         "eles/elas": "costumaram"
       },
@@ -37415,7 +37415,7 @@
         "eu": "alterei",
         "tu": "alteraste",
         "ele/ela": "alterou",
-        "nós": "alterámos / alteramos",
+        "nós": "alteramos",
         "vós": "alterastes",
         "eles/elas": "alteraram"
       },
@@ -37514,7 +37514,7 @@
         "eu": "preocupei",
         "tu": "preocupaste",
         "ele/ela": "preocupou",
-        "nós": "preocupámos / preocupamos",
+        "nós": "preocupamos",
         "vós": "preocupastes",
         "eles/elas": "preocuparam"
       },
@@ -37712,7 +37712,7 @@
         "eu": "justifiquei",
         "tu": "justificaste",
         "ele/ela": "justificou",
-        "nós": "justificámos / justificamos",
+        "nós": "justificamos",
         "vós": "justificastes",
         "eles/elas": "justificaram"
       },
@@ -38009,7 +38009,7 @@
         "eu": "ataquei",
         "tu": "atacaste",
         "ele/ela": "atacou",
-        "nós": "atacámos / atacamos",
+        "nós": "atacamos",
         "vós": "atacastes",
         "eles/elas": "atacaram"
       },
@@ -38108,7 +38108,7 @@
         "eu": "lutei",
         "tu": "lutaste",
         "ele/ela": "lutou",
-        "nós": "lutámos / lutamos",
+        "nós": "lutamos",
         "vós": "lutastes",
         "eles/elas": "lutaram"
       },
@@ -38306,7 +38306,7 @@
         "eu": "divulguei",
         "tu": "divulgaste",
         "ele/ela": "divulgou",
-        "nós": "divulgámos / divulgamos",
+        "nós": "divulgamos",
         "vós": "divulgastes",
         "eles/elas": "divulgaram"
       },
@@ -38405,7 +38405,7 @@
         "eu": "concordei",
         "tu": "concordaste",
         "ele/ela": "concordou",
-        "nós": "concordámos / concordamos",
+        "nós": "concordamos",
         "vós": "concordastes",
         "eles/elas": "concordaram"
       },
@@ -38603,7 +38603,7 @@
         "eu": "respeitei",
         "tu": "respeitaste",
         "ele/ela": "respeitou",
-        "nós": "respeitámos / respeitamos",
+        "nós": "respeitamos",
         "vós": "respeitastes",
         "eles/elas": "respeitaram"
       },
@@ -38702,7 +38702,7 @@
         "eu": "pratiquei",
         "tu": "praticaste",
         "ele/ela": "praticou",
-        "nós": "praticámos / praticamos",
+        "nós": "praticamos",
         "vós": "praticastes",
         "eles/elas": "praticaram"
       },
@@ -38900,7 +38900,7 @@
         "eu": "disputei",
         "tu": "disputaste",
         "ele/ela": "disputou",
-        "nós": "disputámos / disputamos",
+        "nós": "disputamos",
         "vós": "disputastes",
         "eles/elas": "disputaram"
       },
@@ -39197,7 +39197,7 @@
         "eu": "carreguei",
         "tu": "carregaste",
         "ele/ela": "carregou",
-        "nós": "carregámos / carregamos",
+        "nós": "carregamos",
         "vós": "carregastes",
         "eles/elas": "carregaram"
       },
@@ -39296,7 +39296,7 @@
         "eu": "arrastei",
         "tu": "arrastaste",
         "ele/ela": "arrastou",
-        "nós": "arrastámos / arrastamos",
+        "nós": "arrastamos",
         "vós": "arrastastes",
         "eles/elas": "arrastaram"
       },
@@ -39395,7 +39395,7 @@
         "eu": "arranjei",
         "tu": "arranjaste",
         "ele/ela": "arranjou",
-        "nós": "arranjámos / arranjamos",
+        "nós": "arranjamos",
         "vós": "arranjastes",
         "eles/elas": "arranjaram"
       },
@@ -39593,7 +39593,7 @@
         "eu": "troquei",
         "tu": "trocaste",
         "ele/ela": "trocou",
-        "nós": "trocámos / trocamos",
+        "nós": "trocamos",
         "vós": "trocastes",
         "eles/elas": "trocaram"
       },
@@ -39791,7 +39791,7 @@
         "eu": "recuperei",
         "tu": "recuperaste",
         "ele/ela": "recuperou",
-        "nós": "recuperámos / recuperamos",
+        "nós": "recuperamos",
         "vós": "recuperastes",
         "eles/elas": "recuperaram"
       },
@@ -39890,7 +39890,7 @@
         "eu": "restei",
         "tu": "restaste",
         "ele/ela": "restou",
-        "nós": "restámos / restamos",
+        "nós": "restamos",
         "vós": "restastes",
         "eles/elas": "restaram"
       },
@@ -39989,7 +39989,7 @@
         "eu": "ensinei",
         "tu": "ensinaste",
         "ele/ela": "ensinou",
-        "nós": "ensinámos / ensinamos",
+        "nós": "ensinamos",
         "vós": "ensinastes",
         "eles/elas": "ensinaram"
       },
@@ -40088,7 +40088,7 @@
         "eu": "comparei",
         "tu": "comparaste",
         "ele/ela": "comparou",
-        "nós": "comparámos / comparamos",
+        "nós": "comparamos",
         "vós": "comparastes",
         "eles/elas": "compararam"
       },
@@ -40187,7 +40187,7 @@
         "eu": "quebrei",
         "tu": "quebraste",
         "ele/ela": "quebrou",
-        "nós": "quebrámos / quebramos",
+        "nós": "quebramos",
         "vós": "quebrastes",
         "eles/elas": "quebraram"
       },
@@ -40286,7 +40286,7 @@
         "eu": "calculei",
         "tu": "calculaste",
         "ele/ela": "calculou",
-        "nós": "calculámos / calculamos",
+        "nós": "calculamos",
         "vós": "calculastes",
         "eles/elas": "calcularam"
       },
@@ -40385,7 +40385,7 @@
         "eu": "ameacei",
         "tu": "ameaçaste",
         "ele/ela": "ameaçou",
-        "nós": "ameaçámos / ameaçamos",
+        "nós": "ameaçamos",
         "vós": "ameaçastes",
         "eles/elas": "ameaçaram"
       },
@@ -40484,7 +40484,7 @@
         "eu": "afetei",
         "tu": "afetaste",
         "ele/ela": "afetou",
-        "nós": "afetámos / afetamos",
+        "nós": "afetamos",
         "vós": "afetastes",
         "eles/elas": "afetaram"
       },
@@ -40583,7 +40583,7 @@
         "eu": "libertei",
         "tu": "libertaste",
         "ele/ela": "libertou",
-        "nós": "libertámos / libertamos",
+        "nós": "libertamos",
         "vós": "libertastes",
         "eles/elas": "libertaram"
       },
@@ -40682,7 +40682,7 @@
         "eu": "visei",
         "tu": "visaste",
         "ele/ela": "visou",
-        "nós": "visámos / visamos",
+        "nós": "visamos",
         "vós": "visastes",
         "eles/elas": "visaram"
       },
@@ -40781,7 +40781,7 @@
         "eu": "manifestei",
         "tu": "manifestaste",
         "ele/ela": "manifestou",
-        "nós": "manifestámos / manifestamos",
+        "nós": "manifestamos",
         "vós": "manifestastes",
         "eles/elas": "manifestaram"
       },
@@ -41078,7 +41078,7 @@
         "eu": "registei",
         "tu": "registaste",
         "ele/ela": "registou",
-        "nós": "registámos / registamos",
+        "nós": "registamos",
         "vós": "registastes",
         "eles/elas": "registaram"
       },
@@ -41177,7 +41177,7 @@
         "eu": "voei",
         "tu": "voaste",
         "ele/ela": "voou",
-        "nós": "voámos / voamos",
+        "nós": "voamos",
         "vós": "voastes",
         "eles/elas": "voaram"
       },
@@ -41375,7 +41375,7 @@
         "eu": "demorei",
         "tu": "demoraste",
         "ele/ela": "demorou",
-        "nós": "demorámos / demoramos",
+        "nós": "demoramos",
         "vós": "demorastes",
         "eles/elas": "demoraram"
       },
@@ -41474,7 +41474,7 @@
         "eu": "ultrapassei",
         "tu": "ultrapassaste",
         "ele/ela": "ultrapassou",
-        "nós": "ultrapassámos / ultrapassamos",
+        "nós": "ultrapassamos",
         "vós": "ultrapassastes",
         "eles/elas": "ultrapassaram"
       },
@@ -41573,7 +41573,7 @@
         "eu": "critiquei",
         "tu": "criticaste",
         "ele/ela": "criticou",
-        "nós": "criticámos / criticamos",
+        "nós": "criticamos",
         "vós": "criticastes",
         "eles/elas": "criticaram"
       },
@@ -41672,7 +41672,7 @@
         "eu": "saltei",
         "tu": "saltaste",
         "ele/ela": "saltou",
-        "nós": "saltámos / saltamos",
+        "nós": "saltamos",
         "vós": "saltastes",
         "eles/elas": "saltaram"
       },
@@ -41771,7 +41771,7 @@
         "eu": "gastei",
         "tu": "gastaste",
         "ele/ela": "gastou",
-        "nós": "gastámos / gastamos",
+        "nós": "gastamos",
         "vós": "gastastes",
         "eles/elas": "gastaram"
       },
@@ -41870,7 +41870,7 @@
         "eu": "reparei",
         "tu": "reparaste",
         "ele/ela": "reparou",
-        "nós": "reparámos / reparamos",
+        "nós": "reparamos",
         "vós": "reparastes",
         "eles/elas": "repararam"
       },
@@ -41969,7 +41969,7 @@
         "eu": "soltei",
         "tu": "soltaste",
         "ele/ela": "soltou",
-        "nós": "soltámos / soltamos",
+        "nós": "soltamos",
         "vós": "soltastes",
         "eles/elas": "soltaram"
       },
@@ -42068,7 +42068,7 @@
         "eu": "executei",
         "tu": "executaste",
         "ele/ela": "executou",
-        "nós": "executámos / executamos",
+        "nós": "executamos",
         "vós": "executastes",
         "eles/elas": "executaram"
       },
@@ -42167,7 +42167,7 @@
         "eu": "limpei",
         "tu": "limpaste",
         "ele/ela": "limpou",
-        "nós": "limpámos / limpamos",
+        "nós": "limpamos",
         "vós": "limpastes",
         "eles/elas": "limparam"
       },
@@ -42365,7 +42365,7 @@
         "eu": "montei",
         "tu": "montaste",
         "ele/ela": "montou",
-        "nós": "montámos / montamos",
+        "nós": "montamos",
         "vós": "montastes",
         "eles/elas": "montaram"
       },
@@ -42464,7 +42464,7 @@
         "eu": "assinei",
         "tu": "assinaste",
         "ele/ela": "assinou",
-        "nós": "assinámos / assinamos",
+        "nós": "assinamos",
         "vós": "assinastes",
         "eles/elas": "assinaram"
       },
@@ -42563,7 +42563,7 @@
         "eu": "aprovei",
         "tu": "aprovaste",
         "ele/ela": "aprovou",
-        "nós": "aprovámos / aprovamos",
+        "nós": "aprovamos",
         "vós": "aprovastes",
         "eles/elas": "aprovaram"
       },
@@ -42761,7 +42761,7 @@
         "eu": "influenciei",
         "tu": "influenciaste",
         "ele/ela": "influenciou",
-        "nós": "influenciámos / influenciamos",
+        "nós": "influenciamos",
         "vós": "influenciastes",
         "eles/elas": "influenciaram"
       },
@@ -42860,7 +42860,7 @@
         "eu": "apertei",
         "tu": "apertaste",
         "ele/ela": "apertou",
-        "nós": "apertámos / apertamos",
+        "nós": "apertamos",
         "vós": "apertastes",
         "eles/elas": "apertaram"
       },
@@ -42959,7 +42959,7 @@
         "eu": "sustentei",
         "tu": "sustentaste",
         "ele/ela": "sustentou",
-        "nós": "sustentámos / sustentamos",
+        "nós": "sustentamos",
         "vós": "sustentastes",
         "eles/elas": "sustentaram"
       },
@@ -43058,7 +43058,7 @@
         "eu": "inventei",
         "tu": "inventaste",
         "ele/ela": "inventou",
-        "nós": "inventámos / inventamos",
+        "nós": "inventamos",
         "vós": "inventastes",
         "eles/elas": "inventaram"
       },
@@ -43355,7 +43355,7 @@
         "eu": "escapei",
         "tu": "escapaste",
         "ele/ela": "escapou",
-        "nós": "escapámos / escapamos",
+        "nós": "escapamos",
         "vós": "escapastes",
         "eles/elas": "escaparam"
       },
@@ -43751,7 +43751,7 @@
         "eu": "registei",
         "tu": "registaste",
         "ele/ela": "registou",
-        "nós": "registámos / registamos",
+        "nós": "registamos",
         "vós": "registastes",
         "eles/elas": "registaram"
       },
@@ -43850,7 +43850,7 @@
         "eu": "pintei",
         "tu": "pintaste",
         "ele/ela": "pintou",
-        "nós": "pintámos / pintamos",
+        "nós": "pintamos",
         "vós": "pintastes",
         "eles/elas": "pintaram"
       },
@@ -44147,7 +44147,7 @@
         "eu": "organizei",
         "tu": "organizaste",
         "ele/ela": "organizou",
-        "nós": "organizámos / organizamos",
+        "nós": "organizamos",
         "vós": "organizastes",
         "eles/elas": "organizaram"
       },
@@ -44246,7 +44246,7 @@
         "eu": "escutei",
         "tu": "escutaste",
         "ele/ela": "escutou",
-        "nós": "escutámos / escutamos",
+        "nós": "escutamos",
         "vós": "escutastes",
         "eles/elas": "escutaram"
       },
@@ -44345,7 +44345,7 @@
         "eu": "empreguei",
         "tu": "empregaste",
         "ele/ela": "empregou",
-        "nós": "empregámos / empregamos",
+        "nós": "empregamos",
         "vós": "empregastes",
         "eles/elas": "empregaram"
       },
@@ -44543,7 +44543,7 @@
         "eu": "espalhei",
         "tu": "espalhaste",
         "ele/ela": "espalhou",
-        "nós": "espalhámos / espalhamos",
+        "nós": "espalhamos",
         "vós": "espalhastes",
         "eles/elas": "espalharam"
       },
@@ -44741,7 +44741,7 @@
         "eu": "baseei",
         "tu": "baseaste",
         "ele/ela": "baseou",
-        "nós": "baseámos / baseamos",
+        "nós": "baseamos",
         "vós": "baseastes",
         "eles/elas": "basearam"
       },
@@ -44840,7 +44840,7 @@
         "eu": "operei",
         "tu": "operaste",
         "ele/ela": "operou",
-        "nós": "operámos / operamos",
+        "nós": "operamos",
         "vós": "operastes",
         "eles/elas": "operaram"
       },
@@ -45038,7 +45038,7 @@
         "eu": "arranquei",
         "tu": "arrancaste",
         "ele/ela": "arrancou",
-        "nós": "arrancámos / arrancamos",
+        "nós": "arrancamos",
         "vós": "arrancastes",
         "eles/elas": "arrancaram"
       },
@@ -45137,7 +45137,7 @@
         "eu": "provei",
         "tu": "provaste",
         "ele/ela": "provou",
-        "nós": "provámos / provamos",
+        "nós": "provamos",
         "vós": "provastes",
         "eles/elas": "provaram"
       },
@@ -45335,7 +45335,7 @@
         "eu": "estimei",
         "tu": "estimaste",
         "ele/ela": "estimou",
-        "nós": "estimámos / estimamos",
+        "nós": "estimamos",
         "vós": "estimastes",
         "eles/elas": "estimaram"
       },
@@ -45533,7 +45533,7 @@
         "eu": "derivei",
         "tu": "derivaste",
         "ele/ela": "derivou",
-        "nós": "derivámos / derivamos",
+        "nós": "derivamos",
         "vós": "derivastes",
         "eles/elas": "derivaram"
       },
@@ -45830,7 +45830,7 @@
         "eu": "roubei",
         "tu": "roubaste",
         "ele/ela": "roubou",
-        "nós": "roubámos / roubamos",
+        "nós": "roubamos",
         "vós": "roubastes",
         "eles/elas": "roubaram"
       },
@@ -45929,7 +45929,7 @@
         "eu": "comandei",
         "tu": "comandaste",
         "ele/ela": "comandou",
-        "nós": "comandámos / comandamos",
+        "nós": "comandamos",
         "vós": "comandastes",
         "eles/elas": "comandaram"
       },
@@ -46028,7 +46028,7 @@
         "eu": "reclamei",
         "tu": "reclamaste",
         "ele/ela": "reclamou",
-        "nós": "reclamámos / reclamamos",
+        "nós": "reclamamos",
         "vós": "reclamastes",
         "eles/elas": "reclamaram"
       },
@@ -46127,7 +46127,7 @@
         "eu": "cobrei",
         "tu": "cobraste",
         "ele/ela": "cobrou",
-        "nós": "cobrámos / cobramos",
+        "nós": "cobramos",
         "vós": "cobrastes",
         "eles/elas": "cobraram"
       },
@@ -46226,7 +46226,7 @@
         "eu": "desloquei",
         "tu": "deslocaste",
         "ele/ela": "deslocou",
-        "nós": "deslocámos / deslocamos",
+        "nós": "deslocamos",
         "vós": "deslocastes",
         "eles/elas": "deslocaram"
       },
@@ -46325,7 +46325,7 @@
         "eu": "negociei",
         "tu": "negociaste",
         "ele/ela": "negociou",
-        "nós": "negociámos / negociamos",
+        "nós": "negociamos",
         "vós": "negociastes",
         "eles/elas": "negociaram"
       },
@@ -46424,7 +46424,7 @@
         "eu": "transportei",
         "tu": "transportaste",
         "ele/ela": "transportou",
-        "nós": "transportámos / transportamos",
+        "nós": "transportamos",
         "vós": "transportastes",
         "eles/elas": "transportaram"
       },
@@ -46523,7 +46523,7 @@
         "eu": "explorei",
         "tu": "exploraste",
         "ele/ela": "explorou",
-        "nós": "explorámos / exploramos",
+        "nós": "exploramos",
         "vós": "explorastes",
         "eles/elas": "exploraram"
       },
@@ -46622,7 +46622,7 @@
         "eu": "brinquei",
         "tu": "brincaste",
         "ele/ela": "brincou",
-        "nós": "brincámos / brincamos",
+        "nós": "brincamos",
         "vós": "brincastes",
         "eles/elas": "brincaram"
       },
@@ -46820,7 +46820,7 @@
         "eu": "concentrei",
         "tu": "concentraste",
         "ele/ela": "concentrou",
-        "nós": "concentrámos / concentramos",
+        "nós": "concentramos",
         "vós": "concentrastes",
         "eles/elas": "concentraram"
       },
@@ -46919,7 +46919,7 @@
         "eu": "botei",
         "tu": "botaste",
         "ele/ela": "botou",
-        "nós": "botámos / botamos",
+        "nós": "botamos",
         "vós": "botastes",
         "eles/elas": "botaram"
       },
@@ -47117,7 +47117,7 @@
         "eu": "salientei",
         "tu": "salientaste",
         "ele/ela": "salientou",
-        "nós": "salientámos / salientamos",
+        "nós": "salientamos",
         "vós": "salientastes",
         "eles/elas": "salientaram"
       },
@@ -47216,7 +47216,7 @@
         "eu": "facilitei",
         "tu": "facilitaste",
         "ele/ela": "facilitou",
-        "nós": "facilitámos / facilitamos",
+        "nós": "facilitamos",
         "vós": "facilitastes",
         "eles/elas": "facilitaram"
       },
@@ -47315,7 +47315,7 @@
         "eu": "interpretei",
         "tu": "interpretaste",
         "ele/ela": "interpretou",
-        "nós": "interpretámos / interpretamos",
+        "nós": "interpretamos",
         "vós": "interpretastes",
         "eles/elas": "interpretaram"
       },
@@ -47414,7 +47414,7 @@
         "eu": "reforcei",
         "tu": "reforçaste",
         "ele/ela": "reforçou",
-        "nós": "reforçámos / reforçamos",
+        "nós": "reforçamos",
         "vós": "reforçastes",
         "eles/elas": "reforçaram"
       },
@@ -47513,7 +47513,7 @@
         "eu": "desempenhei",
         "tu": "desempenhaste",
         "ele/ela": "desempenhou",
-        "nós": "desempenhámos / desempenhamos",
+        "nós": "desempenhamos",
         "vós": "desempenhastes",
         "eles/elas": "desempenharam"
       },
@@ -47612,7 +47612,7 @@
         "eu": "impliquei",
         "tu": "implicaste",
         "ele/ela": "implicou",
-        "nós": "implicámos / implicamos",
+        "nós": "implicamos",
         "vós": "implicastes",
         "eles/elas": "implicaram"
       },
@@ -48305,7 +48305,7 @@
         "eu": "gravei",
         "tu": "gravaste",
         "ele/ela": "gravou",
-        "nós": "gravámos / gravamos",
+        "nós": "gravamos",
         "vós": "gravastes",
         "eles/elas": "gravaram"
       },
@@ -48404,7 +48404,7 @@
         "eu": "denunciei",
         "tu": "denunciaste",
         "ele/ela": "denunciou",
-        "nós": "denunciámos / denunciamos",
+        "nós": "denunciamos",
         "vós": "denunciastes",
         "eles/elas": "denunciaram"
       },
@@ -48503,7 +48503,7 @@
         "eu": "aguardei",
         "tu": "aguardaste",
         "ele/ela": "aguardou",
-        "nós": "aguardámos / aguardamos",
+        "nós": "aguardamos",
         "vós": "aguardastes",
         "eles/elas": "aguardaram"
       },
@@ -48602,7 +48602,7 @@
         "eu": "retomei",
         "tu": "retomaste",
         "ele/ela": "retomou",
-        "nós": "retomámos / retomamos",
+        "nós": "retomamos",
         "vós": "retomastes",
         "eles/elas": "retomaram"
       },
@@ -48701,7 +48701,7 @@
         "eu": "efetuei",
         "tu": "efetuaste",
         "ele/ela": "efetuou",
-        "nós": "efetuámos / efetuamos",
+        "nós": "efetuamos",
         "vós": "efetuastes",
         "eles/elas": "efetuaram"
       },
@@ -48800,7 +48800,7 @@
         "eu": "encarei",
         "tu": "encaraste",
         "ele/ela": "encarou",
-        "nós": "encarámos / encaramos",
+        "nós": "encaramos",
         "vós": "encarastes",
         "eles/elas": "encararam"
       },
@@ -48899,7 +48899,7 @@
         "eu": "sonhei",
         "tu": "sonhaste",
         "ele/ela": "sonhou",
-        "nós": "sonhámos / sonhamos",
+        "nós": "sonhamos",
         "vós": "sonhastes",
         "eles/elas": "sonharam"
       },
@@ -48998,7 +48998,7 @@
         "eu": "avisei",
         "tu": "avisaste",
         "ele/ela": "avisou",
-        "nós": "avisámos / avisamos",
+        "nós": "avisamos",
         "vós": "avisastes",
         "eles/elas": "avisaram"
       },
@@ -49097,7 +49097,7 @@
         "eu": "apurei",
         "tu": "apuraste",
         "ele/ela": "apurou",
-        "nós": "apurámos / apuramos",
+        "nós": "apuramos",
         "vós": "apurastes",
         "eles/elas": "apuraram"
       },
@@ -49196,7 +49196,7 @@
         "eu": "encerrei",
         "tu": "encerraste",
         "ele/ela": "encerrou",
-        "nós": "encerrámos / encerramos",
+        "nós": "encerramos",
         "vós": "encerrastes",
         "eles/elas": "encerraram"
       },
@@ -49295,7 +49295,7 @@
         "eu": "originei",
         "tu": "originaste",
         "ele/ela": "originou",
-        "nós": "originámos / originamos",
+        "nós": "originamos",
         "vós": "originastes",
         "eles/elas": "originaram"
       },
@@ -49493,7 +49493,7 @@
         "eu": "errei",
         "tu": "erraste",
         "ele/ela": "errou",
-        "nós": "errámos / erramos",
+        "nós": "erramos",
         "vós": "errastes",
         "eles/elas": "erraram"
       },
@@ -49592,7 +49592,7 @@
         "eu": "acumulei",
         "tu": "acumulaste",
         "ele/ela": "acumulou",
-        "nós": "acumulámos / acumulamos",
+        "nós": "acumulamos",
         "vós": "acumulastes",
         "eles/elas": "acumularam"
       },
@@ -49889,7 +49889,7 @@
         "eu": "necessitei",
         "tu": "necessitaste",
         "ele/ela": "necessitou",
-        "nós": "necessitámos / necessitamos",
+        "nós": "necessitamos",
         "vós": "necessitastes",
         "eles/elas": "necessitaram"
       },
@@ -49988,7 +49988,7 @@
         "eu": "despertei",
         "tu": "despertaste",
         "ele/ela": "despertou",
-        "nós": "despertámos / despertamos",
+        "nós": "despertamos",
         "vós": "despertastes",
         "eles/elas": "despertaram"
       },
@@ -50186,7 +50186,7 @@
         "eu": "larguei",
         "tu": "largaste",
         "ele/ela": "largou",
-        "nós": "largámos / largamos",
+        "nós": "largamos",
         "vós": "largastes",
         "eles/elas": "largaram"
       },
@@ -50285,7 +50285,7 @@
         "eu": "comuniquei",
         "tu": "comunicaste",
         "ele/ela": "comunicou",
-        "nós": "comunicámos / comunicamos",
+        "nós": "comunicamos",
         "vós": "comunicastes",
         "eles/elas": "comunicaram"
       },
@@ -50384,7 +50384,7 @@
         "eu": "exclamei",
         "tu": "exclamaste",
         "ele/ela": "exclamou",
-        "nós": "exclamámos / exclamamos",
+        "nós": "exclamamos",
         "vós": "exclamastes",
         "eles/elas": "exclamaram"
       },
@@ -50483,7 +50483,7 @@
         "eu": "investiguei",
         "tu": "investigaste",
         "ele/ela": "investigou",
-        "nós": "investigámos / investigamos",
+        "nós": "investigamos",
         "vós": "investigastes",
         "eles/elas": "investigaram"
       },
@@ -50582,7 +50582,7 @@
         "eu": "segurei",
         "tu": "seguraste",
         "ele/ela": "segurou",
-        "nós": "segurámos / seguramos",
+        "nós": "seguramos",
         "vós": "segurastes",
         "eles/elas": "seguraram"
       },
@@ -50681,7 +50681,7 @@
         "eu": "agarrei",
         "tu": "agarraste",
         "ele/ela": "agarrou",
-        "nós": "agarrámos / agarramos",
+        "nós": "agarramos",
         "vós": "agarrastes",
         "eles/elas": "agarraram"
       },
@@ -50780,7 +50780,7 @@
         "eu": "ordenei",
         "tu": "ordenaste",
         "ele/ela": "ordenou",
-        "nós": "ordenámos / ordenamos",
+        "nós": "ordenamos",
         "vós": "ordenastes",
         "eles/elas": "ordenaram"
       },
@@ -50879,7 +50879,7 @@
         "eu": "ignorei",
         "tu": "ignoraste",
         "ele/ela": "ignorou",
-        "nós": "ignorámos / ignoramos",
+        "nós": "ignoramos",
         "vós": "ignorastes",
         "eles/elas": "ignoraram"
       },
@@ -50978,7 +50978,7 @@
         "eu": "governei",
         "tu": "governaste",
         "ele/ela": "governou",
-        "nós": "governámos / governamos",
+        "nós": "governamos",
         "vós": "governastes",
         "eles/elas": "governaram"
       },
@@ -51077,7 +51077,7 @@
         "eu": "suportei",
         "tu": "suportaste",
         "ele/ela": "suportou",
-        "nós": "suportámos / suportamos",
+        "nós": "suportamos",
         "vós": "suportastes",
         "eles/elas": "suportaram"
       },
@@ -51176,7 +51176,7 @@
         "eu": "desenhei",
         "tu": "desenhaste",
         "ele/ela": "desenhou",
-        "nós": "desenhámos / desenhamos",
+        "nós": "desenhamos",
         "vós": "desenhastes",
         "eles/elas": "desenharam"
       },
@@ -51275,7 +51275,7 @@
         "eu": "condenei",
         "tu": "condenaste",
         "ele/ela": "condenou",
-        "nós": "condenámos / condenamos",
+        "nós": "condenamos",
         "vós": "condenastes",
         "eles/elas": "condenaram"
       },
@@ -51374,7 +51374,7 @@
         "eu": "inspirei",
         "tu": "inspiraste",
         "ele/ela": "inspirou",
-        "nós": "inspirámos / inspiramos",
+        "nós": "inspiramos",
         "vós": "inspirastes",
         "eles/elas": "inspiraram"
       },
@@ -51473,7 +51473,7 @@
         "eu": "optei",
         "tu": "optaste",
         "ele/ela": "optou",
-        "nós": "optámos / optamos",
+        "nós": "optamos",
         "vós": "optastes",
         "eles/elas": "optaram"
       },
@@ -51572,7 +51572,7 @@
         "eu": "confessei",
         "tu": "confessaste",
         "ele/ela": "confessou",
-        "nós": "confessámos / confessamos",
+        "nós": "confessamos",
         "vós": "confessastes",
         "eles/elas": "confessaram"
       },
@@ -51770,7 +51770,7 @@
         "eu": "constei",
         "tu": "constaste",
         "ele/ela": "constou",
-        "nós": "constámos / constamos",
+        "nós": "constamos",
         "vós": "constastes",
         "eles/elas": "constaram"
       },
@@ -51869,7 +51869,7 @@
         "eu": "admirei",
         "tu": "admiraste",
         "ele/ela": "admirou",
-        "nós": "admirámos / admiramos",
+        "nós": "admiramos",
         "vós": "admirastes",
         "eles/elas": "admiraram"
       },
@@ -51968,7 +51968,7 @@
         "eu": "prejudiquei",
         "tu": "prejudicaste",
         "ele/ela": "prejudicou",
-        "nós": "prejudicámos / prejudicamos",
+        "nós": "prejudicamos",
         "vós": "prejudicastes",
         "eles/elas": "prejudicaram"
       },
@@ -52166,7 +52166,7 @@
         "eu": "murmurei",
         "tu": "murmuraste",
         "ele/ela": "murmurou",
-        "nós": "murmurámos / murmuramos",
+        "nós": "murmuramos",
         "vós": "murmurastes",
         "eles/elas": "murmuraram"
       },
@@ -52265,7 +52265,7 @@
         "eu": "armei",
         "tu": "armaste",
         "ele/ela": "armou",
-        "nós": "armámos / armamos",
+        "nós": "armamos",
         "vós": "armastes",
         "eles/elas": "armaram"
       },
@@ -52364,7 +52364,7 @@
         "eu": "dobrei",
         "tu": "dobraste",
         "ele/ela": "dobrou",
-        "nós": "dobrámos / dobramos",
+        "nós": "dobramos",
         "vós": "dobrastes",
         "eles/elas": "dobraram"
       },
@@ -52463,7 +52463,7 @@
         "eu": "derrubei",
         "tu": "derrubaste",
         "ele/ela": "derrubou",
-        "nós": "derrubámos / derrubamos",
+        "nós": "derrubamos",
         "vós": "derrubastes",
         "eles/elas": "derrubaram"
       },
@@ -52661,7 +52661,7 @@
         "eu": "circulei",
         "tu": "circulaste",
         "ele/ela": "circulou",
-        "nós": "circulámos / circulamos",
+        "nós": "circulamos",
         "vós": "circulastes",
         "eles/elas": "circularam"
       },
@@ -52760,7 +52760,7 @@
         "eu": "apaguei",
         "tu": "apagaste",
         "ele/ela": "apagou",
-        "nós": "apagámos / apagamos",
+        "nós": "apagamos",
         "vós": "apagastes",
         "eles/elas": "apagaram"
       },
@@ -53156,7 +53156,7 @@
         "eu": "eliminei",
         "tu": "eliminaste",
         "ele/ela": "eliminou",
-        "nós": "eliminámos / eliminamos",
+        "nós": "eliminamos",
         "vós": "eliminastes",
         "eles/elas": "eliminaram"
       },
@@ -53255,7 +53255,7 @@
         "eu": "colaborei",
         "tu": "colaboraste",
         "ele/ela": "colaborou",
-        "nós": "colaborámos / colaboramos",
+        "nós": "colaboramos",
         "vós": "colaborastes",
         "eles/elas": "colaboraram"
       },
@@ -53453,7 +53453,7 @@
         "eu": "solicitei",
         "tu": "solicitaste",
         "ele/ela": "solicitou",
-        "nós": "solicitámos / solicitamos",
+        "nós": "solicitamos",
         "vós": "solicitastes",
         "eles/elas": "solicitaram"
       },
@@ -53552,7 +53552,7 @@
         "eu": "conservei",
         "tu": "conservaste",
         "ele/ela": "conservou",
-        "nós": "conservámos / conservamos",
+        "nós": "conservamos",
         "vós": "conservastes",
         "eles/elas": "conservaram"
       },
@@ -53651,7 +53651,7 @@
         "eu": "aleguei",
         "tu": "alegaste",
         "ele/ela": "alegou",
-        "nós": "alegámos / alegamos",
+        "nós": "alegamos",
         "vós": "alegastes",
         "eles/elas": "alegaram"
       },
@@ -53849,7 +53849,7 @@
         "eu": "encaminhei",
         "tu": "encaminhaste",
         "ele/ela": "encaminhou",
-        "nós": "encaminhámos / encaminhamos",
+        "nós": "encaminhamos",
         "vós": "encaminhastes",
         "eles/elas": "encaminharam"
       },
@@ -53948,7 +53948,7 @@
         "eu": "elevei",
         "tu": "elevaste",
         "ele/ela": "elevou",
-        "nós": "elevámos / elevamos",
+        "nós": "elevamos",
         "vós": "elevastes",
         "eles/elas": "elevaram"
       },
@@ -54047,7 +54047,7 @@
         "eu": "modifiquei",
         "tu": "modificaste",
         "ele/ela": "modificou",
-        "nós": "modificámos / modificamos",
+        "nós": "modificamos",
         "vós": "modificastes",
         "eles/elas": "modificaram"
       },
@@ -54146,7 +54146,7 @@
         "eu": "combinei",
         "tu": "combinaste",
         "ele/ela": "combinou",
-        "nós": "combinámos / combinamos",
+        "nós": "combinamos",
         "vós": "combinastes",
         "eles/elas": "combinaram"
       },
@@ -54245,7 +54245,7 @@
         "eu": "classifiquei",
         "tu": "classificaste",
         "ele/ela": "classificou",
-        "nós": "classificámos / classificamos",
+        "nós": "classificamos",
         "vós": "classificastes",
         "eles/elas": "classificaram"
       },
@@ -54542,7 +54542,7 @@
         "eu": "contemplei",
         "tu": "contemplaste",
         "ele/ela": "contemplou",
-        "nós": "contemplámos / contemplamos",
+        "nós": "contemplamos",
         "vós": "contemplastes",
         "eles/elas": "contemplaram"
       },
@@ -54641,7 +54641,7 @@
         "eu": "beneficiei",
         "tu": "beneficiaste",
         "ele/ela": "beneficiou",
-        "nós": "beneficiámos / beneficiamos",
+        "nós": "beneficiamos",
         "vós": "beneficiastes",
         "eles/elas": "beneficiaram"
       },
@@ -54740,7 +54740,7 @@
         "eu": "queimei",
         "tu": "queimaste",
         "ele/ela": "queimou",
-        "nós": "queimámos / queimamos",
+        "nós": "queimamos",
         "vós": "queimastes",
         "eles/elas": "queimaram"
       },
@@ -54938,7 +54938,7 @@
         "eu": "adaptei",
         "tu": "adaptaste",
         "ele/ela": "adaptou",
-        "nós": "adaptámos / adaptamos",
+        "nós": "adaptamos",
         "vós": "adaptastes",
         "eles/elas": "adaptaram"
       },
@@ -55037,7 +55037,7 @@
         "eu": "situei",
         "tu": "situaste",
         "ele/ela": "situou",
-        "nós": "situámos / situamos",
+        "nós": "situamos",
         "vós": "situastes",
         "eles/elas": "situaram"
       },
@@ -55136,7 +55136,7 @@
         "eu": "projectei",
         "tu": "projectaste",
         "ele/ela": "projectou",
-        "nós": "projectámos / projectamos",
+        "nós": "projectamos",
         "vós": "projectastes",
         "eles/elas": "projectaram"
       },
@@ -55235,7 +55235,7 @@
         "eu": "rejeitei",
         "tu": "rejeitaste",
         "ele/ela": "rejeitou",
-        "nós": "rejeitámos / rejeitamos",
+        "nós": "rejeitamos",
         "vós": "rejeitastes",
         "eles/elas": "rejeitaram"
       },
@@ -55433,7 +55433,7 @@
         "eu": "lavei",
         "tu": "lavaste",
         "ele/ela": "lavou",
-        "nós": "lavámos / lavamos",
+        "nós": "lavamos",
         "vós": "lavastes",
         "eles/elas": "lavaram"
       },
@@ -55532,7 +55532,7 @@
         "eu": "frequentei",
         "tu": "frequentaste",
         "ele/ela": "frequentou",
-        "nós": "frequentámos / frequentamos",
+        "nós": "frequentamos",
         "vós": "frequentastes",
         "eles/elas": "frequentaram"
       },
@@ -55631,7 +55631,7 @@
         "eu": "convoquei",
         "tu": "convocaste",
         "ele/ela": "convocou",
-        "nós": "convocámos / convocamos",
+        "nós": "convocamos",
         "vós": "convocastes",
         "eles/elas": "convocaram"
       },
@@ -55730,7 +55730,7 @@
         "eu": "acertei",
         "tu": "acertaste",
         "ele/ela": "acertou",
-        "nós": "acertámos / acertamos",
+        "nós": "acertamos",
         "vós": "acertastes",
         "eles/elas": "acertaram"
       },
@@ -55829,7 +55829,7 @@
         "eu": "misturei",
         "tu": "misturaste",
         "ele/ela": "misturou",
-        "nós": "misturámos / misturamos",
+        "nós": "misturamos",
         "vós": "misturastes",
         "eles/elas": "misturaram"
       },
@@ -56027,7 +56027,7 @@
         "eu": "superei",
         "tu": "superaste",
         "ele/ela": "superou",
-        "nós": "superámos / superamos",
+        "nós": "superamos",
         "vós": "superastes",
         "eles/elas": "superaram"
       },
@@ -56126,7 +56126,7 @@
         "eu": "cultivei",
         "tu": "cultivaste",
         "ele/ela": "cultivou",
-        "nós": "cultivámos / cultivamos",
+        "nós": "cultivamos",
         "vós": "cultivastes",
         "eles/elas": "cultivaram"
       },
@@ -56225,7 +56225,7 @@
         "eu": "agitei",
         "tu": "agitaste",
         "ele/ela": "agitou",
-        "nós": "agitámos / agitamos",
+        "nós": "agitamos",
         "vós": "agitastes",
         "eles/elas": "agitaram"
       },
@@ -56423,7 +56423,7 @@
         "eu": "orientei",
         "tu": "orientaste",
         "ele/ela": "orientou",
-        "nós": "orientámos / orientamos",
+        "nós": "orientamos",
         "vós": "orientastes",
         "eles/elas": "orientaram"
       },
@@ -56522,7 +56522,7 @@
         "eu": "animei",
         "tu": "animaste",
         "ele/ela": "animou",
-        "nós": "animámos / animamos",
+        "nós": "animamos",
         "vós": "animastes",
         "eles/elas": "animaram"
       },
@@ -56720,7 +56720,7 @@
         "eu": "assentei",
         "tu": "assentaste",
         "ele/ela": "assentou",
-        "nós": "assentámos / assentamos",
+        "nós": "assentamos",
         "vós": "assentastes",
         "eles/elas": "assentaram"
       },
@@ -56819,7 +56819,7 @@
         "eu": "possibilitei",
         "tu": "possibilitaste",
         "ele/ela": "possibilitou",
-        "nós": "possibilitámos / possibilitamos",
+        "nós": "possibilitamos",
         "vós": "possibilitastes",
         "eles/elas": "possibilitaram"
       },
@@ -56918,7 +56918,7 @@
         "eu": "proporcionei",
         "tu": "proporcionaste",
         "ele/ela": "proporcionou",
-        "nós": "proporcionámos / proporcionamos",
+        "nós": "proporcionamos",
         "vós": "proporcionastes",
         "eles/elas": "proporcionaram"
       },
@@ -57017,7 +57017,7 @@
         "eu": "inaugurei",
         "tu": "inauguraste",
         "ele/ela": "inaugurou",
-        "nós": "inaugurámos / inauguramos",
+        "nós": "inauguramos",
         "vós": "inaugurastes",
         "eles/elas": "inauguraram"
       },
@@ -57116,7 +57116,7 @@
         "eu": "beijei",
         "tu": "beijaste",
         "ele/ela": "beijou",
-        "nós": "beijámos / beijamos",
+        "nós": "beijamos",
         "vós": "beijastes",
         "eles/elas": "beijaram"
       },
@@ -57215,7 +57215,7 @@
         "eu": "autorizei",
         "tu": "autorizaste",
         "ele/ela": "autorizou",
-        "nós": "autorizámos / autorizamos",
+        "nós": "autorizamos",
         "vós": "autorizastes",
         "eles/elas": "autorizaram"
       },
@@ -57611,7 +57611,7 @@
         "eu": "estimulei",
         "tu": "estimulaste",
         "ele/ela": "estimulou",
-        "nós": "estimulámos / estimulamos",
+        "nós": "estimulamos",
         "vós": "estimulastes",
         "eles/elas": "estimularam"
       },
@@ -57809,7 +57809,7 @@
         "eu": "descansei",
         "tu": "descansaste",
         "ele/ela": "descansou",
-        "nós": "descansámos / descansamos",
+        "nós": "descansamos",
         "vós": "descansastes",
         "eles/elas": "descansaram"
       },
@@ -57908,7 +57908,7 @@
         "eu": "passeei",
         "tu": "passeaste",
         "ele/ela": "passeou",
-        "nós": "passeámos / passeamos",
+        "nós": "passeamos",
         "vós": "passeastes",
         "eles/elas": "passearam"
       },
@@ -58007,7 +58007,7 @@
         "eu": "confiei",
         "tu": "confiaste",
         "ele/ela": "confiou",
-        "nós": "confiámos / confiamos",
+        "nós": "confiamos",
         "vós": "confiastes",
         "eles/elas": "confiaram"
       },
@@ -58205,7 +58205,7 @@
         "eu": "ressaltei",
         "tu": "ressaltaste",
         "ele/ela": "ressaltou",
-        "nós": "ressaltámos / ressaltamos",
+        "nós": "ressaltamos",
         "vós": "ressaltastes",
         "eles/elas": "ressaltaram"
       },
@@ -58304,7 +58304,7 @@
         "eu": "destinei",
         "tu": "destinaste",
         "ele/ela": "destinou",
-        "nós": "destinámos / destinamos",
+        "nós": "destinamos",
         "vós": "destinastes",
         "eles/elas": "destinaram"
       },
@@ -58403,7 +58403,7 @@
         "eu": "retornei",
         "tu": "retornaste",
         "ele/ela": "retornou",
-        "nós": "retornámos / retornamos",
+        "nós": "retornamos",
         "vós": "retornastes",
         "eles/elas": "retornaram"
       },
@@ -58601,7 +58601,7 @@
         "eu": "apreciei",
         "tu": "apreciaste",
         "ele/ela": "apreciou",
-        "nós": "apreciámos / apreciamos",
+        "nós": "apreciamos",
         "vós": "apreciastes",
         "eles/elas": "apreciaram"
       },
@@ -58700,7 +58700,7 @@
         "eu": "argumentei",
         "tu": "argumentaste",
         "ele/ela": "argumentou",
-        "nós": "argumentámos / argumentamos",
+        "nós": "argumentamos",
         "vós": "argumentastes",
         "eles/elas": "argumentaram"
       },
@@ -58799,7 +58799,7 @@
         "eu": "recuei",
         "tu": "recuaste",
         "ele/ela": "recuou",
-        "nós": "recuámos / recuamos",
+        "nós": "recuamos",
         "vós": "recuastes",
         "eles/elas": "recuaram"
       },
@@ -58997,7 +58997,7 @@
         "eu": "forcei",
         "tu": "forçaste",
         "ele/ela": "forçou",
-        "nós": "forçámos / forçamos",
+        "nós": "forçamos",
         "vós": "forçastes",
         "eles/elas": "forçaram"
       },
@@ -59096,7 +59096,7 @@
         "eu": "respirei",
         "tu": "respiraste",
         "ele/ela": "respirou",
-        "nós": "respirámos / respiramos",
+        "nós": "respiramos",
         "vós": "respirastes",
         "eles/elas": "respiraram"
       },
@@ -59294,7 +59294,7 @@
         "eu": "localizei",
         "tu": "localizaste",
         "ele/ela": "localizou",
-        "nós": "localizámos / localizamos",
+        "nós": "localizamos",
         "vós": "localizastes",
         "eles/elas": "localizaram"
       },
@@ -59690,7 +59690,7 @@
         "eu": "abordei",
         "tu": "abordaste",
         "ele/ela": "abordou",
-        "nós": "abordámos / abordamos",
+        "nós": "abordamos",
         "vós": "abordastes",
         "eles/elas": "abordaram"
       },
@@ -59789,7 +59789,7 @@
         "eu": "habitei",
         "tu": "habitaste",
         "ele/ela": "habitou",
-        "nós": "habitámos / habitamos",
+        "nós": "habitamos",
         "vós": "habitastes",
         "eles/elas": "habitaram"
       },
@@ -59987,7 +59987,7 @@
         "eu": "enganei",
         "tu": "enganaste",
         "ele/ela": "enganou",
-        "nós": "enganámos / enganamos",
+        "nós": "enganamos",
         "vós": "enganastes",
         "eles/elas": "enganaram"
       },
@@ -60086,7 +60086,7 @@
         "eu": "desviei",
         "tu": "desviaste",
         "ele/ela": "desviou",
-        "nós": "desviámos / desviamos",
+        "nós": "desviamos",
         "vós": "desviastes",
         "eles/elas": "desviaram"
       },
@@ -60284,7 +60284,7 @@
         "eu": "rodeei",
         "tu": "rodeaste",
         "ele/ela": "rodeou",
-        "nós": "rodeámos / rodeamos",
+        "nós": "rodeamos",
         "vós": "rodeastes",
         "eles/elas": "rodearam"
       },
@@ -60383,7 +60383,7 @@
         "eu": "regulei",
         "tu": "regulaste",
         "ele/ela": "regulou",
-        "nós": "regulámos / regulamos",
+        "nós": "regulamos",
         "vós": "regulastes",
         "eles/elas": "regularam"
       },
@@ -60482,7 +60482,7 @@
         "eu": "iluminei",
         "tu": "iluminaste",
         "ele/ela": "iluminou",
-        "nós": "iluminámos / iluminamos",
+        "nós": "iluminamos",
         "vós": "iluminastes",
         "eles/elas": "iluminaram"
       },
@@ -60581,7 +60581,7 @@
         "eu": "brilhei",
         "tu": "brilhaste",
         "ele/ela": "brilhou",
-        "nós": "brilhámos / brilhamos",
+        "nós": "brilhamos",
         "vós": "brilhastes",
         "eles/elas": "brilharam"
       },
@@ -60779,7 +60779,7 @@
         "eu": "relatei",
         "tu": "relataste",
         "ele/ela": "relatou",
-        "nós": "relatámos / relatamos",
+        "nós": "relatamos",
         "vós": "relatastes",
         "eles/elas": "relataram"
       },
@@ -60878,7 +60878,7 @@
         "eu": "fabriquei",
         "tu": "fabricaste",
         "ele/ela": "fabricou",
-        "nós": "fabricámos / fabricamos",
+        "nós": "fabricamos",
         "vós": "fabricastes",
         "eles/elas": "fabricaram"
       },
@@ -60977,7 +60977,7 @@
         "eu": "abalei",
         "tu": "abalaste",
         "ele/ela": "abalou",
-        "nós": "abalámos / abalamos",
+        "nós": "abalamos",
         "vós": "abalastes",
         "eles/elas": "abalaram"
       },
@@ -61076,7 +61076,7 @@
         "eu": "preguei",
         "tu": "pregaste",
         "ele/ela": "pregou",
-        "nós": "pregámos / pregamos",
+        "nós": "pregamos",
         "vós": "pregastes",
         "eles/elas": "pregaram"
       },
@@ -61175,7 +61175,7 @@
         "eu": "empurrei",
         "tu": "empurraste",
         "ele/ela": "empurrou",
-        "nós": "empurrámos / empurramos",
+        "nós": "empurramos",
         "vós": "empurrastes",
         "eles/elas": "empurraram"
       },
@@ -61274,7 +61274,7 @@
         "eu": "ampliei",
         "tu": "ampliaste",
         "ele/ela": "ampliou",
-        "nós": "ampliámos / ampliamos",
+        "nós": "ampliamos",
         "vós": "ampliastes",
         "eles/elas": "ampliaram"
       },
@@ -61373,7 +61373,7 @@
         "eu": "recomendei",
         "tu": "recomendaste",
         "ele/ela": "recomendou",
-        "nós": "recomendámos / recomendamos",
+        "nós": "recomendamos",
         "vós": "recomendastes",
         "eles/elas": "recomendaram"
       },
@@ -61472,7 +61472,7 @@
         "eu": "antecipei",
         "tu": "antecipaste",
         "ele/ela": "antecipou",
-        "nós": "antecipámos / antecipamos",
+        "nós": "antecipamos",
         "vós": "antecipastes",
         "eles/elas": "anteciparam"
       },
@@ -61571,7 +61571,7 @@
         "eu": "cruzei",
         "tu": "cruzaste",
         "ele/ela": "cruzou",
-        "nós": "cruzámos / cruzamos",
+        "nós": "cruzamos",
         "vós": "cruzastes",
         "eles/elas": "cruzaram"
       },
@@ -61769,7 +61769,7 @@
         "eu": "lamentei",
         "tu": "lamentaste",
         "ele/ela": "lamentou",
-        "nós": "lamentámos / lamentamos",
+        "nós": "lamentamos",
         "vós": "lamentastes",
         "eles/elas": "lamentaram"
       },
@@ -61967,7 +61967,7 @@
         "eu": "assustei",
         "tu": "assustaste",
         "ele/ela": "assustou",
-        "nós": "assustámos / assustamos",
+        "nós": "assustamos",
         "vós": "assustastes",
         "eles/elas": "assustaram"
       },
@@ -62066,7 +62066,7 @@
         "eu": "estreei",
         "tu": "estreaste",
         "ele/ela": "estreou",
-        "nós": "estreámos / estreamos",
+        "nós": "estreamos",
         "vós": "estreastes",
         "eles/elas": "estrearam"
       },
@@ -62264,7 +62264,7 @@
         "eu": "apostei",
         "tu": "apostaste",
         "ele/ela": "apostou",
-        "nós": "apostámos / apostamos",
+        "nós": "apostamos",
         "vós": "apostastes",
         "eles/elas": "apostaram"
       },
@@ -62363,7 +62363,7 @@
         "eu": "financiei",
         "tu": "financiaste",
         "ele/ela": "financiou",
-        "nós": "financiámos / financiamos",
+        "nós": "financiamos",
         "vós": "financiastes",
         "eles/elas": "financiaram"
       },
@@ -62462,7 +62462,7 @@
         "eu": "disparei",
         "tu": "disparaste",
         "ele/ela": "disparou",
-        "nós": "disparámos / disparamos",
+        "nós": "disparamos",
         "vós": "disparastes",
         "eles/elas": "dispararam"
       },
@@ -62561,7 +62561,7 @@
         "eu": "mergulhei",
         "tu": "mergulhaste",
         "ele/ela": "mergulhou",
-        "nós": "mergulhámos / mergulhamos",
+        "nós": "mergulhamos",
         "vós": "mergulhastes",
         "eles/elas": "mergulharam"
       },
@@ -62660,7 +62660,7 @@
         "eu": "incorporei",
         "tu": "incorporaste",
         "ele/ela": "incorporou",
-        "nós": "incorporámos / incorporamos",
+        "nós": "incorporamos",
         "vós": "incorporastes",
         "eles/elas": "incorporaram"
       },
@@ -62858,7 +62858,7 @@
         "eu": "desconfiei",
         "tu": "desconfiaste",
         "ele/ela": "desconfiou",
-        "nós": "desconfiámos / desconfiamos",
+        "nós": "desconfiamos",
         "vós": "desconfiastes",
         "eles/elas": "desconfiaram"
       },
@@ -63056,7 +63056,7 @@
         "eu": "prolonguei",
         "tu": "prolongaste",
         "ele/ela": "prolongou",
-        "nós": "prolongámos / prolongamos",
+        "nós": "prolongamos",
         "vós": "prolongastes",
         "eles/elas": "prolongaram"
       },
@@ -63254,7 +63254,7 @@
         "eu": "protestei",
         "tu": "protestaste",
         "ele/ela": "protestou",
-        "nós": "protestámos / protestamos",
+        "nós": "protestamos",
         "vós": "protestastes",
         "eles/elas": "protestaram"
       },
@@ -63452,7 +63452,7 @@
         "eu": "indaguei",
         "tu": "indagaste",
         "ele/ela": "indagou",
-        "nós": "indagámos / indagamos",
+        "nós": "indagamos",
         "vós": "indagastes",
         "eles/elas": "indagaram"
       },
@@ -63551,7 +63551,7 @@
         "eu": "travei",
         "tu": "travaste",
         "ele/ela": "travou",
-        "nós": "travámos / travamos",
+        "nós": "travamos",
         "vós": "travastes",
         "eles/elas": "travaram"
       },
@@ -63650,7 +63650,7 @@
         "eu": "cheirei",
         "tu": "cheiraste",
         "ele/ela": "cheirou",
-        "nós": "cheirámos / cheiramos",
+        "nós": "cheiramos",
         "vós": "cheirastes",
         "eles/elas": "cheiraram"
       },
@@ -63749,7 +63749,7 @@
         "eu": "gozei",
         "tu": "gozaste",
         "ele/ela": "gozou",
-        "nós": "gozámos / gozamos",
+        "nós": "gozamos",
         "vós": "gozastes",
         "eles/elas": "gozaram"
       },
@@ -63848,7 +63848,7 @@
         "eu": "fumei",
         "tu": "fumaste",
         "ele/ela": "fumou",
-        "nós": "fumámos / fumamos",
+        "nós": "fumamos",
         "vós": "fumastes",
         "eles/elas": "fumaram"
       },
@@ -63947,7 +63947,7 @@
         "eu": "sobrei",
         "tu": "sobraste",
         "ele/ela": "sobrou",
-        "nós": "sobrámos / sobramos",
+        "nós": "sobramos",
         "vós": "sobrastes",
         "eles/elas": "sobraram"
       },
@@ -64046,7 +64046,7 @@
         "eu": "rolei",
         "tu": "rolaste",
         "ele/ela": "rolou",
-        "nós": "rolámos / rolamos",
+        "nós": "rolamos",
         "vós": "rolastes",
         "eles/elas": "rolaram"
       },
@@ -64145,7 +64145,7 @@
         "eu": "queixei",
         "tu": "queixaste",
         "ele/ela": "queixou",
-        "nós": "queixámos / queixamos",
+        "nós": "queixamos",
         "vós": "queixastes",
         "eles/elas": "queixaram"
       },
@@ -64343,7 +64343,7 @@
         "eu": "expulsei",
         "tu": "expulsaste",
         "ele/ela": "expulsou",
-        "nós": "expulsámos / expulsamos",
+        "nós": "expulsamos",
         "vós": "expulsastes",
         "eles/elas": "expulsaram"
       },
@@ -64442,7 +64442,7 @@
         "eu": "enterrei",
         "tu": "enterraste",
         "ele/ela": "enterrou",
-        "nós": "enterrámos / enterramos",
+        "nós": "enterramos",
         "vós": "enterrastes",
         "eles/elas": "enterraram"
       },
@@ -64541,7 +64541,7 @@
         "eu": "comemorei",
         "tu": "comemoraste",
         "ele/ela": "comemorou",
-        "nós": "comemorámos / comemoramos",
+        "nós": "comemoramos",
         "vós": "comemorastes",
         "eles/elas": "comemoraram"
       },
@@ -64640,7 +64640,7 @@
         "eu": "liderei",
         "tu": "lideraste",
         "ele/ela": "liderou",
-        "nós": "liderámos / lideramos",
+        "nós": "lideramos",
         "vós": "liderastes",
         "eles/elas": "lideraram"
       },
@@ -64739,7 +64739,7 @@
         "eu": "agradei",
         "tu": "agradaste",
         "ele/ela": "agradou",
-        "nós": "agradámos / agradamos",
+        "nós": "agradamos",
         "vós": "agradastes",
         "eles/elas": "agradaram"
       },
@@ -64838,7 +64838,7 @@
         "eu": "girei",
         "tu": "giraste",
         "ele/ela": "girou",
-        "nós": "girámos / giramos",
+        "nós": "giramos",
         "vós": "girastes",
         "eles/elas": "giraram"
       },
@@ -65036,7 +65036,7 @@
         "eu": "treinei",
         "tu": "treinaste",
         "ele/ela": "treinou",
-        "nós": "treinámos / treinamos",
+        "nós": "treinamos",
         "vós": "treinastes",
         "eles/elas": "treinaram"
       },
@@ -65135,7 +65135,7 @@
         "eu": "desculpei",
         "tu": "desculpaste",
         "ele/ela": "desculpou",
-        "nós": "desculpámos / desculpamos",
+        "nós": "desculpamos",
         "vós": "desculpastes",
         "eles/elas": "desculparam"
       },
@@ -65234,7 +65234,7 @@
         "eu": "rezei",
         "tu": "rezaste",
         "ele/ela": "rezou",
-        "nós": "rezámos / rezamos",
+        "nós": "rezamos",
         "vós": "rezastes",
         "eles/elas": "rezaram"
       },
@@ -65333,7 +65333,7 @@
         "eu": "sujeitei",
         "tu": "sujeitaste",
         "ele/ela": "sujeitou",
-        "nós": "sujeitámos / sujeitamos",
+        "nós": "sujeitamos",
         "vós": "sujeitastes",
         "eles/elas": "sujeitaram"
       },
@@ -65432,7 +65432,7 @@
         "eu": "reservei",
         "tu": "reservaste",
         "ele/ela": "reservou",
-        "nós": "reservámos / reservamos",
+        "nós": "reservamos",
         "vós": "reservastes",
         "eles/elas": "reservaram"
       },
@@ -65531,7 +65531,7 @@
         "eu": "examinei",
         "tu": "examinaste",
         "ele/ela": "examinou",
-        "nós": "examinámos / examinamos",
+        "nós": "examinamos",
         "vós": "examinastes",
         "eles/elas": "examinaram"
       },
@@ -65630,7 +65630,7 @@
         "eu": "rodei",
         "tu": "rodaste",
         "ele/ela": "rodou",
-        "nós": "rodámos / rodamos",
+        "nós": "rodamos",
         "vós": "rodastes",
         "eles/elas": "rodaram"
       },
@@ -65828,7 +65828,7 @@
         "eu": "celebrei",
         "tu": "celebraste",
         "ele/ela": "celebrou",
-        "nós": "celebrámos / celebramos",
+        "nós": "celebramos",
         "vós": "celebrastes",
         "eles/elas": "celebraram"
       },
@@ -65927,7 +65927,7 @@
         "eu": "perdoei",
         "tu": "perdoaste",
         "ele/ela": "perdoou",
-        "nós": "perdoámos / perdoamos",
+        "nós": "perdoamos",
         "vós": "perdoastes",
         "eles/elas": "perdoaram"
       },
@@ -66224,7 +66224,7 @@
         "eu": "arrisquei",
         "tu": "arriscaste",
         "ele/ela": "arriscou",
-        "nós": "arriscámos / arriscamos",
+        "nós": "arriscamos",
         "vós": "arriscastes",
         "eles/elas": "arriscaram"
       },
@@ -66521,7 +66521,7 @@
         "eu": "emprestei",
         "tu": "emprestaste",
         "ele/ela": "emprestou",
-        "nós": "emprestámos / emprestamos",
+        "nós": "emprestamos",
         "vós": "emprestastes",
         "eles/elas": "emprestaram"
       },
@@ -66620,7 +66620,7 @@
         "eu": "elaborei",
         "tu": "elaboraste",
         "ele/ela": "elaborou",
-        "nós": "elaborámos / elaboramos",
+        "nós": "elaboramos",
         "vós": "elaborastes",
         "eles/elas": "elaboraram"
       },
@@ -66818,7 +66818,7 @@
         "eu": "relacionei",
         "tu": "relacionaste",
         "ele/ela": "relacionou",
-        "nós": "relacionámos / relacionamos",
+        "nós": "relacionamos",
         "vós": "relacionastes",
         "eles/elas": "relacionaram"
       },
@@ -66917,7 +66917,7 @@
         "eu": "acelerei",
         "tu": "aceleraste",
         "ele/ela": "acelerou",
-        "nós": "acelerámos / aceleramos",
+        "nós": "aceleramos",
         "vós": "acelerastes",
         "eles/elas": "aceleraram"
       },
@@ -67016,7 +67016,7 @@
         "eu": "alarguei",
         "tu": "alargaste",
         "ele/ela": "alargou",
-        "nós": "alargámos / alargamos",
+        "nós": "alargamos",
         "vós": "alargastes",
         "eles/elas": "alargaram"
       },
@@ -67115,7 +67115,7 @@
         "eu": "arrumei",
         "tu": "arrumaste",
         "ele/ela": "arrumou",
-        "nós": "arrumámos / arrumamos",
+        "nós": "arrumamos",
         "vós": "arrumastes",
         "eles/elas": "arrumaram"
       },
@@ -67214,7 +67214,7 @@
         "eu": "somei",
         "tu": "somaste",
         "ele/ela": "somou",
-        "nós": "somámos / somamos",
+        "nós": "somamos",
         "vós": "somastes",
         "eles/elas": "somaram"
       },
@@ -67313,7 +67313,7 @@
         "eu": "constatei",
         "tu": "constataste",
         "ele/ela": "constatou",
-        "nós": "constatámos / constatamos",
+        "nós": "constatamos",
         "vós": "constatastes",
         "eles/elas": "constataram"
       },
@@ -67412,7 +67412,7 @@
         "eu": "depositei",
         "tu": "depositaste",
         "ele/ela": "depositou",
-        "nós": "depositámos / depositamos",
+        "nós": "depositamos",
         "vós": "depositastes",
         "eles/elas": "depositaram"
       },
@@ -67511,7 +67511,7 @@
         "eu": "administrei",
         "tu": "administraste",
         "ele/ela": "administrou",
-        "nós": "administrámos / administramos",
+        "nós": "administramos",
         "vós": "administrastes",
         "eles/elas": "administraram"
       },
@@ -67610,7 +67610,7 @@
         "eu": "espreitei",
         "tu": "espreitaste",
         "ele/ela": "espreitou",
-        "nós": "espreitámos / espreitamos",
+        "nós": "espreitamos",
         "vós": "espreitastes",
         "eles/elas": "espreitaram"
       },
@@ -67808,7 +67808,7 @@
         "eu": "ocultei",
         "tu": "ocultaste",
         "ele/ela": "ocultou",
-        "nós": "ocultámos / ocultamos",
+        "nós": "ocultamos",
         "vós": "ocultastes",
         "eles/elas": "ocultaram"
       },
@@ -67907,7 +67907,7 @@
         "eu": "espantei",
         "tu": "espantaste",
         "ele/ela": "espantou",
-        "nós": "espantámos / espantamos",
+        "nós": "espantamos",
         "vós": "espantastes",
         "eles/elas": "espantaram"
       },
@@ -68204,7 +68204,7 @@
         "eu": "associei",
         "tu": "associaste",
         "ele/ela": "associou",
-        "nós": "associámos / associamos",
+        "nós": "associamos",
         "vós": "associastes",
         "eles/elas": "associaram"
       },
@@ -68402,7 +68402,7 @@
         "eu": "preservei",
         "tu": "preservaste",
         "ele/ela": "preservou",
-        "nós": "preservámos / preservamos",
+        "nós": "preservamos",
         "vós": "preservastes",
         "eles/elas": "preservaram"
       },
@@ -68600,7 +68600,7 @@
         "eu": "tardei",
         "tu": "tardaste",
         "ele/ela": "tardou",
-        "nós": "tardámos / tardamos",
+        "nós": "tardamos",
         "vós": "tardastes",
         "eles/elas": "tardaram"
       },
@@ -68699,7 +68699,7 @@
         "eu": "apressei",
         "tu": "apressaste",
         "ele/ela": "apressou",
-        "nós": "apressámos / apressamos",
+        "nós": "apressamos",
         "vós": "apressastes",
         "eles/elas": "apressaram"
       },
@@ -68897,7 +68897,7 @@
         "eu": "acentuei",
         "tu": "acentuaste",
         "ele/ela": "acentuou",
-        "nós": "acentuámos / acentuamos",
+        "nós": "acentuamos",
         "vós": "acentuastes",
         "eles/elas": "acentuaram"
       },
@@ -68996,7 +68996,7 @@
         "eu": "sublinhei",
         "tu": "sublinhaste",
         "ele/ela": "sublinhou",
-        "nós": "sublinhámos / sublinhamos",
+        "nós": "sublinhamos",
         "vós": "sublinhastes",
         "eles/elas": "sublinharam"
       },
@@ -69095,7 +69095,7 @@
         "eu": "falhei",
         "tu": "falhaste",
         "ele/ela": "falhou",
-        "nós": "falhámos / falhamos",
+        "nós": "falhamos",
         "vós": "falhastes",
         "eles/elas": "falharam"
       },
@@ -69194,7 +69194,7 @@
         "eu": "rasguei",
         "tu": "rasgaste",
         "ele/ela": "rasgou",
-        "nós": "rasgámos / rasgamos",
+        "nós": "rasgamos",
         "vós": "rasgastes",
         "eles/elas": "rasgaram"
       },
@@ -69293,7 +69293,7 @@
         "eu": "pronunciei",
         "tu": "pronunciaste",
         "ele/ela": "pronunciou",
-        "nós": "pronunciámos / pronunciamos",
+        "nós": "pronunciamos",
         "vós": "pronunciastes",
         "eles/elas": "pronunciaram"
       },
@@ -69392,7 +69392,7 @@
         "eu": "adivinhei",
         "tu": "adivinhaste",
         "ele/ela": "adivinhou",
-        "nós": "adivinhámos / adivinhamos",
+        "nós": "adivinhamos",
         "vós": "adivinhastes",
         "eles/elas": "adivinharam"
       },
@@ -69491,7 +69491,7 @@
         "eu": "aguentei",
         "tu": "aguentaste",
         "ele/ela": "aguentou",
-        "nós": "aguentámos / aguentamos",
+        "nós": "aguentamos",
         "vós": "aguentastes",
         "eles/elas": "aguentaram"
       },
@@ -69590,7 +69590,7 @@
         "eu": "processei",
         "tu": "processaste",
         "ele/ela": "processou",
-        "nós": "processámos / processamos",
+        "nós": "processamos",
         "vós": "processastes",
         "eles/elas": "processaram"
       },
@@ -69689,7 +69689,7 @@
         "eu": "contrariei",
         "tu": "contrariaste",
         "ele/ela": "contrariou",
-        "nós": "contrariámos / contrariamos",
+        "nós": "contrariamos",
         "vós": "contrariastes",
         "eles/elas": "contrariaram"
       },
@@ -69887,7 +69887,7 @@
         "eu": "incomodei",
         "tu": "incomodaste",
         "ele/ela": "incomodou",
-        "nós": "incomodámos / incomodamos",
+        "nós": "incomodamos",
         "vós": "incomodastes",
         "eles/elas": "incomodaram"
       },
@@ -70283,7 +70283,7 @@
         "eu": "consultei",
         "tu": "consultaste",
         "ele/ela": "consultou",
-        "nós": "consultámos / consultamos",
+        "nós": "consultamos",
         "vós": "consultastes",
         "eles/elas": "consultaram"
       },
@@ -70481,7 +70481,7 @@
         "eu": "derrotei",
         "tu": "derrotaste",
         "ele/ela": "derrotou",
-        "nós": "derrotámos / derrotamos",
+        "nós": "derrotamos",
         "vós": "derrotastes",
         "eles/elas": "derrotaram"
       },
@@ -70580,7 +70580,7 @@
         "eu": "encarreguei",
         "tu": "encarregaste",
         "ele/ela": "encarregou",
-        "nós": "encarregámos / encarregamos",
+        "nós": "encarregamos",
         "vós": "encarregastes",
         "eles/elas": "encarregaram"
       },
@@ -70679,7 +70679,7 @@
         "eu": "formulei",
         "tu": "formulaste",
         "ele/ela": "formulou",
-        "nós": "formulámos / formulamos",
+        "nós": "formulamos",
         "vós": "formulastes",
         "eles/elas": "formularam"
       },
@@ -70778,7 +70778,7 @@
         "eu": "adiei",
         "tu": "adiaste",
         "ele/ela": "adiou",
-        "nós": "adiámos / adiamos",
+        "nós": "adiamos",
         "vós": "adiastes",
         "eles/elas": "adiaram"
       },
@@ -70877,7 +70877,7 @@
         "eu": "violei",
         "tu": "violaste",
         "ele/ela": "violou",
-        "nós": "violámos / violamos",
+        "nós": "violamos",
         "vós": "violastes",
         "eles/elas": "violaram"
       },
@@ -70976,7 +70976,7 @@
         "eu": "cerquei",
         "tu": "cercaste",
         "ele/ela": "cercou",
-        "nós": "cercámos / cercamos",
+        "nós": "cercamos",
         "vós": "cercastes",
         "eles/elas": "cercaram"
       },
@@ -71075,7 +71075,7 @@
         "eu": "calhei",
         "tu": "calhaste",
         "ele/ela": "calhou",
-        "nós": "calhámos / calhamos",
+        "nós": "calhamos",
         "vós": "calhastes",
         "eles/elas": "calharam"
       },
@@ -71174,7 +71174,7 @@
         "eu": "cessei",
         "tu": "cessaste",
         "ele/ela": "cessou",
-        "nós": "cessámos / cessamos",
+        "nós": "cessamos",
         "vós": "cessastes",
         "eles/elas": "cessaram"
       },
@@ -71273,7 +71273,7 @@
         "eu": "dispensei",
         "tu": "dispensaste",
         "ele/ela": "dispensou",
-        "nós": "dispensámos / dispensamos",
+        "nós": "dispensamos",
         "vós": "dispensastes",
         "eles/elas": "dispensaram"
       },
@@ -71372,7 +71372,7 @@
         "eu": "comprovei",
         "tu": "comprovaste",
         "ele/ela": "comprovou",
-        "nós": "comprovámos / comprovamos",
+        "nós": "comprovamos",
         "vós": "comprovastes",
         "eles/elas": "comprovaram"
       },
@@ -71471,7 +71471,7 @@
         "eu": "concretizei",
         "tu": "concretizaste",
         "ele/ela": "concretizou",
-        "nós": "concretizámos / concretizamos",
+        "nós": "concretizamos",
         "vós": "concretizastes",
         "eles/elas": "concretizaram"
       },
@@ -71768,7 +71768,7 @@
         "eu": "plantei",
         "tu": "plantaste",
         "ele/ela": "plantou",
-        "nós": "plantámos / plantamos",
+        "nós": "plantamos",
         "vós": "plantastes",
         "eles/elas": "plantaram"
       },
@@ -71867,7 +71867,7 @@
         "eu": "penetrei",
         "tu": "penetraste",
         "ele/ela": "penetrou",
-        "nós": "penetrámos / penetramos",
+        "nós": "penetramos",
         "vós": "penetrastes",
         "eles/elas": "penetraram"
       },
@@ -72065,7 +72065,7 @@
         "eu": "jurei",
         "tu": "juraste",
         "ele/ela": "jurou",
-        "nós": "jurámos / juramos",
+        "nós": "juramos",
         "vós": "jurastes",
         "eles/elas": "juraram"
       },
@@ -72263,7 +72263,7 @@
         "eu": "ilustrei",
         "tu": "ilustraste",
         "ele/ela": "ilustrou",
-        "nós": "ilustrámos / ilustramos",
+        "nós": "ilustramos",
         "vós": "ilustrastes",
         "eles/elas": "ilustraram"
       },
@@ -72362,7 +72362,7 @@
         "eu": "hesitei",
         "tu": "hesitaste",
         "ele/ela": "hesitou",
-        "nós": "hesitámos / hesitamos",
+        "nós": "hesitamos",
         "vós": "hesitastes",
         "eles/elas": "hesitaram"
       },
@@ -72461,7 +72461,7 @@
         "eu": "selecionei",
         "tu": "selecionaste",
         "ele/ela": "selecionou",
-        "nós": "selecionámos / selecionamos",
+        "nós": "selecionamos",
         "vós": "selecionastes",
         "eles/elas": "selecionaram"
       },
@@ -72560,7 +72560,7 @@
         "eu": "duvidei",
         "tu": "duvidaste",
         "ele/ela": "duvidou",
-        "nós": "duvidámos / duvidamos",
+        "nós": "duvidamos",
         "vós": "duvidastes",
         "eles/elas": "duvidaram"
       },
@@ -72659,7 +72659,7 @@
         "eu": "enrolei",
         "tu": "enrolaste",
         "ele/ela": "enrolou",
-        "nós": "enrolámos / enrolamos",
+        "nós": "enrolamos",
         "vós": "enrolastes",
         "eles/elas": "enrolaram"
       },
@@ -72758,7 +72758,7 @@
         "eu": "partilhei",
         "tu": "partilhaste",
         "ele/ela": "partilhou",
-        "nós": "partilhámos / partilhamos",
+        "nós": "partilhamos",
         "vós": "partilhastes",
         "eles/elas": "partilharam"
       },
@@ -72857,7 +72857,7 @@
         "eu": "renovei",
         "tu": "renovaste",
         "ele/ela": "renovou",
-        "nós": "renovámos / renovamos",
+        "nós": "renovamos",
         "vós": "renovastes",
         "eles/elas": "renovaram"
       },
@@ -72956,7 +72956,7 @@
         "eu": "tracei",
         "tu": "traçaste",
         "ele/ela": "traçou",
-        "nós": "traçámos / traçamos",
+        "nós": "traçamos",
         "vós": "traçastes",
         "eles/elas": "traçaram"
       },
@@ -73055,7 +73055,7 @@
         "eu": "planejei",
         "tu": "planejaste",
         "ele/ela": "planejou",
-        "nós": "planejámos / planejamos",
+        "nós": "planejamos",
         "vós": "planejastes",
         "eles/elas": "planejaram"
       },
@@ -73154,7 +73154,7 @@
         "eu": "ingressei",
         "tu": "ingressaste",
         "ele/ela": "ingressou",
-        "nós": "ingressámos / ingressamos",
+        "nós": "ingressamos",
         "vós": "ingressastes",
         "eles/elas": "ingressaram"
       },
@@ -73253,7 +73253,7 @@
         "eu": "ousei",
         "tu": "ousaste",
         "ele/ela": "ousou",
-        "nós": "ousámos / ousamos",
+        "nós": "ousamos",
         "vós": "ousastes",
         "eles/elas": "ousaram"
       },
@@ -73352,7 +73352,7 @@
         "eu": "detetei",
         "tu": "detetaste",
         "ele/ela": "detetou",
-        "nós": "detetámos / detetamos",
+        "nós": "detetamos",
         "vós": "detetastes",
         "eles/elas": "detetaram"
       },
@@ -73550,7 +73550,7 @@
         "eu": "assinalei",
         "tu": "assinalaste",
         "ele/ela": "assinalou",
-        "nós": "assinalámos / assinalamos",
+        "nós": "assinalamos",
         "vós": "assinalastes",
         "eles/elas": "assinalaram"
       },
@@ -73649,7 +73649,7 @@
         "eu": "editei",
         "tu": "editaste",
         "ele/ela": "editou",
-        "nós": "editámos / editamos",
+        "nós": "editamos",
         "vós": "editastes",
         "eles/elas": "editaram"
       },
@@ -73847,7 +73847,7 @@
         "eu": "movimentei",
         "tu": "movimentaste",
         "ele/ela": "movimentou",
-        "nós": "movimentámos / movimentamos",
+        "nós": "movimentamos",
         "vós": "movimentastes",
         "eles/elas": "movimentaram"
       },
@@ -73946,7 +73946,7 @@
         "eu": "lidei",
         "tu": "lidaste",
         "ele/ela": "lidou",
-        "nós": "lidámos / lidamos",
+        "nós": "lidamos",
         "vós": "lidastes",
         "eles/elas": "lidaram"
       },
@@ -74144,7 +74144,7 @@
         "eu": "irritei",
         "tu": "irritaste",
         "ele/ela": "irritou",
-        "nós": "irritámos / irritamos",
+        "nós": "irritamos",
         "vós": "irritastes",
         "eles/elas": "irritaram"
       },
@@ -74342,7 +74342,7 @@
         "eu": "questionei",
         "tu": "questionaste",
         "ele/ela": "questionou",
-        "nós": "questionámos / questionamos",
+        "nós": "questionamos",
         "vós": "questionastes",
         "eles/elas": "questionaram"
       },
@@ -74441,7 +74441,7 @@
         "eu": "motivei",
         "tu": "motivaste",
         "ele/ela": "motivou",
-        "nós": "motivámos / motivamos",
+        "nós": "motivamos",
         "vós": "motivastes",
         "eles/elas": "motivaram"
       },
@@ -74540,7 +74540,7 @@
         "eu": "coordenei",
         "tu": "coordenaste",
         "ele/ela": "coordenou",
-        "nós": "coordenámos / coordenamos",
+        "nós": "coordenamos",
         "vós": "coordenastes",
         "eles/elas": "coordenaram"
       },
@@ -74639,7 +74639,7 @@
         "eu": "agravei",
         "tu": "agravaste",
         "ele/ela": "agravou",
-        "nós": "agravámos / agravamos",
+        "nós": "agravamos",
         "vós": "agravastes",
         "eles/elas": "agravaram"
       },
@@ -74738,7 +74738,7 @@
         "eu": "firmei",
         "tu": "firmaste",
         "ele/ela": "firmou",
-        "nós": "firmámos / firmamos",
+        "nós": "firmamos",
         "vós": "firmastes",
         "eles/elas": "firmaram"
       },
@@ -74936,7 +74936,7 @@
         "eu": "auxiliei",
         "tu": "auxiliaste",
         "ele/ela": "auxiliou",
-        "nós": "auxiliámos / auxiliamos",
+        "nós": "auxiliamos",
         "vós": "auxiliastes",
         "eles/elas": "auxiliaram"
       },
@@ -75035,7 +75035,7 @@
         "eu": "expressei",
         "tu": "expressaste",
         "ele/ela": "expressou",
-        "nós": "expressámos / expressamos",
+        "nós": "expressamos",
         "vós": "expressastes",
         "eles/elas": "expressaram"
       },
@@ -75134,7 +75134,7 @@
         "eu": "enfiei",
         "tu": "enfiaste",
         "ele/ela": "enfiou",
-        "nós": "enfiámos / enfiamos",
+        "nós": "enfiamos",
         "vós": "enfiastes",
         "eles/elas": "enfiaram"
       },
@@ -75233,7 +75233,7 @@
         "eu": "esgotei",
         "tu": "esgotaste",
         "ele/ela": "esgotou",
-        "nós": "esgotámos / esgotamos",
+        "nós": "esgotamos",
         "vós": "esgotastes",
         "eles/elas": "esgotaram"
       },
@@ -75332,7 +75332,7 @@
         "eu": "guiei",
         "tu": "guiaste",
         "ele/ela": "guiou",
-        "nós": "guiámos / guiamos",
+        "nós": "guiamos",
         "vós": "guiastes",
         "eles/elas": "guiaram"
       },
@@ -75431,7 +75431,7 @@
         "eu": "captei",
         "tu": "captaste",
         "ele/ela": "captou",
-        "nós": "captámos / captamos",
+        "nós": "captamos",
         "vós": "captastes",
         "eles/elas": "captaram"
       },
@@ -75530,7 +75530,7 @@
         "eu": "aconselhei",
         "tu": "aconselhaste",
         "ele/ela": "aconselhou",
-        "nós": "aconselhámos / aconselhamos",
+        "nós": "aconselhamos",
         "vós": "aconselhastes",
         "eles/elas": "aconselharam"
       },
@@ -75629,7 +75629,7 @@
         "eu": "nomeei",
         "tu": "nomeaste",
         "ele/ela": "nomeou",
-        "nós": "nomeámos / nomeamos",
+        "nós": "nomeamos",
         "vós": "nomeastes",
         "eles/elas": "nomearam"
       },
@@ -75728,7 +75728,7 @@
         "eu": "soei",
         "tu": "soaste",
         "ele/ela": "soou",
-        "nós": "soámos / soamos",
+        "nós": "soamos",
         "vós": "soastes",
         "eles/elas": "soaram"
       },
@@ -75827,7 +75827,7 @@
         "eu": "disfarcei",
         "tu": "disfarçaste",
         "ele/ela": "disfarçou",
-        "nós": "disfarçámos / disfarçamos",
+        "nós": "disfarçamos",
         "vós": "disfarçastes",
         "eles/elas": "disfarçaram"
       },
@@ -76025,7 +76025,7 @@
         "eu": "defrontei",
         "tu": "defrontaste",
         "ele/ela": "defrontou",
-        "nós": "defrontámos / defrontamos",
+        "nós": "defrontamos",
         "vós": "defrontastes",
         "eles/elas": "defrontaram"
       },
@@ -76124,7 +76124,7 @@
         "eu": "encostei",
         "tu": "encostaste",
         "ele/ela": "encostou",
-        "nós": "encostámos / encostamos",
+        "nós": "encostamos",
         "vós": "encostastes",
         "eles/elas": "encostaram"
       },
@@ -76223,7 +76223,7 @@
         "eu": "abracei",
         "tu": "abraçaste",
         "ele/ela": "abraçou",
-        "nós": "abraçámos / abraçamos",
+        "nós": "abraçamos",
         "vós": "abraçastes",
         "eles/elas": "abraçaram"
       },
@@ -76322,7 +76322,7 @@
         "eu": "pousei",
         "tu": "pousaste",
         "ele/ela": "pousou",
-        "nós": "pousámos / pousamos",
+        "nós": "pousamos",
         "vós": "pousastes",
         "eles/elas": "pousaram"
       },
@@ -76619,7 +76619,7 @@
         "eu": "desencadeei",
         "tu": "desencadeaste",
         "ele/ela": "desencadeou",
-        "nós": "desencadeámos / desencadeamos",
+        "nós": "desencadeamos",
         "vós": "desencadeastes",
         "eles/elas": "desencadearam"
       },
@@ -76718,7 +76718,7 @@
         "eu": "herdei",
         "tu": "herdaste",
         "ele/ela": "herdou",
-        "nós": "herdámos / herdamos",
+        "nós": "herdamos",
         "vós": "herdastes",
         "eles/elas": "herdaram"
       },
@@ -76916,7 +76916,7 @@
         "eu": "fitei",
         "tu": "fitaste",
         "ele/ela": "fitou",
-        "nós": "fitámos / fitamos",
+        "nós": "fitamos",
         "vós": "fitastes",
         "eles/elas": "fitaram"
       },
@@ -77114,7 +77114,7 @@
         "eu": "contestei",
         "tu": "contestaste",
         "ele/ela": "contestou",
-        "nós": "contestámos / contestamos",
+        "nós": "contestamos",
         "vós": "contestastes",
         "eles/elas": "contestaram"
       },
@@ -77312,7 +77312,7 @@
         "eu": "poupei",
         "tu": "poupaste",
         "ele/ela": "poupou",
-        "nós": "poupámos / poupamos",
+        "nós": "poupamos",
         "vós": "poupastes",
         "eles/elas": "pouparam"
       },
@@ -77510,7 +77510,7 @@
         "eu": "apelei",
         "tu": "apelaste",
         "ele/ela": "apelou",
-        "nós": "apelámos / apelamos",
+        "nós": "apelamos",
         "vós": "apelastes",
         "eles/elas": "apelaram"
       },
@@ -77609,7 +77609,7 @@
         "eu": "renunciei",
         "tu": "renunciaste",
         "ele/ela": "renunciou",
-        "nós": "renunciámos / renunciamos",
+        "nós": "renunciamos",
         "vós": "renunciastes",
         "eles/elas": "renunciaram"
       },
@@ -77807,7 +77807,7 @@
         "eu": "proclamei",
         "tu": "proclamaste",
         "ele/ela": "proclamou",
-        "nós": "proclamámos / proclamamos",
+        "nós": "proclamamos",
         "vós": "proclamastes",
         "eles/elas": "proclamaram"
       },
@@ -77906,7 +77906,7 @@
         "eu": "consolidei",
         "tu": "consolidaste",
         "ele/ela": "consolidou",
-        "nós": "consolidámos / consolidamos",
+        "nós": "consolidamos",
         "vós": "consolidastes",
         "eles/elas": "consolidaram"
       },
@@ -78005,7 +78005,7 @@
         "eu": "esmaguei",
         "tu": "esmagaste",
         "ele/ela": "esmagou",
-        "nós": "esmagámos / esmagamos",
+        "nós": "esmagamos",
         "vós": "esmagastes",
         "eles/elas": "esmagaram"
       },
@@ -78104,7 +78104,7 @@
         "eu": "recomecei",
         "tu": "recomeçaste",
         "ele/ela": "recomeçou",
-        "nós": "recomeçámos / recomeçamos",
+        "nós": "recomeçamos",
         "vós": "recomeçastes",
         "eles/elas": "recomeçaram"
       },
@@ -78203,7 +78203,7 @@
         "eu": "articulei",
         "tu": "articulaste",
         "ele/ela": "articulou",
-        "nós": "articulámos / articulamos",
+        "nós": "articulamos",
         "vós": "articulastes",
         "eles/elas": "articularam"
       },
@@ -78302,7 +78302,7 @@
         "eu": "abriguei",
         "tu": "abrigaste",
         "ele/ela": "abrigou",
-        "nós": "abrigámos / abrigamos",
+        "nós": "abrigamos",
         "vós": "abrigastes",
         "eles/elas": "abrigaram"
       },
@@ -78401,7 +78401,7 @@
         "eu": "suspirei",
         "tu": "suspiraste",
         "ele/ela": "suspirou",
-        "nós": "suspirámos / suspiramos",
+        "nós": "suspiramos",
         "vós": "suspirastes",
         "eles/elas": "suspiraram"
       },
@@ -78500,7 +78500,7 @@
         "eu": "testei",
         "tu": "testaste",
         "ele/ela": "testou",
-        "nós": "testámos / testamos",
+        "nós": "testamos",
         "vós": "testastes",
         "eles/elas": "testaram"
       },
@@ -78698,7 +78698,7 @@
         "eu": "interroguei",
         "tu": "interrogaste",
         "ele/ela": "interrogou",
-        "nós": "interrogámos / interrogamos",
+        "nós": "interrogamos",
         "vós": "interrogastes",
         "eles/elas": "interrogaram"
       },
@@ -78797,7 +78797,7 @@
         "eu": "perturbei",
         "tu": "perturbaste",
         "ele/ela": "perturbou",
-        "nós": "perturbámos / perturbamos",
+        "nós": "perturbamos",
         "vós": "perturbastes",
         "eles/elas": "perturbaram"
       },
@@ -78896,7 +78896,7 @@
         "eu": "cacei",
         "tu": "caçaste",
         "ele/ela": "caçou",
-        "nós": "caçámos / caçamos",
+        "nós": "caçamos",
         "vós": "caçastes",
         "eles/elas": "caçaram"
       },
@@ -79094,7 +79094,7 @@
         "eu": "ajustei",
         "tu": "ajustaste",
         "ele/ela": "ajustou",
-        "nós": "ajustámos / ajustamos",
+        "nós": "ajustamos",
         "vós": "ajustastes",
         "eles/elas": "ajustaram"
       },
@@ -79193,7 +79193,7 @@
         "eu": "vibrei",
         "tu": "vibraste",
         "ele/ela": "vibrou",
-        "nós": "vibrámos / vibramos",
+        "nós": "vibramos",
         "vós": "vibrastes",
         "eles/elas": "vibraram"
       },
@@ -79292,7 +79292,7 @@
         "eu": "pisei",
         "tu": "pisaste",
         "ele/ela": "pisou",
-        "nós": "pisámos / pisamos",
+        "nós": "pisamos",
         "vós": "pisastes",
         "eles/elas": "pisaram"
       },
@@ -79589,7 +79589,7 @@
         "eu": "soprei",
         "tu": "sopraste",
         "ele/ela": "soprou",
-        "nós": "soprámos / sopramos",
+        "nós": "sopramos",
         "vós": "soprastes",
         "eles/elas": "sopraram"
       },
@@ -79688,7 +79688,7 @@
         "eu": "almocei",
         "tu": "almoçaste",
         "ele/ela": "almoçou",
-        "nós": "almoçámos / almoçamos",
+        "nós": "almoçamos",
         "vós": "almoçastes",
         "eles/elas": "almoçaram"
       },
@@ -79886,7 +79886,7 @@
         "eu": "culminei",
         "tu": "culminaste",
         "ele/ela": "culminou",
-        "nós": "culminámos / culminamos",
+        "nós": "culminamos",
         "vós": "culminastes",
         "eles/elas": "culminaram"
       },
@@ -79985,7 +79985,7 @@
         "eu": "oscilei",
         "tu": "oscilaste",
         "ele/ela": "oscilou",
-        "nós": "oscilámos / oscilamos",
+        "nós": "oscilamos",
         "vós": "oscilastes",
         "eles/elas": "oscilaram"
       },
@@ -80084,7 +80084,7 @@
         "eu": "fartei",
         "tu": "fartaste",
         "ele/ela": "fartou",
-        "nós": "fartámos / fartamos",
+        "nós": "fartamos",
         "vós": "fartastes",
         "eles/elas": "fartaram"
       },
@@ -80183,7 +80183,7 @@
         "eu": "enxerguei",
         "tu": "enxergaste",
         "ele/ela": "enxergou",
-        "nós": "enxergámos / enxergamos",
+        "nós": "enxergamos",
         "vós": "enxergastes",
         "eles/elas": "enxergaram"
       },
@@ -80480,7 +80480,7 @@
         "eu": "impressionei",
         "tu": "impressionaste",
         "ele/ela": "impressionou",
-        "nós": "impressionámos / impressionamos",
+        "nós": "impressionamos",
         "vós": "impressionastes",
         "eles/elas": "impressionaram"
       },
@@ -80678,7 +80678,7 @@
         "eu": "rebentei",
         "tu": "rebentaste",
         "ele/ela": "rebentou",
-        "nós": "rebentámos / rebentamos",
+        "nós": "rebentamos",
         "vós": "rebentastes",
         "eles/elas": "rebentaram"
       },
@@ -80777,7 +80777,7 @@
         "eu": "telefonei",
         "tu": "telefonaste",
         "ele/ela": "telefonou",
-        "nós": "telefonámos / telefonamos",
+        "nós": "telefonamos",
         "vós": "telefonastes",
         "eles/elas": "telefonaram"
       },
@@ -80876,7 +80876,7 @@
         "eu": "rondei",
         "tu": "rondaste",
         "ele/ela": "rondou",
-        "nós": "rondámos / rondamos",
+        "nós": "rondamos",
         "vós": "rondastes",
         "eles/elas": "rondaram"
       },
@@ -80975,7 +80975,7 @@
         "eu": "dificultei",
         "tu": "dificultaste",
         "ele/ela": "dificultou",
-        "nós": "dificultámos / dificultamos",
+        "nós": "dificultamos",
         "vós": "dificultastes",
         "eles/elas": "dificultaram"
       },
@@ -81074,7 +81074,7 @@
         "eu": "figurei",
         "tu": "figuraste",
         "ele/ela": "figurou",
-        "nós": "figurámos / figuramos",
+        "nós": "figuramos",
         "vós": "figurastes",
         "eles/elas": "figuraram"
       },
@@ -81371,7 +81371,7 @@
         "eu": "livrei",
         "tu": "livraste",
         "ele/ela": "livrou",
-        "nós": "livrámos / livramos",
+        "nós": "livramos",
         "vós": "livrastes",
         "eles/elas": "livraram"
       },
@@ -81470,7 +81470,7 @@
         "eu": "alertei",
         "tu": "alertaste",
         "ele/ela": "alertou",
-        "nós": "alertámos / alertamos",
+        "nós": "alertamos",
         "vós": "alertastes",
         "eles/elas": "alertaram"
       },
@@ -81668,7 +81668,7 @@
         "eu": "implantei",
         "tu": "implantaste",
         "ele/ela": "implantou",
-        "nós": "implantámos / implantamos",
+        "nós": "implantamos",
         "vós": "implantastes",
         "eles/elas": "implantaram"
       },
@@ -81767,7 +81767,7 @@
         "eu": "imitei",
         "tu": "imitaste",
         "ele/ela": "imitou",
-        "nós": "imitámos / imitamos",
+        "nós": "imitamos",
         "vós": "imitastes",
         "eles/elas": "imitaram"
       },
@@ -82163,7 +82163,7 @@
         "eu": "decretei",
         "tu": "decretaste",
         "ele/ela": "decretou",
-        "nós": "decretámos / decretamos",
+        "nós": "decretamos",
         "vós": "decretastes",
         "eles/elas": "decretaram"
       },
@@ -82262,7 +82262,7 @@
         "eu": "aliviei",
         "tu": "aliviaste",
         "ele/ela": "aliviou",
-        "nós": "aliviámos / aliviamos",
+        "nós": "aliviamos",
         "vós": "aliviastes",
         "eles/elas": "aliviaram"
       },
@@ -82361,7 +82361,7 @@
         "eu": "sequei",
         "tu": "secaste",
         "ele/ela": "secou",
-        "nós": "secámos / secamos",
+        "nós": "secamos",
         "vós": "secastes",
         "eles/elas": "secaram"
       },
@@ -82460,7 +82460,7 @@
         "eu": "filmei",
         "tu": "filmaste",
         "ele/ela": "filmou",
-        "nós": "filmámos / filmamos",
+        "nós": "filmamos",
         "vós": "filmastes",
         "eles/elas": "filmaram"
       },
@@ -82559,7 +82559,7 @@
         "eu": "estalei",
         "tu": "estalaste",
         "ele/ela": "estalou",
-        "nós": "estalámos / estalamos",
+        "nós": "estalamos",
         "vós": "estalastes",
         "eles/elas": "estalaram"
       },
@@ -82658,7 +82658,7 @@
         "eu": "comportei",
         "tu": "comportaste",
         "ele/ela": "comportou",
-        "nós": "comportámos / comportamos",
+        "nós": "comportamos",
         "vós": "comportastes",
         "eles/elas": "comportaram"
       },
@@ -82757,7 +82757,7 @@
         "eu": "valorizei",
         "tu": "valorizaste",
         "ele/ela": "valorizou",
-        "nós": "valorizámos / valorizamos",
+        "nós": "valorizamos",
         "vós": "valorizastes",
         "eles/elas": "valorizaram"
       },
@@ -82856,7 +82856,7 @@
         "eu": "suspeitei",
         "tu": "suspeitaste",
         "ele/ela": "suspeitou",
-        "nós": "suspeitámos / suspeitamos",
+        "nós": "suspeitamos",
         "vós": "suspeitastes",
         "eles/elas": "suspeitaram"
       },
@@ -83054,7 +83054,7 @@
         "eu": "deslizei",
         "tu": "deslizaste",
         "ele/ela": "deslizou",
-        "nós": "deslizámos / deslizamos",
+        "nós": "deslizamos",
         "vós": "deslizastes",
         "eles/elas": "deslizaram"
       },
@@ -83351,7 +83351,7 @@
         "eu": "inclinei",
         "tu": "inclinaste",
         "ele/ela": "inclinou",
-        "nós": "inclinámos / inclinamos",
+        "nós": "inclinamos",
         "vós": "inclinastes",
         "eles/elas": "inclinaram"
       },
@@ -83450,7 +83450,7 @@
         "eu": "berrei",
         "tu": "berraste",
         "ele/ela": "berrou",
-        "nós": "berrámos / berramos",
+        "nós": "berramos",
         "vós": "berrastes",
         "eles/elas": "berraram"
       },
@@ -83549,7 +83549,7 @@
         "eu": "abanei",
         "tu": "abanaste",
         "ele/ela": "abanou",
-        "nós": "abanámos / abanamos",
+        "nós": "abanamos",
         "vós": "abanastes",
         "eles/elas": "abanaram"
       },
@@ -83747,7 +83747,7 @@
         "eu": "esfreguei",
         "tu": "esfregaste",
         "ele/ela": "esfregou",
-        "nós": "esfregámos / esfregamos",
+        "nós": "esfregamos",
         "vós": "esfregastes",
         "eles/elas": "esfregaram"
       },
@@ -83945,7 +83945,7 @@
         "eu": "compensei",
         "tu": "compensaste",
         "ele/ela": "compensou",
-        "nós": "compensámos / compensamos",
+        "nós": "compensamos",
         "vós": "compensastes",
         "eles/elas": "compensaram"
       },
@@ -84044,7 +84044,7 @@
         "eu": "pressionei",
         "tu": "pressionaste",
         "ele/ela": "pressionou",
-        "nós": "pressionámos / pressionamos",
+        "nós": "pressionamos",
         "vós": "pressionastes",
         "eles/elas": "pressionaram"
       },
@@ -84143,7 +84143,7 @@
         "eu": "encomendei",
         "tu": "encomendaste",
         "ele/ela": "encomendou",
-        "nós": "encomendámos / encomendamos",
+        "nós": "encomendamos",
         "vós": "encomendastes",
         "eles/elas": "encomendaram"
       },
@@ -84242,7 +84242,7 @@
         "eu": "desafiei",
         "tu": "desafiaste",
         "ele/ela": "desafiou",
-        "nós": "desafiámos / desafiamos",
+        "nós": "desafiamos",
         "vós": "desafiastes",
         "eles/elas": "desafiaram"
       },
@@ -84341,7 +84341,7 @@
         "eu": "isolei",
         "tu": "isolaste",
         "ele/ela": "isolou",
-        "nós": "isolámos / isolamos",
+        "nós": "isolamos",
         "vós": "isolastes",
         "eles/elas": "isolaram"
       },
@@ -84440,7 +84440,7 @@
         "eu": "tapei",
         "tu": "tapaste",
         "ele/ela": "tapou",
-        "nós": "tapámos / tapamos",
+        "nós": "tapamos",
         "vós": "tapastes",
         "eles/elas": "taparam"
       },
@@ -84539,7 +84539,7 @@
         "eu": "avistei",
         "tu": "avistaste",
         "ele/ela": "avistou",
-        "nós": "avistámos / avistamos",
+        "nós": "avistamos",
         "vós": "avistastes",
         "eles/elas": "avistaram"
       },
@@ -84638,7 +84638,7 @@
         "eu": "anulei",
         "tu": "anulaste",
         "ele/ela": "anulou",
-        "nós": "anulámos / anulamos",
+        "nós": "anulamos",
         "vós": "anulastes",
         "eles/elas": "anularam"
       },
@@ -84836,7 +84836,7 @@
         "eu": "reinei",
         "tu": "reinaste",
         "ele/ela": "reinou",
-        "nós": "reinámos / reinamos",
+        "nós": "reinamos",
         "vós": "reinastes",
         "eles/elas": "reinaram"
       },
@@ -84935,7 +84935,7 @@
         "eu": "receei",
         "tu": "receaste",
         "ele/ela": "receou",
-        "nós": "receámos / receamos",
+        "nós": "receamos",
         "vós": "receastes",
         "eles/elas": "recearam"
       },
@@ -85133,7 +85133,7 @@
         "eu": "briguei",
         "tu": "brigaste",
         "ele/ela": "brigou",
-        "nós": "brigámos / brigamos",
+        "nós": "brigamos",
         "vós": "brigastes",
         "eles/elas": "brigaram"
       },
@@ -85232,7 +85232,7 @@
         "eu": "pulei",
         "tu": "pulaste",
         "ele/ela": "pulou",
-        "nós": "pulámos / pulamos",
+        "nós": "pulamos",
         "vós": "pulastes",
         "eles/elas": "pularam"
       },
@@ -85331,7 +85331,7 @@
         "eu": "englobei",
         "tu": "englobaste",
         "ele/ela": "englobou",
-        "nós": "englobámos / englobamos",
+        "nós": "englobamos",
         "vós": "englobastes",
         "eles/elas": "englobaram"
       },
@@ -85628,7 +85628,7 @@
         "eu": "noticiei",
         "tu": "noticiaste",
         "ele/ela": "noticiou",
-        "nós": "noticiámos / noticiamos",
+        "nós": "noticiamos",
         "vós": "noticiastes",
         "eles/elas": "noticiaram"
       },
@@ -85727,7 +85727,7 @@
         "eu": "acarretei",
         "tu": "acarretaste",
         "ele/ela": "acarretou",
-        "nós": "acarretámos / acarretamos",
+        "nós": "acarretamos",
         "vós": "acarretastes",
         "eles/elas": "acarretaram"
       },
@@ -85826,7 +85826,7 @@
         "eu": "semeei",
         "tu": "semeaste",
         "ele/ela": "semeou",
-        "nós": "semeámos / semeamos",
+        "nós": "semeamos",
         "vós": "semeastes",
         "eles/elas": "semearam"
       },
@@ -85925,7 +85925,7 @@
         "eu": "reivindiquei",
         "tu": "reivindicaste",
         "ele/ela": "reivindicou",
-        "nós": "reivindicámos / reivindicamos",
+        "nós": "reivindicamos",
         "vós": "reivindicastes",
         "eles/elas": "reivindicaram"
       },
@@ -86024,7 +86024,7 @@
         "eu": "candidatei",
         "tu": "candidataste",
         "ele/ela": "candidatou",
-        "nós": "candidatámos / candidatamos",
+        "nós": "candidatamos",
         "vós": "candidatastes",
         "eles/elas": "candidataram"
       },
@@ -86123,7 +86123,7 @@
         "eu": "tombei",
         "tu": "tombaste",
         "ele/ela": "tombou",
-        "nós": "tombámos / tombamos",
+        "nós": "tombamos",
         "vós": "tombastes",
         "eles/elas": "tombaram"
       },
@@ -86222,7 +86222,7 @@
         "eu": "exportei",
         "tu": "exportaste",
         "ele/ela": "exportou",
-        "nós": "exportámos / exportamos",
+        "nós": "exportamos",
         "vós": "exportastes",
         "eles/elas": "exportaram"
       },
@@ -86321,7 +86321,7 @@
         "eu": "escalei",
         "tu": "escalaste",
         "ele/ela": "escalou",
-        "nós": "escalámos / escalamos",
+        "nós": "escalamos",
         "vós": "escalastes",
         "eles/elas": "escalaram"
       },
@@ -86519,7 +86519,7 @@
         "eu": "afundei",
         "tu": "afundaste",
         "ele/ela": "afundou",
-        "nós": "afundámos / afundamos",
+        "nós": "afundamos",
         "vós": "afundastes",
         "eles/elas": "afundaram"
       },
@@ -86618,7 +86618,7 @@
         "eu": "armazenei",
         "tu": "armazenaste",
         "ele/ela": "armazenou",
-        "nós": "armazenámos / armazenamos",
+        "nós": "armazenamos",
         "vós": "armazenastes",
         "eles/elas": "armazenaram"
       },
@@ -86717,7 +86717,7 @@
         "eu": "deparei",
         "tu": "deparaste",
         "ele/ela": "deparou",
-        "nós": "deparámos / deparamos",
+        "nós": "deparamos",
         "vós": "deparastes",
         "eles/elas": "depararam"
       },
@@ -86816,7 +86816,7 @@
         "eu": "odiei",
         "tu": "odiaste",
         "ele/ela": "odiou",
-        "nós": "odiámos / odiamos",
+        "nós": "odiamos",
         "vós": "odiastes",
         "eles/elas": "odiaram"
       },
@@ -86915,7 +86915,7 @@
         "eu": "incentivei",
         "tu": "incentivaste",
         "ele/ela": "incentivou",
-        "nós": "incentivámos / incentivamos",
+        "nós": "incentivamos",
         "vós": "incentivastes",
         "eles/elas": "incentivaram"
       },
@@ -87014,7 +87014,7 @@
         "eu": "multipliquei",
         "tu": "multiplicaste",
         "ele/ela": "multiplicou",
-        "nós": "multiplicámos / multiplicamos",
+        "nós": "multiplicamos",
         "vós": "multiplicastes",
         "eles/elas": "multiplicaram"
       },
@@ -87113,7 +87113,7 @@
         "eu": "embarquei",
         "tu": "embarcaste",
         "ele/ela": "embarcou",
-        "nós": "embarcámos / embarcamos",
+        "nós": "embarcamos",
         "vós": "embarcastes",
         "eles/elas": "embarcaram"
       },
@@ -87212,7 +87212,7 @@
         "eu": "elogiei",
         "tu": "elogiaste",
         "ele/ela": "elogiou",
-        "nós": "elogiámos / elogiamos",
+        "nós": "elogiamos",
         "vós": "elogiastes",
         "eles/elas": "elogiaram"
       },
@@ -87311,7 +87311,7 @@
         "eu": "marchei",
         "tu": "marchaste",
         "ele/ela": "marchou",
-        "nós": "marchámos / marchamos",
+        "nós": "marchamos",
         "vós": "marchastes",
         "eles/elas": "marcharam"
       },
@@ -87410,7 +87410,7 @@
         "eu": "sufoquei",
         "tu": "sufocaste",
         "ele/ela": "sufocou",
-        "nós": "sufocámos / sufocamos",
+        "nós": "sufocamos",
         "vós": "sufocastes",
         "eles/elas": "sufocaram"
       },
@@ -87509,7 +87509,7 @@
         "eu": "desprezei",
         "tu": "desprezaste",
         "ele/ela": "desprezou",
-        "nós": "desprezámos / desprezamos",
+        "nós": "desprezamos",
         "vós": "desprezastes",
         "eles/elas": "desprezaram"
       },
@@ -87707,7 +87707,7 @@
         "eu": "compliquei",
         "tu": "complicaste",
         "ele/ela": "complicou",
-        "nós": "complicámos / complicamos",
+        "nós": "complicamos",
         "vós": "complicastes",
         "eles/elas": "complicaram"
       },
@@ -87905,7 +87905,7 @@
         "eu": "atrapalhei",
         "tu": "atrapalhaste",
         "ele/ela": "atrapalhou",
-        "nós": "atrapalhámos / atrapalhamos",
+        "nós": "atrapalhamos",
         "vós": "atrapalhastes",
         "eles/elas": "atrapalharam"
       },
@@ -88004,7 +88004,7 @@
         "eu": "alonguei",
         "tu": "alongaste",
         "ele/ela": "alongou",
-        "nós": "alongámos / alongamos",
+        "nós": "alongamos",
         "vós": "alongastes",
         "eles/elas": "alongaram"
       },
@@ -88103,7 +88103,7 @@
         "eu": "rematei",
         "tu": "remataste",
         "ele/ela": "rematou",
-        "nós": "rematámos / rematamos",
+        "nós": "rematamos",
         "vós": "rematastes",
         "eles/elas": "remataram"
       },
@@ -88202,7 +88202,7 @@
         "eu": "contactei",
         "tu": "contactaste",
         "ele/ela": "contactou",
-        "nós": "contactámos / contactamos",
+        "nós": "contactamos",
         "vós": "contactastes",
         "eles/elas": "contactaram"
       },
@@ -88301,7 +88301,7 @@
         "eu": "dotei",
         "tu": "dotaste",
         "ele/ela": "dotou",
-        "nós": "dotámos / dotamos",
+        "nós": "dotamos",
         "vós": "dotastes",
         "eles/elas": "dotaram"
       },
@@ -88400,7 +88400,7 @@
         "eu": "flutuei",
         "tu": "flutuaste",
         "ele/ela": "flutuou",
-        "nós": "flutuámos / flutuamos",
+        "nós": "flutuamos",
         "vós": "flutuastes",
         "eles/elas": "flutuaram"
       },
@@ -88598,7 +88598,7 @@
         "eu": "evidenciei",
         "tu": "evidenciaste",
         "ele/ela": "evidenciou",
-        "nós": "evidenciámos / evidenciamos",
+        "nós": "evidenciamos",
         "vós": "evidenciastes",
         "eles/elas": "evidenciaram"
       },
@@ -88697,7 +88697,7 @@
         "eu": "estranhei",
         "tu": "estranhaste",
         "ele/ela": "estranhou",
-        "nós": "estranhámos / estranhamos",
+        "nós": "estranhamos",
         "vós": "estranhastes",
         "eles/elas": "estranharam"
       },
@@ -88796,7 +88796,7 @@
         "eu": "agrupei",
         "tu": "agrupaste",
         "ele/ela": "agrupou",
-        "nós": "agrupámos / agrupamos",
+        "nós": "agrupamos",
         "vós": "agrupastes",
         "eles/elas": "agruparam"
       },
@@ -88895,7 +88895,7 @@
         "eu": "desembarquei",
         "tu": "desembarcaste",
         "ele/ela": "desembarcou",
-        "nós": "desembarcámos / desembarcamos",
+        "nós": "desembarcamos",
         "vós": "desembarcastes",
         "eles/elas": "desembarcaram"
       },
@@ -89093,7 +89093,7 @@
         "eu": "resmunguei",
         "tu": "resmungaste",
         "ele/ela": "resmungou",
-        "nós": "resmungámos / resmungamos",
+        "nós": "resmungamos",
         "vós": "resmungastes",
         "eles/elas": "resmungaram"
       },
@@ -89192,7 +89192,7 @@
         "eu": "detestei",
         "tu": "detestaste",
         "ele/ela": "detestou",
-        "nós": "detestámos / detestamos",
+        "nós": "detestamos",
         "vós": "detestastes",
         "eles/elas": "detestaram"
       },
@@ -89291,7 +89291,7 @@
         "eu": "homenageei",
         "tu": "homenageaste",
         "ele/ela": "homenageou",
-        "nós": "homenageámos / homenageamos",
+        "nós": "homenageamos",
         "vós": "homenageastes",
         "eles/elas": "homenagearam"
       },
@@ -89588,7 +89588,7 @@
         "eu": "piquei",
         "tu": "picaste",
         "ele/ela": "picou",
-        "nós": "picámos / picamos",
+        "nós": "picamos",
         "vós": "picastes",
         "eles/elas": "picaram"
       },
@@ -89786,7 +89786,7 @@
         "eu": "teimei",
         "tu": "teimaste",
         "ele/ela": "teimou",
-        "nós": "teimámos / teimamos",
+        "nós": "teimamos",
         "vós": "teimastes",
         "eles/elas": "teimaram"
       },
@@ -89885,7 +89885,7 @@
         "eu": "especifiquei",
         "tu": "especificaste",
         "ele/ela": "especificou",
-        "nós": "especificámos / especificamos",
+        "nós": "especificamos",
         "vós": "especificastes",
         "eles/elas": "especificaram"
       },
@@ -89984,7 +89984,7 @@
         "eu": "reafirmei",
         "tu": "reafirmaste",
         "ele/ela": "reafirmou",
-        "nós": "reafirmámos / reafirmamos",
+        "nós": "reafirmamos",
         "vós": "reafirmastes",
         "eles/elas": "reafirmaram"
       },
@@ -90083,7 +90083,7 @@
         "eu": "substantivei",
         "tu": "substantivaste",
         "ele/ela": "substantivou",
-        "nós": "substantivámos / substantivamos",
+        "nós": "substantivamos",
         "vós": "substantivastes",
         "eles/elas": "substantivaram"
       },
@@ -90182,7 +90182,7 @@
         "eu": "doei",
         "tu": "doaste",
         "ele/ela": "doou",
-        "nós": "doámos / doamos",
+        "nós": "doamos",
         "vós": "doastes",
         "eles/elas": "doaram"
       },
@@ -90281,7 +90281,7 @@
         "eu": "aprofundei",
         "tu": "aprofundaste",
         "ele/ela": "aprofundou",
-        "nós": "aprofundámos / aprofundamos",
+        "nós": "aprofundamos",
         "vós": "aprofundastes",
         "eles/elas": "aprofundaram"
       },
@@ -90380,7 +90380,7 @@
         "eu": "denominei",
         "tu": "denominaste",
         "ele/ela": "denominou",
-        "nós": "denominámos / denominamos",
+        "nós": "denominamos",
         "vós": "denominastes",
         "eles/elas": "denominaram"
       },
@@ -90578,7 +90578,7 @@
         "eu": "pairei",
         "tu": "pairaste",
         "ele/ela": "pairou",
-        "nós": "pairámos / pairamos",
+        "nós": "pairamos",
         "vós": "pairastes",
         "eles/elas": "pairaram"
       },
@@ -90677,7 +90677,7 @@
         "eu": "acenei",
         "tu": "acenaste",
         "ele/ela": "acenou",
-        "nós": "acenámos / acenamos",
+        "nós": "acenamos",
         "vós": "acenastes",
         "eles/elas": "acenaram"
       },
@@ -90776,7 +90776,7 @@
         "eu": "centrei",
         "tu": "centraste",
         "ele/ela": "centrou",
-        "nós": "centrámos / centramos",
+        "nós": "centramos",
         "vós": "centrastes",
         "eles/elas": "centraram"
       },
@@ -91073,7 +91073,7 @@
         "eu": "empenhei",
         "tu": "empenhaste",
         "ele/ela": "empenhou",
-        "nós": "empenhámos / empenhamos",
+        "nós": "empenhamos",
         "vós": "empenhastes",
         "eles/elas": "empenharam"
       },
@@ -91172,7 +91172,7 @@
         "eu": "assemelhei",
         "tu": "assemelhaste",
         "ele/ela": "assemelhou",
-        "nós": "assemelhámos / assemelhamos",
+        "nós": "assemelhamos",
         "vós": "assemelhastes",
         "eles/elas": "assemelharam"
       },
@@ -91271,7 +91271,7 @@
         "eu": "chefiei",
         "tu": "chefiaste",
         "ele/ela": "chefiou",
-        "nós": "chefiámos / chefiamos",
+        "nós": "chefiamos",
         "vós": "chefiastes",
         "eles/elas": "chefiaram"
       },
@@ -91469,7 +91469,7 @@
         "eu": "naveguei",
         "tu": "navegaste",
         "ele/ela": "navegou",
-        "nós": "navegámos / navegamos",
+        "nós": "navegamos",
         "vós": "navegastes",
         "eles/elas": "navegaram"
       },
@@ -91568,7 +91568,7 @@
         "eu": "lecionei",
         "tu": "lecionaste",
         "ele/ela": "lecionou",
-        "nós": "lecionámos / lecionamos",
+        "nós": "lecionamos",
         "vós": "lecionastes",
         "eles/elas": "lecionaram"
       },
@@ -91667,7 +91667,7 @@
         "eu": "precipitei",
         "tu": "precipitaste",
         "ele/ela": "precipitou",
-        "nós": "precipitámos / precipitamos",
+        "nós": "precipitamos",
         "vós": "precipitastes",
         "eles/elas": "precipitaram"
       },
@@ -91766,7 +91766,7 @@
         "eu": "estraguei",
         "tu": "estragaste",
         "ele/ela": "estragou",
-        "nós": "estragámos / estragamos",
+        "nós": "estragamos",
         "vós": "estragastes",
         "eles/elas": "estragaram"
       },
@@ -91865,7 +91865,7 @@
         "eu": "cansei",
         "tu": "cansaste",
         "ele/ela": "cansou",
-        "nós": "cansámos / cansamos",
+        "nós": "cansamos",
         "vós": "cansastes",
         "eles/elas": "cansaram"
       },
@@ -91964,7 +91964,7 @@
         "eu": "improvisei",
         "tu": "improvisaste",
         "ele/ela": "improvisou",
-        "nós": "improvisámos / improvisamos",
+        "nós": "improvisamos",
         "vós": "improvisastes",
         "eles/elas": "improvisaram"
       },
@@ -92162,7 +92162,7 @@
         "eu": "dispersei",
         "tu": "dispersaste",
         "ele/ela": "dispersou",
-        "nós": "dispersámos / dispersamos",
+        "nós": "dispersamos",
         "vós": "dispersastes",
         "eles/elas": "dispersaram"
       },
@@ -92261,7 +92261,7 @@
         "eu": "refugiei",
         "tu": "refugiaste",
         "ele/ela": "refugiou",
-        "nós": "refugiámos / refugiamos",
+        "nós": "refugiamos",
         "vós": "refugiastes",
         "eles/elas": "refugiaram"
       },
@@ -92360,7 +92360,7 @@
         "eu": "retratei",
         "tu": "retrataste",
         "ele/ela": "retratou",
-        "nós": "retratámos / retratamos",
+        "nós": "retratamos",
         "vós": "retratastes",
         "eles/elas": "retrataram"
       },
@@ -92459,7 +92459,7 @@
         "eu": "velei",
         "tu": "velaste",
         "ele/ela": "velou",
-        "nós": "velámos / velamos",
+        "nós": "velamos",
         "vós": "velastes",
         "eles/elas": "velaram"
       },
@@ -92558,7 +92558,7 @@
         "eu": "fiei",
         "tu": "fiaste",
         "ele/ela": "fiou",
-        "nós": "fiámos / fiamos",
+        "nós": "fiamos",
         "vós": "fiastes",
         "eles/elas": "fiaram"
       },
@@ -92657,7 +92657,7 @@
         "eu": "cumprimentei",
         "tu": "cumprimentaste",
         "ele/ela": "cumprimentou",
-        "nós": "cumprimentámos / cumprimentamos",
+        "nós": "cumprimentamos",
         "vós": "cumprimentastes",
         "eles/elas": "cumprimentaram"
       },
@@ -92756,7 +92756,7 @@
         "eu": "contratei",
         "tu": "contrataste",
         "ele/ela": "contratou",
-        "nós": "contratámos / contratamos",
+        "nós": "contratamos",
         "vós": "contratastes",
         "eles/elas": "contrataram"
       },
@@ -92954,7 +92954,7 @@
         "eu": "devorei",
         "tu": "devoraste",
         "ele/ela": "devorou",
-        "nós": "devorámos / devoramos",
+        "nós": "devoramos",
         "vós": "devorastes",
         "eles/elas": "devoraram"
       },
@@ -93251,7 +93251,7 @@
         "eu": "repliquei",
         "tu": "replicaste",
         "ele/ela": "replicou",
-        "nós": "replicámos / replicamos",
+        "nós": "replicamos",
         "vós": "replicastes",
         "eles/elas": "replicaram"
       },
@@ -93449,7 +93449,7 @@
         "eu": "mobilizei",
         "tu": "mobilizaste",
         "ele/ela": "mobilizou",
-        "nós": "mobilizámos / mobilizamos",
+        "nós": "mobilizamos",
         "vós": "mobilizastes",
         "eles/elas": "mobilizaram"
       },
@@ -93548,7 +93548,7 @@
         "eu": "culpei",
         "tu": "culpaste",
         "ele/ela": "culpou",
-        "nós": "culpámos / culpamos",
+        "nós": "culpamos",
         "vós": "culpastes",
         "eles/elas": "culparam"
       },
@@ -93647,7 +93647,7 @@
         "eu": "capturei",
         "tu": "capturaste",
         "ele/ela": "capturou",
-        "nós": "capturámos / capturamos",
+        "nós": "capturamos",
         "vós": "capturastes",
         "eles/elas": "capturaram"
       },
@@ -93746,7 +93746,7 @@
         "eu": "enxuguei",
         "tu": "enxugaste",
         "ele/ela": "enxugou",
-        "nós": "enxugámos / enxugamos",
+        "nós": "enxugamos",
         "vós": "enxugastes",
         "eles/elas": "enxugaram"
       },
@@ -93845,7 +93845,7 @@
         "eu": "mencionei",
         "tu": "mencionaste",
         "ele/ela": "mencionou",
-        "nós": "mencionámos / mencionamos",
+        "nós": "mencionamos",
         "vós": "mencionastes",
         "eles/elas": "mencionaram"
       },
@@ -93944,7 +93944,7 @@
         "eu": "predominei",
         "tu": "predominaste",
         "ele/ela": "predominou",
-        "nós": "predominámos / predominamos",
+        "nós": "predominamos",
         "vós": "predominastes",
         "eles/elas": "predominaram"
       },
@@ -94043,7 +94043,7 @@
         "eu": "frisei",
         "tu": "frisaste",
         "ele/ela": "frisou",
-        "nós": "frisámos / frisamos",
+        "nós": "frisamos",
         "vós": "frisastes",
         "eles/elas": "frisaram"
       },
@@ -94142,7 +94142,7 @@
         "eu": "curvei",
         "tu": "curvaste",
         "ele/ela": "curvou",
-        "nós": "curvámos / curvamos",
+        "nós": "curvamos",
         "vós": "curvastes",
         "eles/elas": "curvaram"
       },
@@ -94241,7 +94241,7 @@
         "eu": "aluguei",
         "tu": "alugaste",
         "ele/ela": "alugou",
-        "nós": "alugámos / alugamos",
+        "nós": "alugamos",
         "vós": "alugastes",
         "eles/elas": "alugaram"
       },
@@ -94538,7 +94538,7 @@
         "eu": "batizei",
         "tu": "batizaste",
         "ele/ela": "batizou",
-        "nós": "batizámos / batizamos",
+        "nós": "batizamos",
         "vós": "batizastes",
         "eles/elas": "batizaram"
       },
@@ -94637,7 +94637,7 @@
         "eu": "ponderei",
         "tu": "ponderaste",
         "ele/ela": "ponderou",
-        "nós": "ponderámos / ponderamos",
+        "nós": "ponderamos",
         "vós": "ponderastes",
         "eles/elas": "ponderaram"
       },
@@ -94736,7 +94736,7 @@
         "eu": "narrei",
         "tu": "narraste",
         "ele/ela": "narrou",
-        "nós": "narrámos / narramos",
+        "nós": "narramos",
         "vós": "narrastes",
         "eles/elas": "narraram"
       },
@@ -94835,7 +94835,7 @@
         "eu": "namorei",
         "tu": "namoraste",
         "ele/ela": "namorou",
-        "nós": "namorámos / namoramos",
+        "nós": "namoramos",
         "vós": "namorastes",
         "eles/elas": "namoraram"
       },
@@ -94934,7 +94934,7 @@
         "eu": "banhei",
         "tu": "banhaste",
         "ele/ela": "banhou",
-        "nós": "banhámos / banhamos",
+        "nós": "banhamos",
         "vós": "banhastes",
         "eles/elas": "banharam"
       },
@@ -95033,7 +95033,7 @@
         "eu": "atualizei",
         "tu": "atualizaste",
         "ele/ela": "atualizou",
-        "nós": "atualizámos / atualizamos",
+        "nós": "atualizamos",
         "vós": "atualizastes",
         "eles/elas": "atualizaram"
       },
@@ -95132,7 +95132,7 @@
         "eu": "desabafei",
         "tu": "desabafaste",
         "ele/ela": "desabafou",
-        "nós": "desabafámos / desabafamos",
+        "nós": "desabafamos",
         "vós": "desabafastes",
         "eles/elas": "desabafaram"
       },
@@ -95231,7 +95231,7 @@
         "eu": "curei",
         "tu": "curaste",
         "ele/ela": "curou",
-        "nós": "curámos / curamos",
+        "nós": "curamos",
         "vós": "curastes",
         "eles/elas": "curaram"
       },
@@ -95330,7 +95330,7 @@
         "eu": "restaurei",
         "tu": "restauraste",
         "ele/ela": "restaurou",
-        "nós": "restaurámos / restauramos",
+        "nós": "restauramos",
         "vós": "restaurastes",
         "eles/elas": "restauraram"
       },
@@ -95429,7 +95429,7 @@
         "eu": "rocei",
         "tu": "roçaste",
         "ele/ela": "roçou",
-        "nós": "roçámos / roçamos",
+        "nós": "roçamos",
         "vós": "roçastes",
         "eles/elas": "roçaram"
       },
@@ -95627,7 +95627,7 @@
         "eu": "espiei",
         "tu": "espiaste",
         "ele/ela": "espiou",
-        "nós": "espiámos / espiamos",
+        "nós": "espiamos",
         "vós": "espiastes",
         "eles/elas": "espiaram"
       },
@@ -95726,7 +95726,7 @@
         "eu": "arrecadei",
         "tu": "arrecadaste",
         "ele/ela": "arrecadou",
-        "nós": "arrecadámos / arrecadamos",
+        "nós": "arrecadamos",
         "vós": "arrecadastes",
         "eles/elas": "arrecadaram"
       },
@@ -95825,7 +95825,7 @@
         "eu": "vinguei",
         "tu": "vingaste",
         "ele/ela": "vingou",
-        "nós": "vingámos / vingamos",
+        "nós": "vingamos",
         "vós": "vingastes",
         "eles/elas": "vingaram"
       },
@@ -95924,7 +95924,7 @@
         "eu": "bradei",
         "tu": "bradaste",
         "ele/ela": "bradou",
-        "nós": "bradámos / bradamos",
+        "nós": "bradamos",
         "vós": "bradastes",
         "eles/elas": "bradaram"
       },
@@ -96023,7 +96023,7 @@
         "eu": "desliguei",
         "tu": "desligaste",
         "ele/ela": "desligou",
-        "nós": "desligámos / desligamos",
+        "nós": "desligamos",
         "vós": "desligastes",
         "eles/elas": "desligaram"
       },
@@ -96122,7 +96122,7 @@
         "eu": "repousei",
         "tu": "repousaste",
         "ele/ela": "repousou",
-        "nós": "repousámos / repousamos",
+        "nós": "repousamos",
         "vós": "repousastes",
         "eles/elas": "repousaram"
       },
@@ -96221,7 +96221,7 @@
         "eu": "liberei",
         "tu": "liberaste",
         "ele/ela": "liberou",
-        "nós": "liberámos / liberamos",
+        "nós": "liberamos",
         "vós": "liberastes",
         "eles/elas": "liberaram"
       },
@@ -96320,7 +96320,7 @@
         "eu": "reformei",
         "tu": "reformaste",
         "ele/ela": "reformou",
-        "nós": "reformámos / reformamos",
+        "nós": "reformamos",
         "vós": "reformastes",
         "eles/elas": "reformaram"
       },
@@ -96419,7 +96419,7 @@
         "eu": "pesquisei",
         "tu": "pesquisaste",
         "ele/ela": "pesquisou",
-        "nós": "pesquisámos / pesquisamos",
+        "nós": "pesquisamos",
         "vós": "pesquisastes",
         "eles/elas": "pesquisaram"
       },
@@ -96518,7 +96518,7 @@
         "eu": "evoquei",
         "tu": "evocaste",
         "ele/ela": "evocou",
-        "nós": "evocámos / evocamos",
+        "nós": "evocamos",
         "vós": "evocastes",
         "eles/elas": "evocaram"
       },
@@ -96617,7 +96617,7 @@
         "eu": "torturei",
         "tu": "torturaste",
         "ele/ela": "torturou",
-        "nós": "torturámos / torturamos",
+        "nós": "torturamos",
         "vós": "torturastes",
         "eles/elas": "torturaram"
       },
@@ -96716,7 +96716,7 @@
         "eu": "findei",
         "tu": "findaste",
         "ele/ela": "findou",
-        "nós": "findámos / findamos",
+        "nós": "findamos",
         "vós": "findastes",
         "eles/elas": "findaram"
       },
@@ -96914,7 +96914,7 @@
         "eu": "decorei",
         "tu": "decoraste",
         "ele/ela": "decorou",
-        "nós": "decorámos / decoramos",
+        "nós": "decoramos",
         "vós": "decorastes",
         "eles/elas": "decoraram"
       },
@@ -97112,7 +97112,7 @@
         "eu": "responsabilizei",
         "tu": "responsabilizaste",
         "ele/ela": "responsabilizou",
-        "nós": "responsabilizámos / responsabilizamos",
+        "nós": "responsabilizamos",
         "vós": "responsabilizastes",
         "eles/elas": "responsabilizaram"
       },
@@ -97310,7 +97310,7 @@
         "eu": "choquei",
         "tu": "chocaste",
         "ele/ela": "chocou",
-        "nós": "chocámos / chocamos",
+        "nós": "chocamos",
         "vós": "chocastes",
         "eles/elas": "chocaram"
       },
@@ -97508,7 +97508,7 @@
         "eu": "debrucei",
         "tu": "debruçaste",
         "ele/ela": "debruçou",
-        "nós": "debruçámos / debruçamos",
+        "nós": "debruçamos",
         "vós": "debruçastes",
         "eles/elas": "debruçaram"
       },
@@ -97607,7 +97607,7 @@
         "eu": "disciplinei",
         "tu": "disciplinaste",
         "ele/ela": "disciplinou",
-        "nós": "disciplinámos / disciplinamos",
+        "nós": "disciplinamos",
         "vós": "disciplinastes",
         "eles/elas": "disciplinaram"
       },
@@ -97904,7 +97904,7 @@
         "eu": "ensaiei",
         "tu": "ensaiaste",
         "ele/ela": "ensaiou",
-        "nós": "ensaiámos / ensaiamos",
+        "nós": "ensaiamos",
         "vós": "ensaiastes",
         "eles/elas": "ensaiaram"
       },
@@ -98003,7 +98003,7 @@
         "eu": "atei",
         "tu": "ataste",
         "ele/ela": "atou",
-        "nós": "atámos / atamos",
+        "nós": "atamos",
         "vós": "atastes",
         "eles/elas": "ataram"
       },
@@ -98102,7 +98102,7 @@
         "eu": "acionei",
         "tu": "acionaste",
         "ele/ela": "acionou",
-        "nós": "acionámos / acionamos",
+        "nós": "acionamos",
         "vós": "acionastes",
         "eles/elas": "acionaram"
       },
@@ -98399,7 +98399,7 @@
         "eu": "acalmei",
         "tu": "acalmaste",
         "ele/ela": "acalmou",
-        "nós": "acalmámos / acalmamos",
+        "nós": "acalmamos",
         "vós": "acalmastes",
         "eles/elas": "acalmaram"
       },
@@ -98498,7 +98498,7 @@
         "eu": "atrasei",
         "tu": "atrasaste",
         "ele/ela": "atrasou",
-        "nós": "atrasámos / atrasamos",
+        "nós": "atrasamos",
         "vós": "atrasastes",
         "eles/elas": "atrasaram"
       },
@@ -98597,7 +98597,7 @@
         "eu": "colei",
         "tu": "colaste",
         "ele/ela": "colou",
-        "nós": "colámos / colamos",
+        "nós": "colamos",
         "vós": "colastes",
         "eles/elas": "colaram"
       },
@@ -98696,7 +98696,7 @@
         "eu": "furei",
         "tu": "furaste",
         "ele/ela": "furou",
-        "nós": "furámos / furamos",
+        "nós": "furamos",
         "vós": "furastes",
         "eles/elas": "furaram"
       },
@@ -98894,7 +98894,7 @@
         "eu": "vigiei",
         "tu": "vigiaste",
         "ele/ela": "vigiou",
-        "nós": "vigiámos / vigiamos",
+        "nós": "vigiamos",
         "vós": "vigiastes",
         "eles/elas": "vigiaram"
       },
@@ -98993,7 +98993,7 @@
         "eu": "meditei",
         "tu": "meditaste",
         "ele/ela": "meditou",
-        "nós": "meditámos / meditamos",
+        "nós": "meditamos",
         "vós": "meditastes",
         "eles/elas": "meditaram"
       },
@@ -99191,7 +99191,7 @@
         "eu": "edifiquei",
         "tu": "edificaste",
         "ele/ela": "edificou",
-        "nós": "edificámos / edificamos",
+        "nós": "edificamos",
         "vós": "edificastes",
         "eles/elas": "edificaram"
       },
@@ -99389,7 +99389,7 @@
         "eu": "resgatei",
         "tu": "resgataste",
         "ele/ela": "resgatou",
-        "nós": "resgatámos / resgatamos",
+        "nós": "resgatamos",
         "vós": "resgatastes",
         "eles/elas": "resgataram"
       },
@@ -99488,7 +99488,7 @@
         "eu": "alastrei",
         "tu": "alastraste",
         "ele/ela": "alastrou",
-        "nós": "alastrámos / alastramos",
+        "nós": "alastramos",
         "vós": "alastrastes",
         "eles/elas": "alastraram"
       },
@@ -99587,7 +99587,7 @@
         "eu": "vaguei",
         "tu": "vagaste",
         "ele/ela": "vagou",
-        "nós": "vagámos / vagamos",
+        "nós": "vagamos",
         "vós": "vagastes",
         "eles/elas": "vagaram"
       },
@@ -99686,7 +99686,7 @@
         "eu": "realcei",
         "tu": "realçaste",
         "ele/ela": "realçou",
-        "nós": "realçámos / realçamos",
+        "nós": "realçamos",
         "vós": "realçastes",
         "eles/elas": "realçaram"
       },
@@ -99785,7 +99785,7 @@
         "eu": "casquei",
         "tu": "cascaste",
         "ele/ela": "cascou",
-        "nós": "cascámos / cascamos",
+        "nós": "cascamos",
         "vós": "cascastes",
         "eles/elas": "cascaram"
       },
@@ -99884,7 +99884,7 @@
         "eu": "copiei",
         "tu": "copiaste",
         "ele/ela": "copiou",
-        "nós": "copiámos / copiamos",
+        "nós": "copiamos",
         "vós": "copiastes",
         "eles/elas": "copiaram"
       },
@@ -100082,7 +100082,7 @@
         "eu": "esforcei",
         "tu": "esforçaste",
         "ele/ela": "esforçou",
-        "nós": "esforçámos / esforçamos",
+        "nós": "esforçamos",
         "vós": "esforçastes",
         "eles/elas": "esforçaram"
       },
@@ -100181,7 +100181,7 @@
         "eu": "escorreguei",
         "tu": "escorregaste",
         "ele/ela": "escorregou",
-        "nós": "escorregámos / escorregamos",
+        "nós": "escorregamos",
         "vós": "escorregastes",
         "eles/elas": "escorregaram"
       },
@@ -100478,7 +100478,7 @@
         "eu": "clamei",
         "tu": "clamaste",
         "ele/ela": "clamou",
-        "nós": "clamámos / clamamos",
+        "nós": "clamamos",
         "vós": "clamastes",
         "eles/elas": "clamaram"
       },
@@ -100577,7 +100577,7 @@
         "eu": "intensifiquei",
         "tu": "intensificaste",
         "ele/ela": "intensificou",
-        "nós": "intensificámos / intensificamos",
+        "nós": "intensificamos",
         "vós": "intensificastes",
         "eles/elas": "intensificaram"
       },
@@ -100676,7 +100676,7 @@
         "eu": "irei",
         "tu": "iraste",
         "ele/ela": "irou",
-        "nós": "irámos / iramos",
+        "nós": "iramos",
         "vós": "irastes",
         "eles/elas": "iraram"
       },
@@ -100775,7 +100775,7 @@
         "eu": "suei",
         "tu": "suaste",
         "ele/ela": "suou",
-        "nós": "suámos / suamos",
+        "nós": "suamos",
         "vós": "suastes",
         "eles/elas": "suaram"
       },
@@ -100874,7 +100874,7 @@
         "eu": "descartei",
         "tu": "descartaste",
         "ele/ela": "descartou",
-        "nós": "descartámos / descartamos",
+        "nós": "descartamos",
         "vós": "descartastes",
         "eles/elas": "descartaram"
       },
@@ -101072,7 +101072,7 @@
         "eu": "ostentei",
         "tu": "ostentaste",
         "ele/ela": "ostentou",
-        "nós": "ostentámos / ostentamos",
+        "nós": "ostentamos",
         "vós": "ostentastes",
         "eles/elas": "ostentaram"
       },
@@ -101270,7 +101270,7 @@
         "eu": "desenrolei",
         "tu": "desenrolaste",
         "ele/ela": "desenrolou",
-        "nós": "desenrolámos / desenrolamos",
+        "nós": "desenrolamos",
         "vós": "desenrolastes",
         "eles/elas": "desenrolaram"
       },
@@ -101369,7 +101369,7 @@
         "eu": "diferenciei",
         "tu": "diferenciaste",
         "ele/ela": "diferenciou",
-        "nós": "diferenciámos / diferenciamos",
+        "nós": "diferenciamos",
         "vós": "diferenciastes",
         "eles/elas": "diferenciaram"
       },
@@ -101468,7 +101468,7 @@
         "eu": "cancelei",
         "tu": "cancelaste",
         "ele/ela": "cancelou",
-        "nós": "cancelámos / cancelamos",
+        "nós": "cancelamos",
         "vós": "cancelastes",
         "eles/elas": "cancelaram"
       },
@@ -101567,7 +101567,7 @@
         "eu": "balancei",
         "tu": "balançaste",
         "ele/ela": "balançou",
-        "nós": "balançámos / balançamos",
+        "nós": "balançamos",
         "vós": "balançastes",
         "eles/elas": "balançaram"
       },
@@ -101666,7 +101666,7 @@
         "eu": "apaixonei",
         "tu": "apaixonaste",
         "ele/ela": "apaixonou",
-        "nós": "apaixonámos / apaixonamos",
+        "nós": "apaixonamos",
         "vós": "apaixonastes",
         "eles/elas": "apaixonaram"
       },
@@ -101765,7 +101765,7 @@
         "eu": "consagrei",
         "tu": "consagraste",
         "ele/ela": "consagrou",
-        "nós": "consagrámos / consagramos",
+        "nós": "consagramos",
         "vós": "consagrastes",
         "eles/elas": "consagraram"
       },
@@ -101864,7 +101864,7 @@
         "eu": "saudei",
         "tu": "saudaste",
         "ele/ela": "saudou",
-        "nós": "saudámos / saudamos",
+        "nós": "saudamos",
         "vós": "saudastes",
         "eles/elas": "saudaram"
       },
@@ -102062,7 +102062,7 @@
         "eu": "solucei",
         "tu": "soluçaste",
         "ele/ela": "soluçou",
-        "nós": "soluçámos / soluçamos",
+        "nós": "soluçamos",
         "vós": "soluçastes",
         "eles/elas": "soluçaram"
       },
@@ -102161,7 +102161,7 @@
         "eu": "fiscalizei",
         "tu": "fiscalizaste",
         "ele/ela": "fiscalizou",
-        "nós": "fiscalizámos / fiscalizamos",
+        "nós": "fiscalizamos",
         "vós": "fiscalizastes",
         "eles/elas": "fiscalizaram"
       },
@@ -102260,7 +102260,7 @@
         "eu": "finalizei",
         "tu": "finalizaste",
         "ele/ela": "finalizou",
-        "nós": "finalizámos / finalizamos",
+        "nós": "finalizamos",
         "vós": "finalizastes",
         "eles/elas": "finalizaram"
       },
@@ -102359,7 +102359,7 @@
         "eu": "pesquei",
         "tu": "pescaste",
         "ele/ela": "pescou",
-        "nós": "pescámos / pescamos",
+        "nós": "pescamos",
         "vós": "pescastes",
         "eles/elas": "pescaram"
       },
@@ -102458,7 +102458,7 @@
         "eu": "invoquei",
         "tu": "invocaste",
         "ele/ela": "invocou",
-        "nós": "invocámos / invocamos",
+        "nós": "invocamos",
         "vós": "invocastes",
         "eles/elas": "invocaram"
       },
@@ -102557,7 +102557,7 @@
         "eu": "sequestrei",
         "tu": "sequestraste",
         "ele/ela": "sequestrou",
-        "nós": "sequestrámos / sequestramos",
+        "nós": "sequestramos",
         "vós": "sequestrastes",
         "eles/elas": "sequestraram"
       },
@@ -102656,7 +102656,7 @@
         "eu": "derramei",
         "tu": "derramaste",
         "ele/ela": "derramou",
-        "nós": "derramámos / derramamos",
+        "nós": "derramamos",
         "vós": "derramastes",
         "eles/elas": "derramaram"
       },
@@ -102755,7 +102755,7 @@
         "eu": "emigrei",
         "tu": "emigraste",
         "ele/ela": "emigrou",
-        "nós": "emigrámos / emigramos",
+        "nós": "emigramos",
         "vós": "emigrastes",
         "eles/elas": "emigraram"
       },
@@ -102854,7 +102854,7 @@
         "eu": "suscitei",
         "tu": "suscitaste",
         "ele/ela": "suscitou",
-        "nós": "suscitámos / suscitamos",
+        "nós": "suscitamos",
         "vós": "suscitastes",
         "eles/elas": "suscitaram"
       },
@@ -103151,7 +103151,7 @@
         "eu": "habituei",
         "tu": "habituaste",
         "ele/ela": "habituou",
-        "nós": "habituámos / habituamos",
+        "nós": "habituamos",
         "vós": "habituastes",
         "eles/elas": "habituaram"
       },
@@ -103250,7 +103250,7 @@
         "eu": "implementei",
         "tu": "implementaste",
         "ele/ela": "implementou",
-        "nós": "implementámos / implementamos",
+        "nós": "implementamos",
         "vós": "implementastes",
         "eles/elas": "implementaram"
       },
@@ -103349,7 +103349,7 @@
         "eu": "licenciei",
         "tu": "licenciaste",
         "ele/ela": "licenciou",
-        "nós": "licenciámos / licenciamos",
+        "nós": "licenciamos",
         "vós": "licenciastes",
         "eles/elas": "licenciaram"
       },
@@ -103646,7 +103646,7 @@
         "eu": "relembrei",
         "tu": "relembraste",
         "ele/ela": "relembrou",
-        "nós": "relembrámos / relembramos",
+        "nós": "relembramos",
         "vós": "relembrastes",
         "eles/elas": "relembraram"
       },
@@ -103745,7 +103745,7 @@
         "eu": "empatei",
         "tu": "empataste",
         "ele/ela": "empatou",
-        "nós": "empatámos / empatamos",
+        "nós": "empatamos",
         "vós": "empatastes",
         "eles/elas": "empataram"
       },
@@ -103844,7 +103844,7 @@
         "eu": "balbuciei",
         "tu": "balbuciaste",
         "ele/ela": "balbuciou",
-        "nós": "balbuciámos / balbuciamos",
+        "nós": "balbuciamos",
         "vós": "balbuciastes",
         "eles/elas": "balbuciaram"
       },
@@ -103943,7 +103943,7 @@
         "eu": "cerrei",
         "tu": "cerraste",
         "ele/ela": "cerrou",
-        "nós": "cerrámos / cerramos",
+        "nós": "cerramos",
         "vós": "cerrastes",
         "eles/elas": "cerraram"
       },
@@ -104042,7 +104042,7 @@
         "eu": "afoguei",
         "tu": "afogaste",
         "ele/ela": "afogou",
-        "nós": "afogámos / afogamos",
+        "nós": "afogamos",
         "vós": "afogastes",
         "eles/elas": "afogaram"
       },
@@ -104240,7 +104240,7 @@
         "eu": "viabilizei",
         "tu": "viabilizaste",
         "ele/ela": "viabilizou",
-        "nós": "viabilizámos / viabilizamos",
+        "nós": "viabilizamos",
         "vós": "viabilizastes",
         "eles/elas": "viabilizaram"
       },
@@ -104339,7 +104339,7 @@
         "eu": "conformei",
         "tu": "conformaste",
         "ele/ela": "conformou",
-        "nós": "conformámos / conformamos",
+        "nós": "conformamos",
         "vós": "conformastes",
         "eles/elas": "conformaram"
       },
@@ -104438,7 +104438,7 @@
         "eu": "ditei",
         "tu": "ditaste",
         "ele/ela": "ditou",
-        "nós": "ditámos / ditamos",
+        "nós": "ditamos",
         "vós": "ditastes",
         "eles/elas": "ditaram"
       },
@@ -104537,7 +104537,7 @@
         "eu": "fotografei",
         "tu": "fotografaste",
         "ele/ela": "fotografou",
-        "nós": "fotografámos / fotografamos",
+        "nós": "fotografamos",
         "vós": "fotografastes",
         "eles/elas": "fotografaram"
       },
@@ -104636,7 +104636,7 @@
         "eu": "estacionei",
         "tu": "estacionaste",
         "ele/ela": "estacionou",
-        "nós": "estacionámos / estacionamos",
+        "nós": "estacionamos",
         "vós": "estacionastes",
         "eles/elas": "estacionaram"
       },
@@ -104735,7 +104735,7 @@
         "eu": "cocei",
         "tu": "coçaste",
         "ele/ela": "coçou",
-        "nós": "coçámos / coçamos",
+        "nós": "coçamos",
         "vós": "coçastes",
         "eles/elas": "coçaram"
       },
@@ -104834,7 +104834,7 @@
         "eu": "disponibilizei",
         "tu": "disponibilizaste",
         "ele/ela": "disponibilizou",
-        "nós": "disponibilizámos / disponibilizamos",
+        "nós": "disponibilizamos",
         "vós": "disponibilizastes",
         "eles/elas": "disponibilizaram"
       },
@@ -105131,7 +105131,7 @@
         "eu": "roteei",
         "tu": "roteaste",
         "ele/ela": "roteou",
-        "nós": "roteámos / roteamos",
+        "nós": "roteamos",
         "vós": "roteastes",
         "eles/elas": "rotearam"
       },
@@ -105230,7 +105230,7 @@
         "eu": "exagerei",
         "tu": "exageraste",
         "ele/ela": "exagerou",
-        "nós": "exagerámos / exageramos",
+        "nós": "exageramos",
         "vós": "exagerastes",
         "eles/elas": "exageraram"
       },
@@ -105329,7 +105329,7 @@
         "eu": "desobriguei",
         "tu": "desobrigaste",
         "ele/ela": "desobrigou",
-        "nós": "desobrigámos / desobrigamos",
+        "nós": "desobrigamos",
         "vós": "desobrigastes",
         "eles/elas": "desobrigaram"
       },
@@ -105428,7 +105428,7 @@
         "eu": "tranquei",
         "tu": "trancaste",
         "ele/ela": "trancou",
-        "nós": "trancámos / trancamos",
+        "nós": "trancamos",
         "vós": "trancastes",
         "eles/elas": "trancaram"
       },
@@ -105527,7 +105527,7 @@
         "eu": "malogrei",
         "tu": "malograste",
         "ele/ela": "malogrou",
-        "nós": "malográmos / malogramos",
+        "nós": "malogramos",
         "vós": "malograstes",
         "eles/elas": "malograram"
       },
@@ -105824,7 +105824,7 @@
         "eu": "desengraxei",
         "tu": "desengraxaste",
         "ele/ela": "desengraxou",
-        "nós": "desengraxámos / desengraxamos",
+        "nós": "desengraxamos",
         "vós": "desengraxastes",
         "eles/elas": "desengraxaram"
       },
@@ -105923,7 +105923,7 @@
         "eu": "teorizei",
         "tu": "teorizaste",
         "ele/ela": "teorizou",
-        "nós": "teorizámos / teorizamos",
+        "nós": "teorizamos",
         "vós": "teorizastes",
         "eles/elas": "teorizaram"
       },
@@ -106022,7 +106022,7 @@
         "eu": "repulsei",
         "tu": "repulsaste",
         "ele/ela": "repulsou",
-        "nós": "repulsámos / repulsamos",
+        "nós": "repulsamos",
         "vós": "repulsastes",
         "eles/elas": "repulsaram"
       },
@@ -106121,7 +106121,7 @@
         "eu": "barriquei",
         "tu": "barricaste",
         "ele/ela": "barricou",
-        "nós": "barricámos / barricamos",
+        "nós": "barricamos",
         "vós": "barricastes",
         "eles/elas": "barricaram"
       },
@@ -106220,7 +106220,7 @@
         "eu": "assimilei",
         "tu": "assimilaste",
         "ele/ela": "assimilou",
-        "nós": "assimilámos / assimilamos",
+        "nós": "assimilamos",
         "vós": "assimilastes",
         "eles/elas": "assimilaram"
       },
@@ -106319,7 +106319,7 @@
         "eu": "endividei",
         "tu": "endividaste",
         "ele/ela": "endividou",
-        "nós": "endividámos / endividamos",
+        "nós": "endividamos",
         "vós": "endividastes",
         "eles/elas": "endividaram"
       },
@@ -106517,7 +106517,7 @@
         "eu": "enjoei",
         "tu": "enjoaste",
         "ele/ela": "enjoou",
-        "nós": "enjoámos / enjoamos",
+        "nós": "enjoamos",
         "vós": "enjoastes",
         "eles/elas": "enjoaram"
       },
