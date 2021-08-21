@@ -5,3 +5,4 @@ node_modules/
 **/.now
 .env
 .env.build
+csvs/*.csv
