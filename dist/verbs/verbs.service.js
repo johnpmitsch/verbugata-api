@@ -6,17 +6,27 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.VerbsModule = void 0;
+exports.VerbsService = void 0;
 const common_1 = require("@nestjs/common");
-const verbs_service_1 = require("./verbs.service");
-const verbs_controller_1 = require("./verbs.controller");
-let VerbsModule = class VerbsModule {
+let VerbsService = class VerbsService {
+    create(createVerbDto) {
+        return 'This action adds a new verb';
+    }
+    findAll() {
+        return `This action returns all verbs`;
+    }
+    findOne(id) {
+        return `This action returns a #${id} verb`;
+    }
+    update(id, updateVerbDto) {
+        return `This action updates a #${id} verb`;
+    }
+    remove(id) {
+        return `This action removes a #${id} verb`;
+    }
 };
-VerbsModule = __decorate([
-    (0, common_1.Module)({
-        controllers: [verbs_controller_1.VerbsController],
-        providers: [verbs_service_1.VerbsService]
-    })
-], VerbsModule);
-exports.VerbsModule = VerbsModule;
-//# sourceMappingURL=verbs.module.js.map
+VerbsService = __decorate([
+    (0, common_1.Injectable)()
+], VerbsService);
+exports.VerbsService = VerbsService;
+//# sourceMappingURL=verbs.service.js.map
