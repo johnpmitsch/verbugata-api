@@ -1,0 +1,57 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id    Int     @default(autoincrement()) @id
+  email String  @unique
+  name  String?
+  //verbs Verb[]
+}
+
+model Language {
+  id        Int      @default(autoincrement()) @id
+  langauge  String   @unique
+  tenses    Tense[]
+  verbs     Verb[]
+}
+
+model Tense {
+  id            Int      @default(autoincrement()) @id
+  name          String
+  english_name  String
+  example       String
+  example_verb  String
+  language      Language    @relation(fields: [languageId], references: [id])
+  languageId    Int
+  conjugations  Conjugation[]
+}
+
+model Verb {
+  id            Int      @default(autoincrement()) @id
+  infinitive    String   @unique
+  example       String
+  rank          Int
+  regular       Boolean  @default(false)
+  language      Language @relation(fields: [languageId], references: [id])
+  languageId    Int
+  conjugations  Conjugation[]
+}
+
+model Conjugation {
+  id            Int      @default(autoincrement()) @id
+  pronoun       String
+  finite        String   // the conjugated verb
+  verb          Verb     @relation(fields: [verbId], references: [id])
+  tense         Tense    @relation(fields: [tenseId], references: [id])
+  verbId        Int
+  tenseId       Int
+}
