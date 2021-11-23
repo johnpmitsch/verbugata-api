@@ -19,7 +19,7 @@ model User {
 
 model Language {
   id        Int      @default(autoincrement()) @id
-  langauge  String   @unique
+  name      String   @unique
   tenses    Tense[]
   verbs     Verb[]
 }
