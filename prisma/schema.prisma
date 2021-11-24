@@ -26,7 +26,7 @@ model Language {
 
 model Tense {
   id            Int      @default(autoincrement()) @id
-  name          String
+  name          String   @unique
   english_name  String
   example       String
   example_verb  String
@@ -54,4 +54,6 @@ model Conjugation {
   tense         Tense    @relation(fields: [tenseId], references: [id])
   verbId        Int
   tenseId       Int
+
+  @@unique([pronoun, finite])
 }
