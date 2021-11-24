@@ -8,21 +8,10 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.VerbsService = void 0;
 const common_1 = require("@nestjs/common");
+const prisma_client_1 = require("../prisma_client");
 let VerbsService = class VerbsService {
-    create(createVerbDto) {
-        return 'This action adds a new verb';
-    }
-    findAll() {
-        return `This action returns all verbs`;
-    }
     findOne(id) {
-        return `This action returns a #${id} verb`;
-    }
-    update(id, updateVerbDto) {
-        return `This action updates a #${id} verb`;
-    }
-    remove(id) {
-        return `This action removes a #${id} verb`;
+        return prisma_client_1.default.verb.findUnique({ where: { id } });
     }
 };
 VerbsService = __decorate([
