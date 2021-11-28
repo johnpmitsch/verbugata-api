@@ -5,5 +5,6 @@ node_modules/
 **/.now
 .env
 .env.build
+*.env
 csvs/*.csv
 dist/
