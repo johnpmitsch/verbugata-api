@@ -18,4 +18,9 @@ export class AppController {
   getProfile(@Request() req) {
     return req.user;
   }
+
+  @Get("ping")
+  ping() {
+    return "ping";
+  }
 }
