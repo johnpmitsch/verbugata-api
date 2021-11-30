@@ -1,0 +1,15 @@
+id,language_id,name,english_name,example,example_verb
+1,1,Presente,Present,"Eu como um sanduíche",como
+2,1,Pretérito Imperfeito,Past Imperfect,"Eu mantinha meu carro limpo",matinha
+3,1,Pretérito Perfeito,Simple Past,"Eu fiz o meu trabalho",fiz
+4,1,Pretérito mais-que-perfeito,Past Perfect,"Eles foram para os Estados Unidos",foram
+5,1,Futuro do Presente,Simple Future,"Eles chegarão ao Rio daqui a dois dias",chegarão
+6,1,Futuro do Pretérito,Conditional,"Ele poderia ir com vocês ao cinema",poderia
+7,1,Subjuntivo Presente,Present Subjunctive,"Ele deseja que eu seja feliz",seja
+8,1,Subjuntivo Pretérito Imperfeito,Imperfect Past Subjunctive,"Quis que ele fosse feliz",fosse
+9,1,Subjuntivo Futuro,Future Subjunctive,"Nós soubermos que ele será demitido",soubermos
+10,1,Imperativo Afirmativo,Affirmative Imperative,"Façam silêncio, por favor!",Façam
+11,1,Imperativo Negativo,Negative Imperative,"Não venha agora, por favor",venha
+12,1,Infinitivo Pessoal,Personal Infinitive,"Para ter o carro, precisa de dinheiro",ter
+13,1,Gerúndio,Gerund,"João está aprendendo português",aprendendo
+14,1,Particípio Passado,Past Participle,"Eles tinham dançado muito na festa",tinham
