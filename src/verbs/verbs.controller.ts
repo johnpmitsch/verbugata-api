@@ -1,4 +1,4 @@
-import { Controller, Get, Param } from "@nestjs/common";
+import { BadRequestException, Controller, Get, Param } from "@nestjs/common";
 import { VerbsService } from "./verbs.service";
 
 @Controller("verbs")

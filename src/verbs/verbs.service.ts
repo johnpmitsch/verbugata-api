@@ -3,7 +3,8 @@ import prisma from "../prisma_client";
 
 @Injectable()
 export class VerbsService {
-  findOne(id: number) {
-    return prisma.verb.findUnique({ where: { id } });
+  async findOne(id: number) {
+    const verb = await prisma.verb.findUnique({ where: { id } });
+    return verb;
   }
 }

@@ -13,9 +13,15 @@ datasource db {
 model User {
   id    Int     @default(autoincrement()) @id
   email String  @unique
-  name  String?
+  password String
   //verbs Verb[]
 }
+
+//model UserVerbTense {
+//  id    Int     @default(autoincrement()) @id
+//  verb  Verb    @relation(fields: [id])
+//
+//}
 
 model Language {
   id        Int      @default(autoincrement()) @id
