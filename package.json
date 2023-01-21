@@ -1,5 +1,6 @@
 {
   "name": "verbugata-api",
+  "type": "module",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:johnpmitsch/verbugata-api.git",
@@ -12,7 +13,13 @@
     "typescript": "^4.9.4"
   },
   "dependencies": {
+    "@apollo/server": "^4.3.1",
     "@prisma/client": "4.9.0",
-    "fast-csv": "^4.3.6"
+    "fast-csv": "^4.3.6",
+    "graphql": "^16.6.0"
+  },
+  "scripts": {
+    "compile": "tsc",
+    "start": "npm run compile && node ./dist/index.js"
   }
 }
