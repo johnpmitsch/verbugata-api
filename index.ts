@@ -1,41 +1,45 @@
 import { ApolloServer } from "@apollo/server";
 import { startStandaloneServer } from "@apollo/server/standalone";
 import SchemaBuilder from "@pothos/core";
+import PrismaPlugin from "@pothos/plugin-prisma";
+// This is the default location for the generator, but this can be customized as described above.
+// Using a type only import will help avoid issues with undeclared exports in esm mode
+import type PrismaTypes from "./prisma/pothos-types";
+import { PrismaClient } from "@prisma/client";
 
-type Verb = {
-  infinitive: string;
-};
+const prisma = new PrismaClient({});
 
-const Verbs = [
-  {
-    infinitive: "ser",
+const builder = new SchemaBuilder<{
+  PrismaTypes: PrismaTypes;
+}>({
+  plugins: [PrismaPlugin],
+  prisma: {
+    client: prisma,
+    // defaults to false, uses /// comments from prisma schema as descriptions
+    // for object types, relations and exposed fields.
+    // descriptions can be omitted by setting description to false
+    exposeDescriptions: false,
+    // use where clause from prismaRelatedConnection for totalCount (will true by default in next major version)
+    filterConnectionTotalCount: true,
   },
-  {
-    infinitive: "estar",
-  },
-];
+});
 
-const builder = new SchemaBuilder<{ Objects: { Verb: Verb } }>({});
-
-builder.objectType("Verb", {
-  description: "This is a verb",
+builder.prismaObject("Verb", {
   fields: (t) => ({
-    infinitive: t.exposeString("infinitive", {}),
+    id: t.exposeID("id"),
+    infinitive: t.exposeString("infinitive"),
   }),
 });
 
 builder.queryType({
   fields: (t) => ({
-    verb: t.field({
-      args: {
-        infinitive: t.arg.string({ required: true }),
-      },
+    verbs: t.prismaField({
       type: "Verb",
-      resolve: (parent, { infinitive }) =>
-        // TODO: how to return nothing?
-        Verbs.find((v) => v.infinitive === infinitive) || {
-          infinitive: "not found",
-        },
+      resolve: async (query, root, args, ctx, info) =>
+        prisma.verb.findUniqueOrThrow({
+          ...query,
+          where: { id: 1 },
+        }),
     }),
   }),
 });
