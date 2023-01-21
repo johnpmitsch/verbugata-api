@@ -379,7 +379,7 @@ id,language_id,infinitive,example,regular,rank
 378,1,resistir,"null",1, 378
 379,1,cometer,"null",1, 379
 380,1,agir,"null",1, 380
-381,1,registar,"null",1, 381
+381,1,registar (dup),"null",1, 381
 382,1,pintar,"null",1, 382
 383,1,medir,"null",0, 383
 384,1,interromper,"null",1, 384

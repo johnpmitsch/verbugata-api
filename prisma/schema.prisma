@@ -10,10 +10,9 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+
 model User {
   id       Int     @default(autoincrement()) @id
-  email    String  @unique
-  password String
   //verbs Verb[]
 }
 
@@ -60,6 +59,5 @@ model Conjugation {
   tense         Tense    @relation(fields: [tenseId], references: [id])
   verbId        Int
   tenseId       Int
-
   @@unique([pronoun, finite])
 }

@@ -22,18 +22,20 @@ const seed = async () => {
   fs.createReadStream(path.resolve(__dirname, "..", "csvs", "verbs.csv"))
     .pipe(csv.parse({ headers: true }))
     .pipe(csv.format({ headers: true }))
-    .transform(async (row, next) => {
+    .transform(async (row: any, next: any) => {
       const { language_id, infinitive, example, regular, rank } = row;
       // Using upsert as a "find or create" type function
       // Seems to be skipping the last couple verbs?
       await prisma.verb.upsert({
         where: { infinitive },
-        update: {},
+        update: {
+          regular: !!parseInt(regular),
+        },
         create: {
           infinitive,
           example,
           rank: parseInt(rank),
-          regular: !!regular,
+          regular: !!parseInt(regular),
           language: { connect: { id: parseInt(language_id) } },
         },
       });
@@ -45,7 +47,7 @@ const seed = async () => {
   fs.createReadStream(path.resolve(__dirname, "..", "csvs", "tenses.csv"))
     .pipe(csv.parse({ headers: true }))
     .pipe(csv.format({ headers: true }))
-    .transform(async (row, next) => {
+    .transform(async (row: any, next: any) => {
       const { language_id, name, english_name, example, example_verb } = row;
       await prisma.tense.upsert({
         where: { name },
@@ -66,7 +68,7 @@ const seed = async () => {
   fs.createReadStream(path.resolve(__dirname, "..", "csvs", "conjugations.csv"))
     .pipe(csv.parse({ headers: true }))
     .pipe(csv.format({ headers: true }))
-    .transform(async (row, next) => {
+    .transform(async (row: any, next: any) => {
       const { id, verb_id, tense_id, pronoun, finite } = row;
       console.log(`seeding conjugation #${id}`);
       await prisma.conjugation.upsert({
