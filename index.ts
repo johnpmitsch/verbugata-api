@@ -1,21 +1,10 @@
 import { ApolloServer } from "@apollo/server";
 import { startStandaloneServer } from "@apollo/server/standalone";
+import SchemaBuilder from "@pothos/core";
 
-const typeDefs = `#graphql
-  # Comments in GraphQL strings (such as this one) start with the hash (#) symbol.
-
-  # This "Book" type defines the queryable fields for every book in our data source.
-  type Verb {
-    infinitive: String
-  }
-
-  # The "Query" type is special: it lists all of the available queries that
-  # clients can execute, along with the return type for each. In this
-  # case, the "books" query returns an array of zero or more Books (defined above).
-  type Query {
-    verbs: [Verb]
-  }
-`;
+type Verb = {
+  infinitive: string;
+};
 
 const Verbs = [
   {
@@ -26,16 +15,33 @@ const Verbs = [
   },
 ];
 
-const resolvers = {
-  Query: {
-    verbs: () => Verbs,
-  },
-};
+const builder = new SchemaBuilder<{ Objects: { Verb: Verb } }>({});
 
-const server = new ApolloServer({
-  typeDefs,
-  resolvers,
+builder.objectType("Verb", {
+  description: "This is a verb",
+  fields: (t) => ({
+    infinitive: t.exposeString("infinitive", {}),
+  }),
 });
+
+builder.queryType({
+  fields: (t) => ({
+    verb: t.field({
+      args: {
+        infinitive: t.arg.string({ required: true }),
+      },
+      type: "Verb",
+      resolve: (parent, { infinitive }) =>
+        // TODO: how to return nothing?
+        Verbs.find((v) => v.infinitive === infinitive) || {
+          infinitive: "not found",
+        },
+    }),
+  }),
+});
+
+const schema = builder.toSchema();
+const server = new ApolloServer({ schema });
 
 // Passing an ApolloServer instance to the `startStandaloneServer` function:
 //  1. creates an Express app
@@ -43,7 +49,7 @@ const server = new ApolloServer({
 //  3. prepares your app to handle incoming requests
 const startServer = async () => {
   const { url } = await startStandaloneServer(server, {
-    listen: { port: 4000 },
+    listen: { port: parseInt(process.env.PORT || "4000") },
   });
   console.log(`🚀  Server ready at: ${url}`);
 };
