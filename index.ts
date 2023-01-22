@@ -28,21 +28,80 @@ builder.prismaObject("Verb", {
   fields: (t) => ({
     id: t.exposeID("id"),
     infinitive: t.exposeString("infinitive"),
+    rank: t.exposeInt("rank"),
+    regular: t.exposeBoolean("regular"),
+    conjugations: t.relation("conjugations"),
+  }),
+});
+
+builder.prismaObject("Conjugation", {
+  fields: (t) => ({
+    id: t.exposeID("id"),
+    pronoun: t.exposeString("pronoun"),
+    finite: t.exposeString("finite"),
+    tense: t.relation("tense"),
+  }),
+});
+
+builder.prismaObject("Tense", {
+  fields: (t) => ({
+    id: t.exposeID("id"),
+    name: t.exposeString("name"),
+    english_name: t.exposeString("english_name"),
+    example: t.exposeString("example"),
+    example_verb: t.exposeString("example_verb"),
   }),
 });
 
 builder.queryType({
   fields: (t) => ({
-    verbs: t.prismaField({
+    verb: t.prismaField({
       type: "Verb",
-      resolve: async (query, root, args, ctx, info) =>
-        prisma.verb.findUniqueOrThrow({
+      args: {
+        infinitive: t.arg.string({ required: true }),
+      },
+      resolve: async (
+        query,
+        root,
+        args,
+        ctx, // Not sure why this isn't typed but it's complaining
+        info
+      ) => {
+        return prisma.verb.findUniqueOrThrow({
           ...query,
-          where: { id: 1 },
-        }),
+          where: { infinitive: args.infinitive },
+        });
+      },
     }),
   }),
 });
+
+//builder.queryType({
+//  fields: (t) => ({
+//    conjugation: t.prismaField({
+//      type: "Conjugation",
+//      args: {
+//        finite: t.arg.string({ required: true }),
+//        pronoun: t.arg.string({ required: true }),
+//      },
+//      resolve: async (
+//        query,
+//        root,
+//        args,
+//        ctx, // Not sure why this isn't typed but it's complaining
+//        info
+//      ) => {
+//        const { finite, pronoun } = args;
+//        return prisma.conjugation.findUniqueOrThrow({
+//          ...query,
+//          where: {
+//            pronoun_finite: { finite, pronoun },
+//          },
+//        });
+//      },
+//    }),
+//  }),
+//});
 
 const schema = builder.toSchema();
 const server = new ApolloServer({ schema });
