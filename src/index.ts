@@ -24,13 +24,14 @@ server.get("/ping", opts, async (_request, _reply) => {
 
 const start = async () => {
   try {
+    console.log("hi");
     await server.listen({ port: parseInt(process.env["PORT"] || "3050") });
 
     const address = server.server.address();
     const port = typeof address === "string" ? address : address?.port;
     console.log(`API running on port ${port}`);
   } catch (err) {
-    server.log.error(err);
+    console.error(err);
     process.exit(1);
   }
 };
