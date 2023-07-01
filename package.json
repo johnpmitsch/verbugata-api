@@ -4,14 +4,18 @@
   "main": "dist/index.js",
   "license": "MIT",
   "type": "module",
+  "engines": {
+    "node": ">=20.0.0 <21.0.0"
+  },
   "scripts": {
     "build": "npx tsc --build tsconfig.json",
-    "start": "npm run build && node api/index.js"
+    "start": "npm run build && node dist/index.js"
   },
   "dependencies": {
     "fastify": "^4.19.0"
   },
   "devDependencies": {
-   "typescript": "^5.1.6"
+    "@types/node": "^20.3.3",
+    "typescript": "^5.1.6"
   }
 }

@@ -10,8 +10,20 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "outDir": "api",
-    "moduleResolution": "node16"
+    "outDir": "dist",
+    "moduleResolution": "node16",
+    "rootDir": "src",
+    "allowUnusedLabels": false,
+    "allowUnreachableCode": false,
+    "exactOptionalPropertyTypes": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitOverride": true,
+    "noImplicitReturns": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "checkJs": true
   },
-  "files": [ "src/**/*" ]
+  "include": [ "src/**/*.ts" ]
 }
