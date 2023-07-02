@@ -1,14 +1,11 @@
 import Fastify, { FastifyInstance, RouteShorthandOptions } from "fastify";
-import { drizzle } from "drizzle-orm/node-postgres";
-import { Client } from "pg";
+import { drizzle } from "drizzle-orm/postgres-js";
+import postgres from "postgres";
 
-const client = new Client({
-  connectionString:
-    "postgres://verbugata:verbuagata@127.0.0.1:5432/verbugata_api",
-});
+require("dotenv").config();
 
-await client.connect();
-const db = drizzle(client);
+const sql = postgres(process.env["DB_URL"] || "missingDB_URL", {});
+const db = drizzle(sql);
 console.log(db);
 
 const server: FastifyInstance = Fastify({});
