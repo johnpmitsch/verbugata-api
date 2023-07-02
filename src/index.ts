@@ -1,5 +1,15 @@
 import Fastify, { FastifyInstance, RouteShorthandOptions } from "fastify";
-//import { Http2Server } from "node:http2";
+import { drizzle } from "drizzle-orm/node-postgres";
+import { Client } from "pg";
+
+const client = new Client({
+  connectionString:
+    "postgres://verbugata:verbuagata@127.0.0.1:5432/verbugata_api",
+});
+
+await client.connect();
+const db = drizzle(client);
+console.log(db);
 
 const server: FastifyInstance = Fastify({});
 
