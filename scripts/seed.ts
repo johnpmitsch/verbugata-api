@@ -4,7 +4,7 @@ import { fileURLToPath } from "url";
 import { drizzle } from "drizzle-orm/postgres-js";
 import postgres from "postgres";
 import dotenv from "dotenv";
-import { languages, tenses, users, verbs } from "../db/schema";
+import { languages, tenses, verbs, conjugations } from "../db/schema";
 import * as schema from "../db/schema";
 import { InferModel } from "drizzle-orm";
 import Papa from "papaparse";
@@ -20,21 +20,32 @@ const db = drizzle(sql, { schema });
 type NewLanguage = InferModel<typeof languages, "insert">;
 type NewVerb = InferModel<typeof verbs, "insert">;
 type NewTense = InferModel<typeof tenses, "insert">;
+type NewConjugation = InferModel<typeof conjugations, "insert">;
 
 const insertLanguage = async (language: NewLanguage) => {
-  return db.insert(languages).values(language).onConflictDoNothing;
+  return await db.insert(languages).values(language).onConflictDoNothing();
 };
 
 const insertVerb = async (verb: NewVerb) => {
-  return await db.insert(verbs).values(verb);
+  return await db.insert(verbs).values(verb).onConflictDoNothing();
 };
 
 const insertTense = async (tense: NewTense) => {
   return await db.insert(tenses).values(tense).onConflictDoNothing();
 };
 
+const insertConjugation = async (conjugation: NewConjugation) => {
+  return await db
+    .insert(conjugations)
+    .values(conjugation)
+    .onConflictDoNothing();
+};
+
 const allTenses: NewTense[] = [];
-const seedLanguagesAndVerbs = async () => {
+const allVerbs: NewVerb[] = [];
+const allConjugations: NewConjugation[] = [];
+
+const seedLanguagesAndTenses = async () => {
   try {
     console.log("seeding...");
     await insertLanguage({
@@ -51,6 +62,7 @@ const seedLanguagesAndVerbs = async () => {
       header: true,
       complete: (results, file) => {
         results.data.map((result) => {
+          console.log("hi");
           const { id, language_id, name, english_name, example, example_verb } =
             result;
           if (id) {
@@ -67,70 +79,109 @@ const seedLanguagesAndVerbs = async () => {
         });
       },
     });
-    /**
-      fs
-        .createReadStream(path.resolve(__dirname, "..", "csvs", "verbs.csv"))
-        .pipe(csv.parse({ headers: true }))
-        .pipe(csv.format({ headers: true }))
-        .transform(async (row: any, next: any) => {
-          const { id, language_id, infinitive, example, regular, rank } = row;
-          const values: NewVerb = {
-            id,
-            languageId: language_id,
-            infinitive,
-            example,
-            regular,
-            rank,
-          };
-          await insertVerb(values);
-          setImmediate(() => next());
-        })
-        .on("end", () => process.exit())
-        */
-    /**
-    console.log("seeding conjugations");
-    fs.createReadStream(
-      path.resolve(__dirname, "..", "csvs", "conjugations.csv")
-    )
-      .pipe(csv.parse({ headers: true }))
-      .pipe(csv.format({ headers: true }))
-      .transform(async (row: any, next: any) => {
-        const { id, verb_id, tense_id, pronoun, finite } = row;
-        console.log(`seeding conjugation #${id}`);
-        await prisma.conjugation.upsert({
-          where: { pronoun_finite: { pronoun, finite } },
-          update: {},
-          create: {
-            finite,
-            pronoun,
-            verb: { connect: { id: parseInt(verb_id) } },
-            tense: { connect: { id: parseInt(tense_id) } },
-          },
-        });
-        setImmediate(() => next());
-      })
-      */
   } catch (e) {
     console.error(e);
     process.exit(1);
   }
 };
 
-const seedTenses = async () => {
+const seedVerbs = async () => {
   try {
+    const verbsFile = fs.readFileSync(
+      path.resolve(__dirname, "..", "csvs", "verbs.csv"),
+      "utf8"
+    );
+    Papa.parse(verbsFile, {
+      header: true,
+      complete: (results, file) => {
+        console.log("Parsing complete:", results, file);
+        results.data.map((result) => {
+          const { id, language_id, infinitive, example, regular, rank } =
+            result;
+          if (id) {
+            const values: NewVerb = {
+              id,
+              languageId: language_id,
+              infinitive,
+              example,
+              regular,
+              rank,
+            };
+            allVerbs.push(values);
+          }
+        });
+      },
+    });
   } catch (e) {
     console.error(e);
-    process.exit(1);
   }
 };
 
-await seedLanguagesAndVerbs();
+const seedConjugations = async () => {
+  try {
+    const conjugationsFile = fs.readFileSync(
+      path.resolve(__dirname, "..", "csvs", "conjugations.csv"),
+      "utf8"
+    );
+    Papa.parse(conjugationsFile, {
+      header: true,
+      delimiter: ",",
+      complete: (results, file) => {
+        console.log("Parsing complete:", results, file);
+
+        console.log(results);
+        results.data.map((result) => {
+          const { id, verb_id, tense_id, pronoun, finite } = result;
+          console.log(id);
+          if (id) {
+            const values: NewConjugation = {
+              id,
+              verbId: verb_id,
+              tenseId: tense_id,
+              pronoun,
+              finite,
+            };
+            allConjugations.push(values);
+          }
+        });
+      },
+    });
+  } catch (e) {
+    console.error(e);
+  }
+};
+
+await seedLanguagesAndTenses();
+await seedVerbs();
+await seedConjugations();
 await Promise.all(
   allTenses.map(async (tense) => {
-    console.log(tense);
-    await insertTense(tense);
-    console.log("DONE");
+    try {
+      await insertTense(tense);
+    } catch (e) {
+      console.error(e);
+    }
   })
 );
-//await seedTenses();
+console.log("tenses seeded");
+await Promise.all(
+  allVerbs.map(async (verb) => {
+    try {
+      await insertVerb(verb);
+    } catch (e) {
+      console.error(e);
+    }
+  })
+);
+console.log("verbs seeded");
+await Promise.all(
+  allConjugations.map(async (conjugation) => {
+    try {
+      await insertConjugation(conjugation);
+    } catch (e) {
+      console.error(e);
+    }
+  })
+);
+console.log("conjugations seeded");
 process.exit(0);
