@@ -1,16 +1,27 @@
+import fs from "fs";
+import path from "path";
 import { drizzle } from "drizzle-orm/postgres-js";
 import postgres from "postgres";
 import dotenv from "dotenv";
 import { languages, users, verbs } from "../db/schema";
+import * as schema from "../db/schema";
 import { InferModel } from "drizzle-orm";
+import csv from "fast-csv";
+
 dotenv.config();
 
-type NewLanguage = InferModel<typeof languages, "insert">;
+const db = drizzle(sql, { schema });
 const sql = postgres(process.env["DB_URL"] || "missingDB_URL", {});
-const db = drizzle(sql);
+
+type NewLanguage = InferModel<typeof languages, "insert">;
+type NewVerb = InferModel<typeof verbs, "insert">;
 
 const insertLanguage = async (language: NewLanguage) => {
   return db.insert(languages).values(language).onConflictDoNothing;
+};
+
+const insertVerb = async (verb: NewVerb) => {
+  return db.insert(verbs).values(verb).onConflictDoNothing;
 };
 
 const seed = async () => {
@@ -21,32 +32,26 @@ const seed = async () => {
       englishName: "Portuguese",
       nativeName: "Português",
     });
-    /**
+
     console.log("seeding verbs");
     fs.createReadStream(path.resolve(__dirname, "..", "csvs", "verbs.csv"))
       .pipe(csv.parse({ headers: true }))
       .pipe(csv.format({ headers: true }))
       .transform(async (row: any, next: any) => {
-        const { language_id, infinitive, example, regular, rank } = row;
-        // Using upsert as a "find or create" type function
-        // Seems to be skipping the last couple verbs?
-        await prisma.verb.upsert({
-          where: { infinitive },
-          update: {
-            regular: !!parseInt(regular),
-          },
-          create: {
-            infinitive,
-            example,
-            rank: parseInt(rank),
-            regular: !!parseInt(regular),
-            language: { connect: { id: parseInt(language_id) } },
-          },
-        });
+        const { id, language_id, infinitive, example, regular, rank } = row;
+        const values: NewVerb = {
+          id,
+          languageId: language_id,
+          infinitive,
+          example,
+          regular,
+          rank,
+        };
+        insertVerb(values);
         setImmediate(() => next());
-      })
-      .on("end", () => process.exit());
+      });
 
+    /**
     console.log("seeding tenses");
     fs.createReadStream(path.resolve(__dirname, "..", "csvs", "tenses.csv"))
       .pipe(csv.parse({ headers: true }))
@@ -66,7 +71,6 @@ const seed = async () => {
         });
         setImmediate(() => next());
       })
-      .on("end", () => process.exit());
 
     console.log("seeding conjugations");
     fs.createReadStream(
@@ -89,7 +93,6 @@ const seed = async () => {
         });
         setImmediate(() => next());
       })
-      .on("end", () => process.exit());
       */
     process.exit(0);
   } catch (e) {
