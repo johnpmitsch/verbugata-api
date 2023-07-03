@@ -6,6 +6,7 @@ dotenv.config();
 export default {
   schema: "./db/schema.ts",
   out: "./db/migrations",
+  driver: "pg",
   dbCredentials: {
     connectionString: process.env.DB_URL || "not_provided",
   },

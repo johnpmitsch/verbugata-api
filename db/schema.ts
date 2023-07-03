@@ -8,7 +8,7 @@ export const users = pgTable("users", {
   lastName: text("lastName"),
 });
 
-export const languages = pgTable("Language", {
+export const languages = pgTable("language", {
   id: serial("id").primaryKey(),
   englishName: text("english_name").notNull(),
   nativeName: text("native_name").notNull(),
@@ -19,13 +19,13 @@ export const languageRelations = relations(languages, ({ many }) => ({
   verbs: many(verbs),
 }));
 
-export const tenses = pgTable("Tense", {
+export const tenses = pgTable("tense", {
   id: serial("id").primaryKey(),
   name: text("name"),
   englishName: text("english_name"),
   example: text("example"),
   example_verb: text("example_verb"),
-  languageId: integer("languageId"),
+  languageId: integer("language_id"),
 });
 
 export const tenseRelations = relations(tenses, ({ one, many }) => ({
@@ -36,13 +36,13 @@ export const tenseRelations = relations(tenses, ({ one, many }) => ({
   conjugations: many(conjugations),
 }));
 
-export const verbs = pgTable("Verb", {
+export const verbs = pgTable("verb", {
   id: serial("id").primaryKey(),
   infinitive: text("infinitive"),
   example: text("example"),
   rank: integer("rank"),
   regular: boolean("regular").default(false),
-  languageId: integer("languageId"),
+  languageId: integer("language_id"),
 });
 
 export const verbRelations = relations(verbs, ({ one, many }) => ({
@@ -53,13 +53,13 @@ export const verbRelations = relations(verbs, ({ one, many }) => ({
   conjugations: many(conjugations),
 }));
 
-export const conjugations = pgTable("Conjugation", {
+export const conjugations = pgTable("conjugation", {
   id: serial("id").primaryKey(),
   pronoun: text("pronoun"),
   finite: text("finite"),
   example: text("example"),
-  verbId: integer("verbId"),
-  tenseId: integer("tenseId"),
+  verbId: integer("verb_id"),
+  tenseId: integer("tense_id"),
 });
 
 export const conjugationsRelations = relations(conjugations, ({ one }) => ({
