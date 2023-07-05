@@ -1,8 +1,8 @@
 Arguments: 
-  /Users/johnmitsch/.nvm/versions/node/v20.3.1/bin/node /opt/homebrew/bin/yarn run seed
+  /Users/johnmitsch/.nvm/versions/node/v20.3.1/bin/node /opt/homebrew/bin/yarn add @types/fastify
 
 PATH: 
-  /Users/johnmitsch/.local/bin:/Users/johnmitsch/.rd/bin:/Users/johnmitsch/.yarn/bin:/Users/johnmitsch/Downloads/google-cloud-sdk/bin:/Users/johnmitsch/.nvm/versions/node/v20.3.1/bin:/Users/johnmitsch/.rbenv/shims:/Users/johnmitsch/.orbstack/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Library/Apple/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/johnmitsch/.cargo/bin:/Users/johnmitsch/.config/yarn/global/node_modules/.bin
+  /Users/johnmitsch/.local/share/nvim/mason/bin:/Users/johnmitsch/.local/bin:/Users/johnmitsch/.rd/bin:/Users/johnmitsch/.yarn/bin:/Users/johnmitsch/Downloads/google-cloud-sdk/bin:/Users/johnmitsch/.nvm/versions/node/v20.3.1/bin:/Users/johnmitsch/.rbenv/shims:/Users/johnmitsch/.orbstack/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Library/Apple/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/johnmitsch/.cargo/bin:/Users/johnmitsch/.config/yarn/global/node_modules/.bin
 
 Yarn version: 
   1.22.18
@@ -14,12 +14,17 @@ Platform:
   darwin arm64
 
 Trace: 
-  SyntaxError: /Users/johnmitsch/personal/verbugata-api/package.json: Expected double-quoted property name in JSON at position 469
-      at JSON.parse (<anonymous>)
-      at /opt/homebrew/lib/node_modules/yarn/lib/cli.js:1625:59
-      at Generator.next (<anonymous>)
-      at step (/opt/homebrew/lib/node_modules/yarn/lib/cli.js:310:30)
-      at /opt/homebrew/lib/node_modules/yarn/lib/cli.js:321:13
+  Error: https://registry.yarnpkg.com/@types%2ffastify: Not found
+      at params.callback [as _callback] (/opt/homebrew/lib/node_modules/yarn/lib/cli.js:66138:18)
+      at self.callback (/opt/homebrew/lib/node_modules/yarn/lib/cli.js:140883:22)
+      at Request.emit (node:events:511:28)
+      at Request.<anonymous> (/opt/homebrew/lib/node_modules/yarn/lib/cli.js:141855:10)
+      at Request.emit (node:events:511:28)
+      at IncomingMessage.<anonymous> (/opt/homebrew/lib/node_modules/yarn/lib/cli.js:141777:12)
+      at Object.onceWrapper (node:events:625:28)
+      at IncomingMessage.emit (node:events:523:35)
+      at endReadableNT (node:internal/streams/readable:1367:12)
+      at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
 
 npm manifest: 
   {
@@ -38,7 +43,7 @@ npm manifest:
       "generate-migrations": "npx drizzle-kit generate:pg",
       "migrate": "npx tsx ./db/migrate.ts",
       "studio": "npx drizzle-kit studio",
-      "seed": "npx tsx ./db/seed.ts",
+      "seed": "npx tsx ./scripts/seed.ts"
     },
     "dependencies": {
       "drizzle-orm": "^0.27.0",
@@ -53,7 +58,8 @@ npm manifest:
       "nodemon": "^2.0.22",
       "pg": "^8.11.1",
       "tsx": "^3.12.7",
-      "typescript": "^5.1.6"
+      "typescript": "^5.1.6",
+      "papaparse": "^5.4.1"
     }
   }
 
@@ -1054,6 +1060,11 @@ Lockfile:
     version "1.0.0"
     resolved "https://registry.yarnpkg.com/packet-reader/-/packet-reader-1.0.0.tgz#9238e5480dedabacfe1fe3f2771063f164157d74"
     integrity sha512-HAKu/fG3HpHFO0AA8WE8q2g+gBJaZ9MG7fcKk+IJPLTGAD6Psw4443l+9DGRbOIh3/aXr7Phy0TjilYivJo5XQ==
+  
+  papaparse@^5.4.1:
+    version "5.4.1"
+    resolved "https://registry.yarnpkg.com/papaparse/-/papaparse-5.4.1.tgz#f45c0f871853578bd3a30f92d96fdcfb6ebea127"
+    integrity sha512-HipMsgJkZu8br23pW15uvo6sib6wne/4woLZPlFf3rpDyMe9ywEXUsuD7+6K9PRkJlVT51j/sCOYDKGGS3ZJrw==
   
   pg-cloudflare@^1.1.1:
     version "1.1.1"

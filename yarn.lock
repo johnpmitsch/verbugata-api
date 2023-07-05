@@ -277,6 +277,21 @@
   dependencies:
     fast-json-stringify "^5.7.0"
 
+"@fastify/type-provider-json-schema-to-ts@^2.2.2":
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/@fastify/type-provider-json-schema-to-ts/-/type-provider-json-schema-to-ts-2.2.2.tgz#84caf8aeb0e99fca78e74003655af7406b8b3001"
+  integrity sha512-RMnlf5JxojQt/LqgsQLDyNfQmuO/L+0GwHxsVGRBBSlYC4K45q7e2x1Rh6o8/VgvuwCK+cohQAvbrU0q3ixdbw==
+
+"@fastify/type-provider-typebox@^3.2.0":
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/@fastify/type-provider-typebox/-/type-provider-typebox-3.2.0.tgz#9fe7e7bfec98160d931acf315976e96e076eac99"
+  integrity sha512-Ec+dHVfb9wovQ/jclkDbzTshHTtSsDmTGhls6S/TM3QIcx7682Jq8/W0kHXW3ylBUBEtcel87B+PuwH17TRDAw==
+
+"@sinclair/typebox@^0.29.3":
+  version "0.29.3"
+  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.29.3.tgz#26a8f5ee265ce487166568c3796723e1a9958f50"
+  integrity sha512-j793DNq5m+GdEp7s8O4CUyumrjEwu9Kj8vsokAdeK/3aHQ35eFYOJn5WWIFexVOCWjLTZhWir04vsBLCaZM2xw==
+
 "@types/node@*", "@types/node@^20.3.3":
   version "20.3.3"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-20.3.3.tgz#329842940042d2b280897150e023e604d11657d6"

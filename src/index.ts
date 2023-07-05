@@ -1,32 +1,50 @@
-import Fastify, { FastifyInstance, RouteShorthandOptions } from "fastify";
 import { drizzle } from "drizzle-orm/postgres-js";
 import postgres from "postgres";
 import dotenv from "dotenv";
-dotenv.config();
+import { FastifyInstance } from "fastify";
+import { Static, createServer, Type } from "@fastify/type-provider-typebox";
 
+dotenv.config();
 const sql = postgres(process.env["DB_URL"] || "missingDB_URL", {});
 const db = drizzle(sql);
 console.log(db);
 
-const server: FastifyInstance = Fastify({});
+const User = Type.Object({
+  name: Type.String(),
+  age: Type.Number(),
+  email: Type.Optional(Type.String({ format: "email" })),
+});
 
-const opts: RouteShorthandOptions = {
-  schema: {
-    response: {
-      200: {
-        type: "object",
-        properties: {
-          pong: {
-            type: "string",
-          },
-        },
+const server: FastifyInstance = createServer();
+type UserType = Static<typeof User>;
+server.get<{ Params: { id: string }; Response: UserType }>(
+  "/api/user/:id",
+  {
+    schema: {
+      params: Type.Object({
+        id: Type.String(),
+      }),
+      response: {
+        200: User,
       },
     },
   },
-};
+  async (request, reply) => {
+    // Retrieve the user from the database using request.params.id
 
-server.get("/ping", opts, async (_request, _reply) => {
-  return { pong: "it worked!" };
+    // Here is an example response.
+    const response: UserType = {
+      name: "Alice",
+      age: 25,
+      email: "alice@example.com",
+    };
+
+    return reply.status(200).send(response);
+  }
+);
+
+server.get(`/:language/tenses`, opts, async (_request, _reply) => {
+  const { userId } = request.params;
 });
 
 const start = async () => {
